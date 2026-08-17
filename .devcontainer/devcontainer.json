@@ -1,0 +1,35 @@
+{
+  "name": "api-gateway (Spring Cloud Gateway)",
+  "image": "mcr.microsoft.com/devcontainers/java:1-17-bullseye",
+  "workspaceFolder": "/workspace",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "17",
+      "installMaven": "true"
+    }
+  },
+  "forwardPorts": [8400],
+  "portsAttributes": {
+    "8400": { "label": "api-gateway" }
+  },
+  "containerEnv": {
+    "SERVER_PORT": "8400",
+    "SPRING_APPLICATION_NAME": "api-gateway",
+    "CORS_ALLOWED_ORIGINS": "http://localhost:3000,http://localhost:5173",
+    "JAVA_BACKEND_URI": "http://host.docker.internal:8401",
+    "PYTHON_AI_URI": "http://host.docker.internal:8402",
+    "JWT_SECRET": "Unisage_Enterprise_Assistant_Authentication_Secret_Key",
+    "INTERNAL_SECRET_KEY": "unisage-internal-secret-key-2026"
+  },
+  "postCreateCommand": "sh ./mvnw -q -DskipTests dependency:go-offline",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "vmware.vscode-spring-boot"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}

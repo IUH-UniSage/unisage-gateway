@@ -1,0 +1,39 @@
+server:
+  port: ${SERVER_PORT:8889}
+
+spring:
+  application:
+    name: ${SPRING_APPLICATION_NAME:api-gateway}
+  cloud:
+    gateway:
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            allowedOriginPatterns: ${CORS_ALLOWED_ORIGINS:http://localhost:3000,http://localhost:5173}
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - PATCH
+              - DELETE
+              - OPTIONS
+            allowedHeaders: "*"
+            allowCredentials: true
+      routes:
+        - id: java-master-data-route
+          uri: ${JAVA_BACKEND_URI:http://localhost:8081}
+          predicates:
+            - Path=/api/v1/master/**
+          filters:
+            - RewritePath=/api/v1/master/(?<segment>.*), /api/v1/$\{segment}
+
+        - id: python-ai-agent-route
+          uri: ${PYTHON_AI_URI:http://localhost:8000}
+          predicates:
+            - Path=/api/v1/ai/**
+          filters:
+            - RewritePath=/api/v1/ai/(?<segment>.*), /api/v1/$\{segment}
+            - AddRequestHeader=X-Internal-Secret, ${INTERNAL_SECRET_KEY:unisage-internal-secret-key-2026}
+
+jwt:
+  secret: ${JWT_SECRET:Unisage_Enterprise_Assistant_Authentication_Secret_Key}
