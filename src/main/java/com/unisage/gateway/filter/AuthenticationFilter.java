@@ -32,15 +32,18 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
     private final JwtValidator jwtValidator;
     private final ObjectMapper objectMapper;
     private final List<PathPattern> publicPathPatterns;
+    private final List<PathPattern> optionalAuthPathPatterns;
 
     private static final String ACCESS_TOKEN_COOKIE_NAME = "accessToken";
     private static final String DEPARTMENT_ACCESS_HEADER = "X-User-Department-Access";
     private static final String PERMISSIONS_HEADER = "X-User-Permissions";
+    private static final String USER_ID_HEADER = "X-User-Id";
+    private static final String USER_ROLE_HEADER = "X-User-Role";
+    private static final String USER_CODE_HEADER = "X-User-Code";
     private static final String EMPTY_JSON_ARRAY = "[]";
 
     private static final List<String> PUBLIC_PATHS = List.of(
             "/api/v1/master/auth/**",
-            "/api/v1/ai/chat/stream",
             "/swagger-ui/**",
             "/v3/api-docs/**",
             "/swagger-resources/**",
@@ -48,11 +51,23 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
             "/actuator/health"
     );
 
+    /**
+     * Paths that support BOTH logged-in users and anonymous guests: if a Bearer token is present it
+     * is validated exactly like a private path (invalid/expired -> 401), but its absence is not an
+     * error — the request proceeds with no X-User-* headers and downstream treats it as anonymous.
+     */
+    private static final List<String> OPTIONAL_AUTH_PATHS = List.of(
+            "/api/v1/ai/chat/stream"
+    );
+
     public AuthenticationFilter(JwtValidator jwtValidator, ObjectMapper objectMapper) {
         this.jwtValidator = jwtValidator;
         this.objectMapper = objectMapper;
         PathPatternParser parser = new PathPatternParser();
         this.publicPathPatterns = PUBLIC_PATHS.stream()
+                .map(parser::parse)
+                .toList();
+        this.optionalAuthPathPatterns = OPTIONAL_AUTH_PATHS.stream()
                 .map(parser::parse)
                 .toList();
     }
@@ -81,6 +96,11 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
         }
 
         String token = extractToken(request);
+
+        if (isOptionalAuthPath(path) && token == null) {
+            return chain.filter(exchange.mutate().request(requestBuilder.build()).build());
+        }
+
         Optional<Claims> claims = token == null ? Optional.empty() : jwtValidator.parseIfValidAccessToken(token);
 
         if (claims.isEmpty()) {
@@ -91,6 +111,9 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
         requestBuilder.header(HttpHeaders.AUTHORIZATION, "Bearer " + token);
         requestBuilder.header(DEPARTMENT_ACCESS_HEADER, toJsonArray(claims.get().get("department_access", List.class)));
         requestBuilder.header(PERMISSIONS_HEADER, toJsonArray(claims.get().get("permissions", List.class)));
+        requestBuilder.header(USER_ID_HEADER, claims.get().getSubject());
+        requestBuilder.header(USER_ROLE_HEADER, claims.get().get("role", String.class));
+        requestBuilder.header(USER_CODE_HEADER, claims.get().get("code", String.class));
 
         return chain.filter(exchange.mutate().request(requestBuilder.build()).build());
     }
@@ -110,6 +133,11 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
     private boolean isPublicPath(String path) {
         PathContainer pathContainer = PathContainer.parsePath(path);
         return publicPathPatterns.stream().anyMatch(pattern -> pattern.matches(pathContainer));
+    }
+
+    private boolean isOptionalAuthPath(String path) {
+        PathContainer pathContainer = PathContainer.parsePath(path);
+        return optionalAuthPathPatterns.stream().anyMatch(pattern -> pattern.matches(pathContainer));
     }
 
     private boolean isPreflightRequest(ServerHttpRequest request) {
