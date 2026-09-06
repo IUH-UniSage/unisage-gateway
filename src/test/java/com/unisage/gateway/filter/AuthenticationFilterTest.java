@@ -151,6 +151,22 @@ class AuthenticationFilterTest {
         assertThat(forwarded.getHeaders().getFirst("X-User-Code")).isNull();
     }
 
+    @Test
+    void optionalAuthPath_conversationsCreate_noToken_proceedsWithNoUserHeaders() {
+        // POST /conversations must stay reachable by guests - backend-java
+        // creates it with ownerId=null (see ConversationController.create).
+        MockServerHttpRequest request = MockServerHttpRequest
+                .post("/api/v1/master/conversations")
+                .build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertThat(exchange.getResponse().getStatusCode()).isNull();
+        assertThat(chain.captured.get()).isNotNull();
+    }
+
     // ---- Existing public path behavior must be unaffected ----
 
     @Test

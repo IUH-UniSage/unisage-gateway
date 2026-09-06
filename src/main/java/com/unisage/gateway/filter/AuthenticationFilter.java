@@ -57,7 +57,8 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
      * error — the request proceeds with no X-User-* headers and downstream treats it as anonymous.
      */
     private static final List<String> OPTIONAL_AUTH_PATHS = List.of(
-            "/api/v1/ai/chat/stream"
+            "/api/v1/ai/chat/stream",
+            "/api/v1/master/conversations"
     );
 
     public AuthenticationFilter(JwtValidator jwtValidator, ObjectMapper objectMapper) {
