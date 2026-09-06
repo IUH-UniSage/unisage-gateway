@@ -58,7 +58,9 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
      */
     private static final List<String> OPTIONAL_AUTH_PATHS = List.of(
             "/api/v1/ai/chat/stream",
-            "/api/v1/master/conversations"
+            "/api/v1/master/conversations",
+            "/api/v1/master/messages",
+            "/api/v1/master/messages/conversation/**"
     );
 
     public AuthenticationFilter(JwtValidator jwtValidator, ObjectMapper objectMapper) {

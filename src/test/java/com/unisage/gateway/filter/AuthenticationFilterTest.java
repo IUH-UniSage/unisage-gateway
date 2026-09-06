@@ -167,6 +167,36 @@ class AuthenticationFilterTest {
         assertThat(chain.captured.get()).isNotNull();
     }
 
+    @Test
+    void optionalAuthPath_sendMessage_noToken_proceedsWithNoUserHeaders() {
+        // POST /messages must stay reachable by guests too - backend-java marks
+        // it public and enforces IP-based guest ownership itself.
+        MockServerHttpRequest request = MockServerHttpRequest
+                .post("/api/v1/master/messages")
+                .build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertThat(exchange.getResponse().getStatusCode()).isNull();
+        assertThat(chain.captured.get()).isNotNull();
+    }
+
+    @Test
+    void optionalAuthPath_getMessagesByConversation_noToken_proceedsWithNoUserHeaders() {
+        MockServerHttpRequest request = MockServerHttpRequest
+                .get("/api/v1/master/messages/conversation/conv-123")
+                .build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertThat(exchange.getResponse().getStatusCode()).isNull();
+        assertThat(chain.captured.get()).isNotNull();
+    }
+
     // ---- Existing public path behavior must be unaffected ----
 
     @Test
