@@ -8,7 +8,7 @@ spring:
     gateway:
       globalcors:
         cors-configurations:
-          '[/**]':
+          "[/**]":
             allowedOriginPatterns: ${CORS_ALLOWED_ORIGINS:http://localhost:3000,http://localhost:5173}
             allowedMethods:
               - GET
@@ -21,14 +21,14 @@ spring:
             allowCredentials: true
       routes:
         - id: java-master-data-route
-          uri: ${JAVA_BACKEND_URI:http://localhost:8081}
+          uri: ${JAVA_BACKEND_URI:http://localhost:8401}
           predicates:
             - Path=/api/v1/master/**
           filters:
             - RewritePath=/api/v1/master/(?<segment>.*), /api/v1/$\{segment}
 
         - id: python-ai-agent-route
-          uri: ${PYTHON_AI_URI:http://localhost:8000}
+          uri: ${PYTHON_AI_URI:http://localhost:8402}
           predicates:
             - Path=/api/v1/ai/**
           filters:
