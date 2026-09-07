@@ -170,9 +170,26 @@ class AuthenticationFilterTest {
     @Test
     void optionalAuthPath_sendMessage_noToken_proceedsWithNoUserHeaders() {
         // POST /messages must stay reachable by guests too - backend-java marks
-        // it public and enforces IP-based guest ownership itself.
+        // it public and enforces guest-session-cookie-based ownership itself.
         MockServerHttpRequest request = MockServerHttpRequest
                 .post("/api/v1/master/messages")
+                .build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertThat(exchange.getResponse().getStatusCode()).isNull();
+        assertThat(chain.captured.get()).isNotNull();
+    }
+
+    @Test
+    void optionalAuthPath_getGuestConversations_noToken_proceedsWithNoUserHeaders() {
+        // GET /conversations/guest must stay reachable by guests - identity comes
+        // exclusively from the guest_session_id cookie, resolved by backend-java
+        // itself, never from a token or client-supplied id.
+        MockServerHttpRequest request = MockServerHttpRequest
+                .get("/api/v1/master/conversations/guest")
                 .build();
         MockServerWebExchange exchange = MockServerWebExchange.from(request);
         CapturingChain chain = new CapturingChain();
