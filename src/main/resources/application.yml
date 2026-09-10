@@ -1,11 +1,19 @@
 server:
   port: ${SERVER_PORT:8889}
+  # SUPER_ADMIN tokens grow one department_access entry per department. Once the
+  # full org tree is seeded the browser sends the ~5 KB JWT in both the cookie and
+  # the Authorization header, and the gateway then forwards it plus the expanded
+  # X-User-* headers — both blow past the 8 KB reactor-netty default and the token
+  # is silently truncated, so every request 401s with "Unauthenticated". 64 KB.
+  max-http-header-size: 65536
 
 spring:
   application:
     name: ${SPRING_APPLICATION_NAME:api-gateway}
   cloud:
     gateway:
+      httpclient:
+        max-header-size: 65536
       globalcors:
         cors-configurations:
           "[/**]":
