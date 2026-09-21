@@ -184,6 +184,22 @@ class AuthenticationFilterTest {
     }
 
     @Test
+    void optionalAuthPath_getMyUsageLimits_noToken_proceedsWithNoUserHeaders() {
+        // GET /usage-limits/me must stay reachable by guests - their quota is looked up by the
+        // guest_session_id cookie that backend-java resolves itself.
+        MockServerHttpRequest request = MockServerHttpRequest
+                .get("/api/v1/master/usage-limits/me")
+                .build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertThat(exchange.getResponse().getStatusCode()).isNull();
+        assertThat(chain.captured.get()).isNotNull();
+    }
+
+    @Test
     void optionalAuthPath_getGuestConversations_noToken_proceedsWithNoUserHeaders() {
         // GET /conversations/guest must stay reachable by guests - identity comes
         // exclusively from the guest_session_id cookie, resolved by backend-java
