@@ -61,7 +61,8 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
             "/api/v1/master/conversations",
             "/api/v1/master/conversations/guest",
             "/api/v1/master/messages",
-            "/api/v1/master/messages/conversation/**"
+            "/api/v1/master/messages/conversation/**",
+            "/api/v1/master/usage-limits/me"
     );
 
     public AuthenticationFilter(JwtValidator jwtValidator, ObjectMapper objectMapper) {
