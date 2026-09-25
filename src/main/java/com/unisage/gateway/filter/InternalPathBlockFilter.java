@@ -15,12 +15,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.server.ServerWebExchange;
 import reactor.core.publisher.Mono;
 
-/**
- * Rejects /api/v1/{master,ai}/internal/** before AuthenticationFilter runs, so a request with no
- * JWT gets the same 404 as one with a valid JWT — a route-based block would 401 the first case and
- * leak that the path exists. Matches on the raw (still-encoded) path: a decoded match alone would
- * treat %252F (double-encoded) as already-safe %2F after one decode pass.
- */
+/** Rejects /api/v1/{master,ai}/internal/** before AuthenticationFilter runs, on the raw path. */
 @Component
 public class InternalPathBlockFilter implements GlobalFilter, Ordered {
 
