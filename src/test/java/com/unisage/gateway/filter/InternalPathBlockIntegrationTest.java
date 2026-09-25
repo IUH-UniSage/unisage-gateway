@@ -11,14 +11,20 @@ import java.util.stream.Stream;
 
 import javax.crypto.SecretKey;
 
+import ch.qos.logback.classic.Logger;
+import ch.qos.logback.classic.spi.ILoggingEvent;
+import ch.qos.logback.core.read.ListAppender;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
 import okhttp3.mockwebserver.MockWebServer;
 import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.web.server.LocalServerPort;
 import org.springframework.test.context.DynamicPropertyRegistry;
@@ -26,6 +32,8 @@ import org.springframework.test.context.DynamicPropertySource;
 import org.springframework.test.web.reactive.server.WebTestClient;
 
 import java.nio.charset.StandardCharsets;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 /**
  * Real filter chain, real routing, backend replaced by a MockWebServer. Its own context +
@@ -54,6 +62,38 @@ class InternalPathBlockIntegrationTest {
     @AfterAll
     static void tearDown() throws IOException {
         blockedBackend.shutdown();
+    }
+
+    // ── Raw-path capture: proves the filter received the exact bytes the test sent, not a
+    // client-side-normalized path — a client (or WebTestClient) that silently decoded the
+    // request target before writing it to the wire would otherwise produce a "false green" 404
+    // for the wrong reason. InternalPathBlockFilter logs the raw path on every rejection, so a
+    // Logback ListAppender captures it without changing production code. ────────────────────
+    private static final Logger FILTER_LOGGER =
+            (Logger) LoggerFactory.getLogger(InternalPathBlockFilter.class);
+    private static final String REJECT_LOG_PREFIX = "Blocked external access to internal path: ";
+    private final ListAppender<ILoggingEvent> logAppender = new ListAppender<>();
+
+    @BeforeEach
+    void attachLogCapture() {
+        logAppender.start();
+        FILTER_LOGGER.addAppender(logAppender);
+    }
+
+    @AfterEach
+    void detachLogCapture() {
+        FILTER_LOGGER.detachAppender(logAppender);
+        logAppender.stop();
+    }
+
+    /** The exact raw path the filter saw in its most recent rejection log line, if any. */
+    private String lastRawPathSeenByFilter() {
+        return logAppender.list.stream()
+                .map(ILoggingEvent::getFormattedMessage)
+                .filter(msg -> msg.startsWith(REJECT_LOG_PREFIX))
+                .reduce((first, second) -> second) // last one logged
+                .map(msg -> msg.substring(REJECT_LOG_PREFIX.length()))
+                .orElse(null);
     }
 
     private String validAccessToken() {
@@ -93,6 +133,9 @@ class InternalPathBlockIntegrationTest {
                 .expectStatus().isNotFound();
 
         assertNoNewRequests(before);
+        // Not a client-side "clean" path in disguise: the filter's getRawPath() must equal
+        // exactly what this test asked for on the wire.
+        assertThat(lastRawPathSeenByFilter()).isEqualTo(rawPath);
     }
 
     @ParameterizedTest
