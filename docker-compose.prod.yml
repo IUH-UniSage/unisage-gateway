@@ -1,0 +1,24 @@
+services:
+  api-gateway:
+    build: .
+    container_name: api-gateway
+    ports:
+      - "${SERVER_PORT:-8400}:${SERVER_PORT:-8400}"
+    env_file:
+      - .ENV
+    environment:
+      - SERVER_PORT=${SERVER_PORT:-8400}
+      - SPRING_APPLICATION_NAME=${SPRING_APPLICATION_NAME:-api-gateway}
+      - CORS_ALLOWED_ORIGINS=${CORS_ALLOWED_ORIGINS}
+      - JAVA_BACKEND_URI=http://backend-java:8401
+      - PYTHON_AI_URI=http://unisage-agent:8402
+      - JWT_SECRET=${JWT_SECRET}
+      - INTERNAL_SECRET_KEY=${INTERNAL_SECRET_KEY}
+    networks:
+      - unisage-prod
+
+# Shared with backend-java's and unisage-agent's docker-compose.prod.yml — create once with
+# `docker network create unisage-prod` before starting any of the 3 stacks.
+networks:
+  unisage-prod:
+    external: true
