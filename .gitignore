@@ -28,3 +28,4 @@ _to_delete
 dataset/files/
 dataset/scanned_pdf/
 dataset/*.tmp
+dataset/question_work/excerpts/
