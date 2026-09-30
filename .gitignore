@@ -24,3 +24,7 @@ Desktop.ini
 .DS_Store
 changes
 _to_delete
+### RAG evaluation dataset (PDFs are large and re-downloadable; CSVs are committed)
+dataset/files/
+dataset/scanned_pdf/
+dataset/*.tmp
