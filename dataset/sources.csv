@@ -1,0 +1,43 @@
+url,host,unit,campus,pages_crawled,pdf_count,other_doc_count,drive_count,tls_verified,error,approved
+https://camnang.iuh.edu.vn/,camnang.iuh.edu.vn,Cẩm nang người học,HCM,63,2,0,0,true,,true
+https://ce.iuh.edu.vn/,ce.iuh.edu.vn,Khoa Kỹ thuật Xây dựng,HCM,435,47,9,2,true,,true
+https://csm.iuh.edu.vn/,csm.iuh.edu.vn,Trung tâm Quản trị Hệ thống,HCM,113,23,0,0,true,,true
+https://ctdt.iuh.edu.vn/,ctdt.iuh.edu.vn,Phòng Đào tạo,HCM,1,0,0,0,false,,true
+https://ctsv.iuh.edu.vn/,ctsv.iuh.edu.vn,Phòng Công tác chính trị và Hỗ trợ sinh viên,HCM,500,13,2,0,true,,true
+https://cuusinhvien.iuh.edu.vn/,cuusinhvien.iuh.edu.vn,Chuyên trang Cựu sinh viên,HCM,94,0,0,1,true,,true
+https://doantn.iuh.edu.vn/,doantn.iuh.edu.vn,Đoàn Thanh niên,HCM,6,0,0,0,true,,true
+https://faet.iuh.edu.vn/,faet.iuh.edu.vn,Khoa Công nghệ Động lực,HCM,500,76,13,10,true,,true
+https://fba.iuh.edu.vn/,fba.iuh.edu.vn,Khoa Quản trị Kinh doanh,HCM,500,71,8,10,false,,true
+https://fce.iuh.edu.vn/,fce.iuh.edu.vn,Khoa Công nghệ Hóa học,HCM,500,119,18,7,false,,true
+https://fct.iuh.edu.vn/,fct.iuh.edu.vn,Khoa Thương mại - Du lịch,HCM,500,71,40,21,true,,true
+https://feet.iuh.edu.vn/,feet.iuh.edu.vn,Khoa Công nghệ Điện,HCM,500,105,23,33,true,,true
+https://fet.iuh.edu.vn/,fet.iuh.edu.vn,Khoa Công nghệ Điện tử,HCM,500,71,8,12,true,,true
+https://ffl.iuh.edu.vn/,ffl.iuh.edu.vn,Khoa Ngoại ngữ,HCM,500,71,119,13,true,,true
+https://ffs.iuh.edu.vn/,ffs.iuh.edu.vn,Khoa Khoa học Cơ bản,HCM,0,0,0,0,true,ConnectError: [Errno -2] Name or service not known,true
+https://fgd.iuh.edu.vn/,fgd.iuh.edu.vn,Khoa Công nghệ May - Thời trang,HCM,500,74,6,23,false,,true
+https://fhre.iuh.edu.vn/,fhre.iuh.edu.vn,Khoa Công nghệ Nhiệt - Lạnh,HCM,500,11,12,88,true,,true
+https://fhs.iuh.edu.vn/,fhs.iuh.edu.vn,Khoa Khoa học Sức khỏe,HCM,124,9,9,4,true,,true
+https://fit.iuh.edu.vn/,fit.iuh.edu.vn,Khoa Công nghệ thông tin,HCM,500,88,101,72,true,,true
+https://flcenter.iuh.edu.vn/,flcenter.iuh.edu.vn,Trung tâm Ngoại ngữ - Tin học,HCM,0,0,0,0,false,,true
+https://flp.iuh.edu.vn/,flp.iuh.edu.vn,Khoa Luật và Khoa học chính trị,HCM,381,89,3,25,false,,true
+https://fme.iuh.edu.vn/,fme.iuh.edu.vn,Khoa Công nghệ Cơ khí,HCM,500,115,27,2,false,,true
+https://htsv.iuh.edu.vn/,htsv.iuh.edu.vn,Trung tâm Kết nối doanh nghiệp và Giới thiệu việc làm,HCM,500,31,44,47,true,,true
+https://ibf.iuh.edu.vn/,ibf.iuh.edu.vn,Viện Công nghệ Sinh học và Thực phẩm,HCM,500,95,60,17,false,,true
+https://ipe.iuh.edu.vn/,ipe.iuh.edu.vn,Viện Đào tạo Quốc tế và Sau đại học,HCM,500,181,111,11,false,,true
+https://itc.iuh.edu.vn/,itc.iuh.edu.vn,Trung tâm Ngoại ngữ - Tin học,HCM,500,9,0,0,true,,true
+https://iuh.edu.vn/,iuh.edu.vn,Trường (trang chính),HCM,500,69,0,16,true,,true
+https://jst.iuh.edu.vn/,jst.iuh.edu.vn,Tạp chí Khoa học và Công nghệ - IUH,HCM,500,0,1,0,false,,true
+https://ktx.iuh.edu.vn/,ktx.iuh.edu.vn,Phòng Quản lý Ký túc xá,HCM,78,31,4,2,true,,true
+https://lib.iuh.edu.vn/,lib.iuh.edu.vn,Trung tâm Thư viện,HCM,7,0,0,0,true,,true
+https://pdt.iuh.edu.vn/,pdt.iuh.edu.vn,Phòng Đào tạo,HCM,99,72,3,0,false,,true
+https://ptchc.iuh.edu.vn/,ptchc.iuh.edu.vn,Phòng Tổ chức - Hành chính,HCM,0,0,0,0,false,,true
+https://ptckt.iuh.edu.vn/,ptckt.iuh.edu.vn,Phòng Tài chính - Kế toán,HCM,31,8,10,0,true,,true
+https://qn.iuh.edu.vn/,qn.iuh.edu.vn,Phân hiệu Quảng Ngãi,Quảng Ngãi,500,97,4,1,false,,true
+https://qptc.iuh.edu.vn/,qptc.iuh.edu.vn,Trung tâm Giáo dục quốc phòng và Thể chất,HCM,52,3,1,9,false,,true
+https://rdtech.iuh.edu.vn/,rdtech.iuh.edu.vn,Trung tâm Nghiên cứu và Phát triển công nghệ - Máy công nghiệp,HCM,32,3,1,0,true,,true
+https://sfa.iuh.edu.vn/,sfa.iuh.edu.vn,Viện Tài chính - Kế toán,HCM,500,113,17,6,true,,true
+https://smia.iuh.edu.vn/,smia.iuh.edu.vn,Phòng Quản lý khoa học và hợp tác quốc tế,HCM,500,116,76,108,true,,true
+https://th.iuh.edu.vn/,th.iuh.edu.vn,Cơ sở Thanh Hóa,Thanh Hóa,234,65,2,0,false,,true
+https://tqa.iuh.edu.vn/,tqa.iuh.edu.vn,Phòng Khảo thí và Đảm bảo chất lượng,HCM,500,329,93,68,false,,true
+https://tuyensinh.iuh.edu.vn/,tuyensinh.iuh.edu.vn,Tuyển sinh,HCM,41,23,0,0,false,,true
+https://youth.iuh.edu.vn/,youth.iuh.edu.vn,Đoàn Thanh niên,HCM,500,0,0,1,true,,true
