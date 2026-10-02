@@ -42,6 +42,16 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
     private static final String USER_CODE_HEADER = "X-User-Code";
     private static final String EMPTY_JSON_ARRAY = "[]";
 
+    /**
+     * Identity headers only this filter may set. Downstream services trust them blindly, so any
+     * copy the client sent itself is dropped first - otherwise a request without a token (guest
+     * or public path) would forward e.g. a forged X-User-Department-Access untouched.
+     */
+    private static final List<String> TRUSTED_IDENTITY_HEADERS = List.of(
+            USER_ID_HEADER, USER_ROLE_HEADER, USER_CODE_HEADER,
+            DEPARTMENT_ACCESS_HEADER, PERMISSIONS_HEADER
+    );
+
     private static final List<String> PUBLIC_PATHS = List.of(
             "/api/v1/master/auth/**",
             "/swagger-ui/**",
@@ -54,7 +64,8 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
     /**
      * Paths that support BOTH logged-in users and anonymous guests: if a Bearer token is present it
      * is validated exactly like a private path (invalid/expired -> 401), but its absence is not an
-     * error — the request proceeds with no X-User-* headers and downstream treats it as anonymous.
+     * error — the request proceeds with no X-User-* headers (any the client sent are stripped, see
+     * TRUSTED_IDENTITY_HEADERS) and downstream treats it as anonymous.
      */
     private static final List<String> OPTIONAL_AUTH_PATHS = List.of(
             "/api/v1/ai/chat/stream",
@@ -91,7 +102,8 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
         }
 
         ServerHttpRequest.Builder requestBuilder = request.mutate()
-                .header("X-Request-ID", requestId);
+                .header("X-Request-ID", requestId)
+                .headers(headers -> TRUSTED_IDENTITY_HEADERS.forEach(headers::remove));
 
         String path = request.getURI().getPath();
         log.debug("Gateway matching path: {} [Trace ID: {}]", path, requestId);
