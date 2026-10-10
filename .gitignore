@@ -31,3 +31,5 @@ dataset/**/scanned_pdf/
 dataset/**/excerpts/
 dataset/**/*.tmp
 dataset/.cache/
+# Hugging Face LFS rules for the dataset repo, not for this git repo
+dataset/**/.gitattributes
