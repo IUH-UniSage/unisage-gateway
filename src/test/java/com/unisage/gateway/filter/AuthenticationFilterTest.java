@@ -294,4 +294,65 @@ class AuthenticationFilterTest {
         assertThat(forwarded.getHeaders().getFirst("X-User-Role")).isEqualTo("ADMIN");
         assertThat(forwarded.getHeaders().getFirst("X-User-Code")).isEqualTo("EMP001");
     }
+
+    // ---- Client-supplied identity headers must never reach a downstream service ----
+
+    private static MockServerHttpRequest.BaseBuilder<?> withSpoofedIdentity(
+            MockServerHttpRequest.BaseBuilder<?> builder) {
+        return builder
+                .header("X-User-Id", "attacker")
+                .header("X-User-Role", "SUPER_ADMIN")
+                .header("X-User-Code", "SA-001")
+                .header("X-User-Department-Access", "[{\"department_id\":\"*\",\"access_level\":5}]")
+                .header("X-User-Permissions", "[\"CHAT_MODEL_ALL\"]");
+    }
+
+    private static void assertNoUserHeaders(ServerHttpRequest forwarded) {
+        for (String header : List.of("X-User-Id", "X-User-Role", "X-User-Code",
+                "X-User-Department-Access", "X-User-Permissions")) {
+            assertThat(forwarded.getHeaders().get(header)).as(header).isNull();
+        }
+    }
+
+    @Test
+    void optionalAuthPath_noToken_dropsSpoofedUserHeaders() {
+        MockServerHttpRequest request = withSpoofedIdentity(
+                MockServerHttpRequest.post("/api/v1/ai/chat/stream")).build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertNoUserHeaders(chain.captured.get().getRequest());
+    }
+
+    @Test
+    void publicPath_dropsSpoofedUserHeaders() {
+        MockServerHttpRequest request = withSpoofedIdentity(
+                MockServerHttpRequest.post("/api/v1/master/auth/login")).build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertNoUserHeaders(chain.captured.get().getRequest());
+    }
+
+    @Test
+    void validToken_replacesSpoofedUserHeadersWithTheTokensClaims() {
+        MockServerHttpRequest request = withSpoofedIdentity(
+                MockServerHttpRequest.get("/api/v1/master/users/me")
+                        .header("Authorization", "Bearer " + validAccessToken())).build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        ServerHttpRequest forwarded = chain.captured.get().getRequest();
+        assertThat(forwarded.getHeaders().get("X-User-Id")).containsExactly("user-123");
+        assertThat(forwarded.getHeaders().get("X-User-Role")).containsExactly("ADMIN");
+        assertThat(forwarded.getHeaders().get("X-User-Code")).containsExactly("EMP001");
+        assertThat(forwarded.getHeaders().get("X-User-Permissions")).containsExactly("[\"READ\",\"WRITE\"]");
+        assertThat(forwarded.getHeaders().get("X-User-Department-Access")).containsExactly("[\"HR\",\"IT\"]");
+    }
 }
