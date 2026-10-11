@@ -63,9 +63,9 @@ Phân bố theo `category`:
 | category | Số câu | Ý nghĩa |
 |---|---|---|
 | `access` | 188 | Kiểm tra phân quyền: tài liệu không công khai, `expect_visible` cho biết người hỏi có được thấy hay không |
-| `normal` | 208 | Câu hỏi thông thường, có đáp án trong tài liệu (gồm câu một ý, nhiều ý, so sánh) |
+| `normal` | 210 | Câu hỏi thông thường, có đáp án trong tài liệu (gồm câu một ý, nhiều ý, so sánh) |
 | `unanswerable` | 50 | Không có đáp án trong kho tài liệu, hệ thống nên từ chối |
-| `calculation` | 61 | Cần tính toán từ số liệu trong tài liệu |
+| `calculation` | 59 | Cần tính toán từ số liệu trong tài liệu |
 | `off_topic` | 26 | Ngoài phạm vi trường |
 | `social` | 18 | Chào hỏi, giao tiếp xã giao |
 | `web_search` | 6 | Cần tìm thêm trên web |
