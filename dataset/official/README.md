@@ -54,6 +54,10 @@ chưa có câu hỏi, 30 câu `calculation` (có `expected_numbers`, 11 câu tí
 `question_user`: cùng câu hỏi nhưng viết như người dùng gõ trong khung chat (ngắn, không nêu tên tài liệu,
 một phần không dấu/viết tắt). 3 câu có `review_note` cần duyệt.
 
+Ngày 11-10-2026 thêm `question_user` cho mọi câu có đáp án (`normal`, `calculation`, `access`; 457 dòng
+của cả bộ gốc và bộ demo): cùng nhu cầu thông tin và cùng đáp án, nhưng viết như người dùng thật gõ.
+Dùng để đo khoảng cách giữa câu "chính xác" (`question`) và câu người dùng (`question_user`).
+
 Phân bố theo `category`:
 
 | category | Số câu | Ý nghĩa |
