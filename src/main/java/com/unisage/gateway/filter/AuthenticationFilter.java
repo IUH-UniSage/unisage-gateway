@@ -73,6 +73,8 @@ public class AuthenticationFilter implements GlobalFilter, Ordered {
             "/api/v1/master/conversations/guest",
             "/api/v1/master/messages",
             "/api/v1/master/messages/conversation/**",
+            "/api/v1/master/messages/*/calculation-feedback",
+            "/api/v1/master/documents/*/citation",
             "/api/v1/master/usage-limits/me"
     );
 
