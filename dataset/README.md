@@ -39,7 +39,7 @@ Repo có hai phần tách biệt:
 | Thư mục | Nội dung |
 |---|---|
 | `official/` | Bộ dữ liệu chính thức: toàn bộ 1.929 PDF và bộ 557 câu hỏi (gộp bộ gốc với bộ demo ngày 10-10-2026). |
-| `demo/` | Bộ demo nhỏ để test pipeline: 106 tài liệu chọn từ 12 phòng ban và 276 câu hỏi phủ các luồng xử lý. |
+| `demo/` | Bộ demo nhỏ để test pipeline: 106 tài liệu chọn từ 12 phòng ban và 336 câu hỏi `d*` phủ các luồng xử lý. Runner `--set demo` chạy 406 lượt: 336 câu này cộng 70 câu `q*` không cần tài liệu. |
 
 ## `official/`
 
@@ -86,7 +86,7 @@ Bộ demo để test pipeline, sửa lỗi và làm nền cho việc chấm RAGA
 | Đường dẫn | Mô tả |
 |---|---|
 | `demo/demo_manifest.csv` | 106 tài liệu demo (trỏ tới PDF trong `official/` qua `local_path`), có `demo_is_public` / `demo_access_level` và cột `orig_*` giữ giá trị gốc |
-| `demo/questions_demo.jsonl` | 276 câu hỏi (id `d0001...`), cùng schema với `questions.jsonl` cộng `case`, `routing_mode`, `expect_web_search`, `reused_from` |
+| `demo/questions_demo.jsonl` | 336 câu hỏi (id `d0001...d0336`), bản sao các dòng `source_set = demo` của `official/questions.jsonl` (file runner đọc) |
 | `demo/questions_demo_review.csv` | Cùng bộ câu hỏi dạng bảng |
 | `demo/question_work_demo/` | File trung gian (excerpts của 106 tài liệu, câu tái dùng, câu viết tay) |
 | `demo/specs.md`, `demo/plan.md`, `demo/todo.md` | Đặc tả, kế hoạch và danh sách task |
