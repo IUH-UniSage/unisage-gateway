@@ -1,0 +1,23 @@
+{
+ "nor-003": "Nguồn dùng font VNI cũ (text lỗi dạng 'Hß trÿ'); triage chưa bắt được, truy xuất có thể kém",
+ "cal-013": "Ô tính toán nhưng tài liệu là biểu mẫu trống, đã đổi thành câu hỏi sự kiện",
+ "cal-017": "Ô tính toán nhưng tài liệu là biểu mẫu, đã đổi thành câu hỏi sự kiện",
+ "cal-029": "Ô tính toán nhưng tài liệu chỉ có mục lục/giới thiệu, đã đổi thành câu hỏi sự kiện",
+ "cal-024": "Phép tính quá đơn giản (20% + 30%), cân nhắc viết lại",
+ "cal-028": "Phép tính quá đơn giản (lề 3,5 + 2 cm), cân nhắc viết lại",
+ "cal-004": "Bằng chứng chỉ trích số HK2, số HK1 (17) không nằm trong đoạn trích dẫn",
+ "nor-004": "Tài liệu là biểu mẫu; câu hỏi về trường cần điền/giấy tờ kèm theo",
+ "nor-092": "Tài liệu là biểu mẫu; câu hỏi về trường cần điền/giấy tờ kèm theo",
+ "nor-096": "Tài liệu là biểu mẫu; câu hỏi về trường cần điền/giấy tờ kèm theo",
+ "nor-100": "Tài liệu là biểu mẫu; câu hỏi về trường cần điền/giấy tờ kèm theo",
+ "nor-108": "Hồ sơ PGS/GS; kiểm tra câu hỏi có hữu ích cho người dùng thật",
+ "nor-112": "Hồ sơ PGS/GS; kiểm tra câu hỏi có hữu ích cho người dùng thật",
+ "nor-012": "Tài liệu chủ yếu là danh sách tên; câu hỏi về GV hướng dẫn một đề tài",
+ "nor-088": "Tài liệu chủ yếu là danh sách tên; câu hỏi về hướng/hội đồng",
+ "nor-034": "Tài liệu chỉ có mục lục; câu hỏi về mã ngành/ngày hoàn thành",
+ "nor-142": "Tài liệu chỉ có mục lục; câu hỏi về mã ngành/ngày hoàn thành",
+ "nor-150": "Tài liệu chỉ có mục lục; câu hỏi về mã ngành/ngày hoàn thành",
+ "nor-079": "Chi tiết 'tiến sĩ' suy ra từ tên file, không có trong đoạn trích",
+ "nor-055": "Hỏi số máy lẻ của trưởng bộ môn: kiểm tra có phải dữ liệu cá nhân không",
+ "nor-135": "Cùng phụ lục với nor-079 (bản 2025/2026): kiểm tra không trùng câu hỏi"
+}

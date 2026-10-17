@@ -230,6 +230,36 @@ class AuthenticationFilterTest {
         assertThat(chain.captured.get()).isNotNull();
     }
 
+    @Test
+    void optionalAuthPath_getDocumentCitation_noToken_proceedsWithNoUserHeaders() {
+        // A guest opening a cited public document - backend-java refuses private ones itself.
+        MockServerHttpRequest request = MockServerHttpRequest
+                .get("/api/v1/master/documents/doc-123/citation")
+                .build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertThat(exchange.getResponse().getStatusCode()).isNull();
+        assertThat(chain.captured.get()).isNotNull();
+    }
+
+    @Test
+    void optionalAuthPath_postCalculationFeedback_noToken_proceedsWithNoUserHeaders() {
+        // Guest feedback on a calculation answer - ownership is checked by backend-java.
+        MockServerHttpRequest request = MockServerHttpRequest
+                .post("/api/v1/master/messages/msg-123/calculation-feedback")
+                .build();
+        MockServerWebExchange exchange = MockServerWebExchange.from(request);
+        CapturingChain chain = new CapturingChain();
+
+        filter.filter(exchange, chain).block();
+
+        assertThat(exchange.getResponse().getStatusCode()).isNull();
+        assertThat(chain.captured.get()).isNotNull();
+    }
+
     // ---- Existing public path behavior must be unaffected ----
 
     @Test
