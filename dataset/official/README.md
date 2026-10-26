@@ -34,7 +34,7 @@ Gồm tài liệu PDF crawl từ các website của trường và bộ câu hỏ
 
 | Đường dẫn | Mô tả |
 |---|---|
-| `questions.jsonl` | 557 câu hỏi đánh giá (bộ gốc + bộ demo) kèm đáp án kỳ vọng, đoạn bằng chứng và tài liệu nguồn |
+| `questions.jsonl` | 577 câu hỏi đánh giá (bộ gốc + bộ demo) kèm đáp án kỳ vọng, đoạn bằng chứng và tài liệu nguồn |
 | `questions_review.csv` | Cùng bộ câu hỏi ở dạng bảng để người duyệt kiểm tra |
 | `manifest.csv` | 1.929 tài liệu PDF đã tải: đơn vị, URL nguồn, quyền truy cập, chất lượng text, sha256, `local_path` |
 | `files/<đơn-vị>/` | PDF có text layer (1,1 GB) |
@@ -64,7 +64,7 @@ Phân bố theo `category`:
 |---|---|---|
 | `access` | 188 | Kiểm tra phân quyền: tài liệu không công khai, `expect_visible` cho biết người hỏi có được thấy hay không |
 | `normal` | 210 | Câu hỏi thông thường, có đáp án trong tài liệu (gồm câu một ý, nhiều ý, so sánh) |
-| `unanswerable` | 50 | Không có đáp án trong kho tài liệu, hệ thống nên từ chối |
+| `unanswerable` | 70 | Không có đáp án trong kho tài liệu, hệ thống nên từ chối |
 | `calculation` | 59 | Cần tính toán từ số liệu trong tài liệu |
 | `off_topic` | 26 | Ngoài phạm vi trường |
 | `social` | 18 | Chào hỏi, giao tiếp xã giao |
@@ -74,7 +74,10 @@ Các trường chính: `id`, `source_set`, `category`, `case`, `question`, `expe
 `evidence_found`, `expected_doc_ids` (khớp với `file_id` trong `manifest.csv`), `expected_intent`,
 `routing_mode`, `sub_question_count`, `expect_web_search`, `department_id`, `doc_is_public`,
 `doc_access_level`, `persona`, `asker`, `expect_visible`, `reused_from`, `reviewed`, `generator`; câu mới từ
-10-10-2026 có thêm `question_user`, `expected_numbers` (câu `calculation`) và `review_note` (nếu cần duyệt).
+10-10-2026 có thêm `question_user`, `expected_numbers` (câu `calculation`) và `review_note` (nếu cần duyệt);
+câu `unanswerable` thêm từ 26-10-2026 (d0337–d0356, UNISAGE-106) có `unanswerable_kind` ∈ {`not_in_corpus`,
+`partial`, `false_premise`, `near_miss`, `calc_missing_input`} và, với `near_miss`, `forbidden_source_patterns`
+(mẫu tiêu đề tài liệu "gần đúng" không được dùng làm câu trả lời).
 
 > Câu hỏi được sinh tự động bằng LLM; `reviewed=false` nghĩa là chưa được người kiểm duyệt.
 
