@@ -74,6 +74,12 @@ Các trường chính: `id`, `category`, `question`, `expected_answer`, `evidenc
 
 > Câu hỏi được sinh tự động bằng LLM; `reviewed=false` nghĩa là chưa được người kiểm duyệt.
 
+Câu `calculation` (38 câu chung của demo và official, gắn 26/10/2026) có thêm `expected_calculation` - đường tính
+kỳ vọng của agent: `formula:<formula_id>` (công thức registry Python: `admission_score_2026`,
+`transcript_score_3hk`, `weighted_score`, `date_span`, `time_span`...), `arithmetic` (số học thuần trên số nêu
+trong câu hỏi, code tính) hoặc `advisory` (số liệu phải lấy từ văn bản: trích dẫn, có thể kèm khối tính do code
+thực hiện; model không được tự tính). Eval chấm `pass` khi đúng đường và số kỳ vọng xuất hiện.
+
 ### Manifest tài liệu (`manifest.csv`)
 
 Cột `quality`: `ok` (1.111), `scanned` (631), `garbled_ocr` (167), `no_diacritics` (14), `broken_encoding` (6).
