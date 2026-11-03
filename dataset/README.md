@@ -78,7 +78,9 @@ Câu `calculation` (38 câu chung của demo và official, gắn 26/10/2026) có
 kỳ vọng của agent: `formula:<formula_id>` (công thức registry Python: `admission_score_2026`,
 `transcript_score_3hk`, `weighted_score`, `date_span`, `time_span`...), `arithmetic` (số học thuần trên số nêu
 trong câu hỏi, code tính) hoặc `advisory` (số liệu phải lấy từ văn bản: trích dẫn, có thể kèm khối tính do code
-thực hiện; model không được tự tính). Eval chấm `pass` khi đúng đường và số kỳ vọng xuất hiện.
+thực hiện; model không được tự tính). Eval chấm `pass` khi đúng đường và số kỳ vọng xuất hiện. Từ
+29/10/2026 `arithmetic` chấp nhận cả câu trả lời tư vấn có số đúng, và `a|b` chấp nhận một trong hai đường
+(d0335: `advisory|formula:date_span`).
 
 ### Manifest tài liệu (`manifest.csv`)
 
