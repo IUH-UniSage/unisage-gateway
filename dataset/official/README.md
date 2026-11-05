@@ -34,9 +34,9 @@ Gồm tài liệu PDF crawl từ các website của trường và bộ câu hỏ
 
 | Đường dẫn | Mô tả |
 |---|---|
-| `questions.jsonl` | 577 câu hỏi đánh giá (bộ gốc + bộ demo) kèm đáp án kỳ vọng, đoạn bằng chứng và tài liệu nguồn |
+| `questions.jsonl` | 565 câu hỏi đánh giá (bộ gốc + bộ demo) kèm đáp án kỳ vọng, đoạn bằng chứng và tài liệu nguồn |
 | `questions_review.csv` | Cùng bộ câu hỏi ở dạng bảng để người duyệt kiểm tra |
-| `manifest.csv` | 1.929 tài liệu PDF đã tải: đơn vị, URL nguồn, quyền truy cập, chất lượng text, sha256, `local_path` |
+| `manifest.csv` | 1.875 tài liệu PDF đã tải: đơn vị, URL nguồn, quyền truy cập, chất lượng text, sha256, `local_path` |
 | `files/<đơn-vị>/` | PDF có text layer (1,1 GB) |
 | `scanned_pdf/<đơn-vị>/` | PDF dạng ảnh scan, cần OCR (2,4 GB) |
 | `sources.csv` | 42 trang nguồn đã crawl và thống kê |
@@ -62,13 +62,13 @@ Phân bố theo `category`:
 
 | category | Số câu | Ý nghĩa |
 |---|---|---|
-| `access` | 188 | Kiểm tra phân quyền: tài liệu không công khai, `expect_visible` cho biết người hỏi có được thấy hay không |
-| `normal` | 210 | Câu hỏi thông thường, có đáp án trong tài liệu (gồm câu một ý, nhiều ý, so sánh) |
+| `access` | 172 | Kiểm tra phân quyền: tài liệu không công khai, `expect_visible` cho biết người hỏi có được thấy hay không |
+| `normal` | 197 | Câu hỏi thông thường, có đáp án trong tài liệu (gồm câu một ý, nhiều ý, so sánh) |
 | `unanswerable` | 70 | Không có đáp án trong kho tài liệu, hệ thống nên từ chối |
-| `calculation` | 59 | Cần tính toán từ số liệu trong tài liệu |
+| `calculation` | 58 | Cần tính toán từ số liệu trong tài liệu |
 | `off_topic` | 26 | Ngoài phạm vi trường |
 | `social` | 18 | Chào hỏi, giao tiếp xã giao |
-| `web_search` | 6 | Cần tìm thêm trên web |
+| `web_search` | 24 | Cần tìm thêm trên web |
 
 Các trường chính: `id`, `source_set`, `category`, `case`, `question`, `expected_answer`, `evidence`,
 `evidence_found`, `expected_doc_ids` (khớp với `file_id` trong `manifest.csv`), `expected_intent`,
@@ -84,7 +84,7 @@ câu `unanswerable` thêm từ 26-10-2026 (d0337–d0356, UNISAGE-106) có `unan
 ## Manifest tài liệu (`manifest.csv`)
 
 Cột `quality` phân loại chất lượng text trích xuất: `ok` (1.111), `scanned` (631), `garbled_ocr` (167),
-`no_diacritics` (14), `broken_encoding` (6). Cột `selected` đánh dấu 1.085 tài liệu được chọn để ingest.
+`no_diacritics` (14), `broken_encoding` (6). Cột `selected` đánh dấu 1.031 tài liệu được chọn để ingest (05-11-2026: bỏ 43 tài liệu nạp lại không xong vì hết quota và 27 câu hỏi dựa trên chúng).
 Dùng `local_path` để tìm file PDF tương ứng trong repo.
 
 46 tài liệu của bộ demo được gán lại nhãn quyền để có đủ case phân quyền (`label_source=demo`); câu hỏi

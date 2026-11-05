@@ -47,7 +47,7 @@ Repo có hai phần tách biệt:
 |---|---|
 | `official/questions.jsonl` | 557 câu hỏi đánh giá (gộp bộ gốc và bộ demo) kèm đáp án kỳ vọng, đoạn bằng chứng và tài liệu nguồn |
 | `official/questions_review.csv` | Cùng bộ câu hỏi ở dạng bảng để người duyệt kiểm tra |
-| `official/manifest.csv` | 1.929 tài liệu PDF đã tải: đơn vị, URL nguồn, quyền truy cập, chất lượng text, sha256, `local_path` |
+| `official/manifest.csv` | 1.875 tài liệu PDF đã tải: đơn vị, URL nguồn, quyền truy cập, chất lượng text, sha256, `local_path` |
 | `official/files/<đơn-vị>/` | PDF có text layer (1,1 GB) |
 | `official/scanned_pdf/<đơn-vị>/` | PDF dạng ảnh scan, cần OCR (2,4 GB) |
 | `official/sources.csv` | 42 trang nguồn đã crawl và thống kê |
@@ -61,10 +61,10 @@ Repo có hai phần tách biệt:
 
 | category | Số câu | Ý nghĩa |
 |---|---|---|
-| `normal` | 210 | Câu hỏi thông thường, có đáp án trong tài liệu |
-| `access` | 188 | Kiểm tra phân quyền: tài liệu không công khai, `expect_visible` cho biết người hỏi có được thấy hay không |
+| `normal` | 197 | Câu hỏi thông thường, có đáp án trong tài liệu |
+| `access` | 172 | Kiểm tra phân quyền: tài liệu không công khai, `expect_visible` cho biết người hỏi có được thấy hay không |
 | `unanswerable` | 50 | Không có đáp án trong kho tài liệu, hệ thống nên từ chối |
-| `calculation` | 59 | Cần tính toán từ số liệu trong tài liệu |
+| `calculation` | 58 | Cần tính toán từ số liệu trong tài liệu |
 | `off_topic` | 26 | Ngoài phạm vi trường |
 | `social` | 18 | Chào hỏi, giao tiếp xã giao |
 
@@ -85,7 +85,7 @@ thực hiện; model không được tự tính). Eval chấm `pass` khi đúng 
 ### Manifest tài liệu (`manifest.csv`)
 
 Cột `quality`: `ok` (1.111), `scanned` (631), `garbled_ocr` (167), `no_diacritics` (14), `broken_encoding` (6).
-Cột `selected` đánh dấu 1.085 tài liệu được chọn để ingest.
+Cột `selected` đánh dấu 1.031 tài liệu được chọn để ingest (05-11-2026: bỏ 43 tài liệu nạp lại không xong vì hết quota và 27 câu hỏi dựa trên chúng).
 
 ## `demo/`
 
