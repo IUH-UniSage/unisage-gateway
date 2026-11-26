@@ -79,7 +79,7 @@ câu `unanswerable` thêm từ 26-10-2026 (d0337–d0356, UNISAGE-106) có `unan
 `partial`, `false_premise`, `near_miss`, `calc_missing_input`} và, với `near_miss`, `forbidden_source_patterns`
 (mẫu tiêu đề tài liệu "gần đúng" không được dùng làm câu trả lời).
 
-> Câu hỏi được sinh tự động bằng LLM; `reviewed=false` nghĩa là chưa được người kiểm duyệt.
+> Câu hỏi được sinh tự động bằng LLM; `reviewed=false` nghĩa là chưa được người kiểm duyệt. Ngày 15-11-2026: nhóm đã duyệt tay toàn bộ câu hỏi, mọi câu có `reviewed=true`.
 
 ## Manifest tài liệu (`manifest.csv`)
 

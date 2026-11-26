@@ -1,0 +1,635 @@
+{
+  "doc_id": "P1",
+  "file_name": "P1_quy-dinh-dang-ky-hoc-phan-cai-thien-hoc-vuot-2026.pdf",
+  "title": "QUY ĐỊNH ĐĂNG KÝ HỌC PHẦN, HỌC CẢI THIỆN ĐIỂM VÀ HỌC VƯỢT ÁP DỤNG TỪ HỌC KỲ 1 NĂM HỌC 2026–2027",
+  "number": "Số: 1938/QĐ-ĐHCN",
+  "place_date": "TP. Hồ Chí Minh, ngày 17 tháng 7 năm 2026",
+  "signature": {
+    "title": "KT. HIỆU TRƯỞNG – PHÓ HIỆU TRƯỞNG",
+    "name": "Trần Quốc Thịnh"
+  },
+  "recipients": [
+    "Ban Giám hiệu (để báo cáo)",
+    "Các khoa, phòng, trung tâm",
+    "Cố vấn học tập",
+    "Sinh viên (qua Cổng thông tin)",
+    "Lưu: VT, P.ĐT"
+  ],
+  "parent_org": "BỘ CÔNG THƯƠNG",
+  "issuer": "TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH",
+  "confidential": null,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Căn cứ Luật Giáo dục đại học năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học năm 2018;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế đào tạo trình độ đại học theo hệ thống tín chỉ của Trường Đại học Công nghiệp TP. Hồ Chí Minh ban hành kèm theo Quyết định số 0814/QĐ-ĐHCN ngày 09 tháng 3 năm 2025 của Hiệu trưởng;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Nghị quyết số 27/NQ-HĐT ngày 30 tháng 6 năm 2026 của Hội đồng trường về việc điều chỉnh mức thu học phí và các khoản lệ phí đào tạo năm học 2026–2027;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ kết luận của Hội đồng Khoa học và Đào tạo Trường tại phiên họp thường kỳ ngày 08 tháng 7 năm 2026;"
+    },
+    {
+      "type": "p",
+      "text": "Theo đề nghị của Trưởng phòng Đào tạo."
+    },
+    {
+      "type": "p",
+      "text": "Hiệu trưởng Trường Đại học Công nghiệp TP. Hồ Chí Minh ban hành Quy định đăng ký học phần, học cải thiện điểm và học vượt áp dụng từ học kỳ 1 năm học 2026–2027 với các nội dung như sau."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG I. NHỮNG QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "1. Quy định này hướng dẫn trình tự, thủ tục đăng ký học phần trong các học kỳ chính và học kỳ hè; điều kiện và thủ tục đăng ký học cải thiện điểm, học lại, học vượt; việc rút bớt, hủy học phần và chính sách hoàn trả học phí tương ứng."
+    },
+    {
+      "type": "p",
+      "text": "2. Quy định áp dụng đối với sinh viên đại học hệ chính quy, sinh viên liên thông và văn bằng hai hình thức chính quy đang học tại Trường từ khóa 2022 trở về sau; các đơn vị đào tạo, Phòng Đào tạo, Phòng Tài chính – Kế toán, Phòng Công tác Sinh viên, Trung tâm Quản trị Hệ thống thông tin và cố vấn học tập."
+    },
+    {
+      "type": "p",
+      "text": "3. Sinh viên các chương trình liên kết quốc tế thực hiện theo quy định riêng của từng chương trình; những nội dung không được quy định riêng thì áp dụng theo Quy định này."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Giải thích từ ngữ"
+    },
+    {
+      "type": "p",
+      "text": "Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Học phần cải thiện: học phần sinh viên đã đạt (điểm D trở lên) nhưng đăng ký học lại để nâng điểm; điểm cao hơn trong các lần học được dùng để tính điểm trung bình tích lũy.",
+        "Học lại: việc sinh viên đăng ký học lại học phần bắt buộc bị điểm F, hoặc đăng ký học phần tự chọn khác thay thế cho học phần tự chọn bị điểm F.",
+        "Học vượt: việc sinh viên đăng ký học phần thuộc học kỳ sau theo kế hoạch đào tạo chuẩn, hoặc đăng ký vượt số tín chỉ tối đa thông thường của một học kỳ.",
+        "Hệ thống đăng ký trực tuyến: phân hệ đăng ký học phần trên Cổng thông tin sinh viên phiên bản SV-Portal 4.2 do Trung tâm Quản trị Hệ thống thông tin vận hành.",
+        "Ngày làm việc: các ngày từ thứ Hai đến thứ Sáu, trừ ngày nghỉ lễ, Tết theo quy định của Nhà nước và lịch nghỉ của Trường.",
+        "Học phí tín chỉ chuẩn: mức học phí của một tín chỉ lý thuyết đối với chương trình đại trà, được công bố hằng năm theo nghị quyết của Hội đồng trường."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Nguyên tắc đăng ký học phần"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên chủ động lập kế hoạch học tập toàn khóa và kế hoạch từng học kỳ dưới sự hướng dẫn của cố vấn học tập; tự chịu trách nhiệm về các học phần đã đăng ký và đã xác nhận trên hệ thống."
+    },
+    {
+      "type": "p",
+      "text": "2. Học phần chỉ được đăng ký khi sinh viên đã đáp ứng điều kiện học phần tiên quyết (đã học và đạt) và học phần học trước (đã học, không bắt buộc đạt) theo chương trình đào tạo của khóa."
+    },
+    {
+      "type": "p",
+      "text": "3. Không được đăng ký hai lớp học phần có lịch học trùng nhau dù chỉ một tiết. Hệ thống tự động từ chối các đăng ký trùng lịch; trường hợp lịch được điều chỉnh sau khi đăng ký, sinh viên phải chuyển lớp trong thời gian điều chỉnh."
+    },
+    {
+      "type": "p",
+      "text": "4. Kết quả đăng ký chỉ có hiệu lực khi sinh viên đã hoàn thành nghĩa vụ học phí theo thông báo của Phòng Tài chính – Kế toán đúng hạn."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG II. ĐĂNG KÝ HỌC PHẦN TRONG HỌC KỲ"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Khối lượng học tập đăng ký"
+    },
+    {
+      "type": "p",
+      "text": "1. Trong mỗi học kỳ chính, sinh viên có kết quả học tập bình thường phải đăng ký tối thiểu 14 tín chỉ và tối đa 26 tín chỉ, không kể các học phần Giáo dục thể chất và Giáo dục quốc phòng – an ninh."
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên bị cảnh báo kết quả học tập chỉ được đăng ký tối đa 15 tín chỉ trong học kỳ chính kế tiếp và tối thiểu 10 tín chỉ; ưu tiên đăng ký học lại các học phần bị điểm F."
+    },
+    {
+      "type": "p",
+      "text": "3. Học kỳ hè không bắt buộc; mỗi sinh viên được đăng ký tối đa 12 tín chỉ trong học kỳ hè."
+    },
+    {
+      "type": "p",
+      "text": "4. Không áp dụng số tín chỉ tối thiểu đối với sinh viên ở học kỳ cuối khóa có số tín chỉ còn lại ít hơn mức tối thiểu, sinh viên đang thực tập doanh nghiệp toàn thời gian và sinh viên được Hiệu trưởng cho phép học giảm tải vì lý do sức khỏe có xác nhận của cơ sở y tế cấp quận, huyện trở lên."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Đối tượng sinh viên",
+        "Tối thiểu (TC)",
+        "Tối đa (TC)",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Kết quả học tập bình thường (học kỳ chính)",
+          "14",
+          "26",
+          "Không tính GDTC, GDQP-AN"
+        ],
+        [
+          "Đang bị cảnh báo kết quả học tập",
+          "10",
+          "15",
+          "Ưu tiên học lại học phần điểm F"
+        ],
+        [
+          "Đủ điều kiện học vượt (Điều 11)",
+          "14",
+          "30",
+          "Phải có quyết định phê duyệt học vượt"
+        ],
+        [
+          "Học kỳ cuối khóa, còn thiếu dưới 14 TC",
+          "Không áp dụng",
+          "26",
+          "Theo số TC còn lại"
+        ],
+        [
+          "Học kỳ hè (mọi đối tượng)",
+          "Không áp dụng",
+          "12",
+          "Tự nguyện đăng ký"
+        ]
+      ],
+      "widths": [
+        0.42,
+        0.16,
+        0.14,
+        0.28
+      ],
+      "caption": "Bảng 1. Khối lượng tín chỉ được đăng ký trong một học kỳ"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Lịch đăng ký học phần học kỳ 1 năm học 2026–2027"
+    },
+    {
+      "type": "p",
+      "text": "1. Phòng Đào tạo công bố kế hoạch mở lớp học phần, thời khóa biểu dự kiến và danh sách học phần tiên quyết trên Cổng thông tin sinh viên chậm nhất 10 ngày trước ngày mở đăng ký đợt 1."
+    },
+    {
+      "type": "p",
+      "text": "2. Việc đăng ký học kỳ 1 năm học 2026–2027 được tổ chức theo các đợt sau đây; sinh viên các khóa đăng ký theo khung giờ được phân luồng để giảm tải cho hệ thống:"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Đợt",
+        "Thời gian",
+        "Đối tượng / nội dung"
+      ],
+      "rows": [
+        [
+          "Đợt ưu tiên",
+          "29/7/2026 – 31/7/2026",
+          "Sinh viên năm cuối, sinh viên khuyết tật, sinh viên được Hiệu trưởng xét ưu tiên"
+        ],
+        [
+          "Đợt 1 (chính thức)",
+          "03/8/2026 – 09/8/2026",
+          "Toàn bộ sinh viên; khóa 2026 đăng ký theo kế hoạch do khoa đăng ký sẵn"
+        ],
+        [
+          "Xử lý lớp không đủ sĩ số",
+          "10/8/2026 – 13/8/2026",
+          "Phòng Đào tạo hủy lớp, thông báo và hỗ trợ chuyển lớp"
+        ],
+        [
+          "Đợt bổ sung",
+          "24/8/2026 – 28/8/2026",
+          "Đăng ký thêm, chuyển lớp, đăng ký học cải thiện còn chỗ"
+        ],
+        [
+          "Bắt đầu học kỳ",
+          "07/9/2026",
+          "Ngày học đầu tiên của học kỳ 1"
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.28,
+        0.5
+      ],
+      "caption": "Bảng 2. Lịch đăng ký học phần học kỳ 1 năm học 2026–2027"
+    },
+    {
+      "type": "p",
+      "text": "3. Khung giờ đăng ký theo khóa trong đợt 1: khóa 2023 từ 07 giờ 00, khóa 2024 từ 13 giờ 30, khóa 2025 từ 19 giờ 00 của ngày đầu tiên; từ ngày thứ hai của đợt, hệ thống mở cho tất cả các khóa từ 06 giờ 00 đến 23 giờ 00 hằng ngày."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Điều kiện mở và hủy lớp học phần"
+    },
+    {
+      "type": "p",
+      "text": "1. Lớp học phần lý thuyết được mở khi có từ 32 sinh viên đăng ký trở lên; lớp học phần thực hành, thí nghiệm được mở khi có từ 18 sinh viên đăng ký trở lên. Sĩ số tối đa của lớp lý thuyết là 90 sinh viên, của lớp thực hành là 36 sinh viên."
+    },
+    {
+      "type": "p",
+      "text": "2. Đối với học phần thuộc học kỳ cuối khóa, học phần chuyên ngành hẹp hoặc học phần bắt buộc mà sinh viên không có lớp thay thế, Trưởng khoa có thể đề nghị mở lớp với sĩ số thấp hơn nhưng không dưới 12 sinh viên; sinh viên lớp này đóng học phí theo hệ số 1,0 như lớp thông thường, phần chênh lệch do Trường chi trả."
+    },
+    {
+      "type": "p",
+      "text": "3. Lớp học phần không đủ điều kiện mở sẽ bị hủy; sinh viên được hệ thống gửi thông báo qua thư điện tử sinh viên và được ưu tiên đăng ký lớp khác trong thời gian xử lý quy định tại Bảng 2. Học phí của lớp bị hủy được tự động chuyển sang học phần đăng ký thay thế hoặc hoàn trả 100%."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Học phí và các khoản lệ phí liên quan"
+    },
+    {
+      "type": "p",
+      "text": "1. Học phí tín chỉ chuẩn năm học 2026–2027 đối với chương trình đại trà là 892.000 đồng/tín chỉ lý thuyết. Tín chỉ thực hành, thí nghiệm tính theo hệ số 1,35; tín chỉ thực tập doanh nghiệp và khóa luận tốt nghiệp tính theo hệ số 1,2 so với học phí tín chỉ chuẩn."
+    },
+    {
+      "type": "p",
+      "text": "2. Học phí học lại được tính bằng 1,0 lần học phí tín chỉ của học phần. Học phí học cải thiện điểm được tính bằng 1,15 lần học phí tín chỉ của học phần, áp dụng cho cả học kỳ chính và học kỳ hè."
+    },
+    {
+      "type": "p",
+      "text": "3. Lệ phí xét duyệt hồ sơ học vượt là 165.000 đồng/hồ sơ, nộp một lần cho mỗi học kỳ đề nghị học vượt và không hoàn lại trong mọi trường hợp."
+    },
+    {
+      "type": "p",
+      "text": "4. Học phí học kỳ hè tính bằng 1,1 lần học phí tín chỉ của học phần do đặc thù tổ chức lớp ngắn hạn."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Khoản thu",
+        "Hệ số / mức thu",
+        "Ví dụ học phần 3 TC lý thuyết"
+      ],
+      "rows": [
+        [
+          "Học lần đầu (học kỳ chính)",
+          "1,0 × học phí tín chỉ",
+          "2.676.000 đồng"
+        ],
+        [
+          "Học lại học phần điểm F",
+          "1,0 × học phí tín chỉ",
+          "2.676.000 đồng"
+        ],
+        [
+          "Học cải thiện điểm",
+          "1,15 × học phí tín chỉ",
+          "3.077.400 đồng"
+        ],
+        [
+          "Học trong học kỳ hè",
+          "1,1 × học phí tín chỉ",
+          "2.943.600 đồng"
+        ],
+        [
+          "Lệ phí xét hồ sơ học vượt",
+          "165.000 đồng/hồ sơ",
+          "Không phụ thuộc số TC"
+        ],
+        [
+          "Lệ phí cấp lại bảng điểm tạm thời",
+          "25.000 đồng/bản",
+          "Không phụ thuộc số TC"
+        ]
+      ],
+      "widths": [
+        0.38,
+        0.3,
+        0.32
+      ],
+      "caption": "Bảng 3. Học phí và lệ phí áp dụng trong năm học 2026–2027"
+    },
+    {
+      "type": "p",
+      "text": "5. Thời hạn nộp học phí học kỳ 1 năm học 2026–2027 là đến hết ngày 25 tháng 9 năm 2026. Sinh viên nộp chậm từ 01 đến 15 ngày bị tạm khóa chức năng xem điểm; nộp chậm quá 15 ngày mà không có đơn gia hạn được duyệt thì bị hủy toàn bộ kết quả đăng ký của học kỳ và xem như tự ý bỏ học kỳ đó."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG III. RÚT BỚT VÀ HỦY HỌC PHẦN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Thời hạn hủy học phần và hoàn trả học phí"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên được hủy học phần đã đăng ký trực tiếp trên hệ thống hoặc nộp đơn tại Bộ phận Một cửa của Phòng Đào tạo, với điều kiện sau khi hủy số tín chỉ còn lại không thấp hơn mức tối thiểu tại Điều 4."
+    },
+    {
+      "type": "p",
+      "text": "2. Hủy học phần trong 9 ngày làm việc đầu tiên kể từ ngày bắt đầu học kỳ thì học phần không được ghi vào bảng điểm và được hoàn trả 100% học phí của học phần đó."
+    },
+    {
+      "type": "p",
+      "text": "3. Hủy học phần từ ngày làm việc thứ 10 đến hết ngày làm việc thứ 21 kể từ ngày bắt đầu học kỳ thì học phần được ghi ký hiệu W trên bảng điểm, không tính vào điểm trung bình, và được hoàn trả 60% học phí của học phần đó."
+    },
+    {
+      "type": "p",
+      "text": "4. Sau ngày làm việc thứ 21, sinh viên không được hủy học phần. Sinh viên không tham dự học tập hoặc bỏ thi sẽ nhận điểm 0 đối với các điểm thành phần còn thiếu và phải đóng đủ học phí."
+    },
+    {
+      "type": "p",
+      "text": "5. Đối với học kỳ hè, thời hạn hủy có hoàn 100% học phí là 3 ngày làm việc đầu tiên; từ ngày làm việc thứ 4 đến thứ 7 được hoàn 50%; sau đó không hoàn học phí."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Thời điểm hủy (tính từ ngày bắt đầu học kỳ)",
+        "Ghi nhận bảng điểm",
+        "Tỷ lệ hoàn học phí"
+      ],
+      "rows": [
+        [
+          "Học kỳ chính: ngày làm việc 1 – 9",
+          "Không ghi",
+          "100%"
+        ],
+        [
+          "Học kỳ chính: ngày làm việc 10 – 21",
+          "Ký hiệu W",
+          "60%"
+        ],
+        [
+          "Học kỳ chính: sau ngày làm việc 21",
+          "Không được hủy",
+          "0%"
+        ],
+        [
+          "Học kỳ hè: ngày làm việc 1 – 3",
+          "Không ghi",
+          "100%"
+        ],
+        [
+          "Học kỳ hè: ngày làm việc 4 – 7",
+          "Ký hiệu W",
+          "50%"
+        ],
+        [
+          "Lớp học phần do Trường hủy",
+          "Không ghi",
+          "100% hoặc chuyển sang lớp khác"
+        ]
+      ],
+      "widths": [
+        0.46,
+        0.24,
+        0.3
+      ],
+      "caption": "Bảng 4. Mức hoàn học phí khi hủy học phần"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Các trường hợp đặc biệt"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên phải nhập viện điều trị từ 15 ngày liên tục trở lên, có thân nhân (cha, mẹ, vợ, chồng, con) qua đời, hoặc được cử đi thực hiện nhiệm vụ của Nhà nước, của Trường trong thời gian học kỳ được xét hủy học phần sau thời hạn tại Điều 8 và được bảo lưu học phí sang học kỳ kế tiếp."
+    },
+    {
+      "type": "p",
+      "text": "2. Hồ sơ gồm đơn đề nghị có ý kiến của cố vấn học tập và minh chứng hợp lệ, nộp trong vòng 20 ngày kể từ ngày kết thúc sự việc. Phòng Đào tạo trả lời trong 7 ngày làm việc kể từ ngày nhận đủ hồ sơ."
+    },
+    {
+      "type": "p",
+      "text": "3. Học phí được bảo lưu theo khoản 1 Điều này chỉ được sử dụng trong tối đa 2 học kỳ chính liền kề; quá thời hạn trên thì không được hoàn lại."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG IV. HỌC LẠI VÀ HỌC CẢI THIỆN ĐIỂM"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Điều kiện và cách tính điểm"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên có học phần bắt buộc bị điểm F phải đăng ký học lại học phần đó trong các học kỳ tiếp theo cho đến khi đạt. Đối với học phần tự chọn bị điểm F, sinh viên có thể học lại hoặc chọn học phần tự chọn khác cùng nhóm."
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên được đăng ký học cải thiện điểm đối với học phần đã đạt điểm D, D+ hoặc C. Không được đăng ký học cải thiện đối với học phần đã đạt điểm C+ trở lên, học phần khóa luận tốt nghiệp, thực tập tốt nghiệp và các học phần điều kiện."
+    },
+    {
+      "type": "p",
+      "text": "3. Mỗi học phần được học cải thiện tối đa 2 lần. Tổng số tín chỉ học cải thiện trong toàn khóa học không vượt quá 18 tín chỉ đối với chương trình 4 năm và 22 tín chỉ đối với chương trình 4,5 năm trở lên."
+    },
+    {
+      "type": "p",
+      "text": "4. Điểm cao nhất trong các lần học được dùng để tính điểm trung bình học kỳ của học kỳ học cải thiện và điểm trung bình tích lũy. Trường hợp điểm học cải thiện thấp hơn điểm cũ, điểm cũ được giữ nguyên và lần học cải thiện vẫn được tính vào giới hạn số lần."
+    },
+    {
+      "type": "p",
+      "text": "5. Sinh viên đạt điểm trung bình tích lũy loại giỏi hoặc xuất sắc nhờ có học cải thiện điểm vẫn được xét hạng tốt nghiệp theo điểm sau cải thiện, nhưng không được xét danh hiệu thủ khoa ngành."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG V. HỌC VƯỢT"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Điều kiện được học vượt"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên được đăng ký học vượt khi đáp ứng đồng thời các điều kiện sau:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Đã hoàn thành ít nhất 2 học kỳ chính tại Trường;",
+        "Điểm trung bình tích lũy đạt từ 3,20 trở lên theo thang điểm 4 tính đến thời điểm xét;",
+        "Điểm trung bình học kỳ chính liền kề trước đó đạt từ 3,00 trở lên và không có học phần bị điểm F trong học kỳ đó;",
+        "Điểm rèn luyện học kỳ liền kề đạt loại Khá trở lên;",
+        "Không trong thời gian bị kỷ luật từ mức khiển trách trở lên."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "2. Số tín chỉ tối đa khi được duyệt học vượt là 30 tín chỉ trong một học kỳ chính và 15 tín chỉ trong học kỳ hè. Sinh viên không được học vượt học phần mà học phần tiên quyết của nó đang được học song song trong cùng học kỳ."
+    },
+    {
+      "type": "p",
+      "text": "3. Sinh viên khóa 2026 trở đi có thể rút ngắn thời gian đào tạo tối đa 1 năm so với thời gian thiết kế của chương trình nhờ học vượt; việc rút ngắn quá 1 năm phải được Hiệu trưởng xem xét riêng."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Thủ tục xét học vượt"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên nộp hồ sơ đề nghị học vượt trực tuyến trên Cổng thông tin sinh viên, mục Dịch vụ học vụ, mã thủ tục HV-07, chậm nhất 5 ngày trước ngày mở đợt đăng ký chính thức; kèm theo kế hoạch học tập các học kỳ còn lại có chữ ký xác nhận của cố vấn học tập."
+    },
+    {
+      "type": "p",
+      "text": "2. Khoa quản lý ngành xem xét trong 3 ngày làm việc, lập danh sách đề nghị gửi Phòng Đào tạo. Phòng Đào tạo thẩm định và trình Hiệu trưởng ký quyết định công nhận danh sách sinh viên được học vượt trước ngày mở đợt đăng ký chính thức 1 ngày."
+    },
+    {
+      "type": "p",
+      "text": "3. Hệ thống tự động nâng giới hạn tín chỉ cho các sinh viên có tên trong quyết định. Quyết định có giá trị trong 1 học kỳ; học kỳ sau sinh viên phải nộp hồ sơ mới nếu tiếp tục có nhu cầu."
+    },
+    {
+      "type": "p",
+      "text": "4. Sinh viên đã được duyệt học vượt mà có điểm trung bình học kỳ dưới 2,50 sẽ không được xét học vượt trong 2 học kỳ chính tiếp theo."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Năm học",
+        "Hồ sơ nộp",
+        "Được duyệt",
+        "Tỷ lệ duyệt",
+        "TC học vượt bình quân/SV"
+      ],
+      "rows": [
+        [
+          "2023–2024",
+          "412",
+          "287",
+          "69,7%",
+          "4,6"
+        ],
+        [
+          "2024–2025",
+          "538",
+          "361",
+          "67,1%",
+          "5,1"
+        ],
+        [
+          "2025–2026",
+          "605",
+          "433",
+          "71,6%",
+          "5,4"
+        ]
+      ],
+      "widths": [
+        0.18,
+        0.18,
+        0.18,
+        0.18,
+        0.28
+      ],
+      "caption": "Bảng 5. Thống kê xét học vượt ba năm học gần nhất (số liệu tham khảo)"
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VI. TRÁCH NHIỆM CỦA CÁC ĐƠN VỊ VÀ SINH VIÊN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Trách nhiệm của các đơn vị"
+    },
+    {
+      "type": "p",
+      "text": "1. Phòng Đào tạo chủ trì lập kế hoạch mở lớp, quản lý quá trình đăng ký, tổng hợp nhu cầu học lại, học cải thiện; giải quyết các trường hợp phát sinh; báo cáo Ban Giám hiệu kết quả đăng ký chậm nhất 10 ngày sau khi kết thúc đợt bổ sung."
+    },
+    {
+      "type": "p",
+      "text": "2. Phòng Tài chính – Kế toán thông báo học phí từng sinh viên chậm nhất 5 ngày sau khi kết thúc đợt bổ sung; thực hiện hoàn trả học phí trong vòng 30 ngày kể từ ngày có danh sách hủy học phần được Phòng Đào tạo xác nhận, qua tài khoản ngân hàng sinh viên đã đăng ký."
+    },
+    {
+      "type": "p",
+      "text": "3. Trung tâm Quản trị Hệ thống thông tin bảo đảm hệ thống đăng ký vận hành ổn định, có phương án dự phòng; khi hệ thống gián đoạn liên tục quá 2 giờ trong thời gian đăng ký thì phải báo cáo Phòng Đào tạo để gia hạn đợt đăng ký tương ứng."
+    },
+    {
+      "type": "p",
+      "text": "4. Các khoa phân công giảng viên, đề xuất mở lớp đặc biệt, chỉ đạo cố vấn học tập tư vấn và phê duyệt kế hoạch học tập của sinh viên; tiếp nhận và xử lý bước đầu hồ sơ học vượt."
+    },
+    {
+      "type": "p",
+      "text": "5. Cố vấn học tập tổ chức ít nhất 1 buổi sinh hoạt tư vấn đăng ký học phần trước mỗi đợt đăng ký chính thức; rà soát danh sách sinh viên bị cảnh báo học tập để hướng dẫn đăng ký phù hợp."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Trách nhiệm của sinh viên"
+    },
+    {
+      "type": "p",
+      "text": "1. Theo dõi thông báo trên Cổng thông tin sinh viên và thư điện tử sinh viên; bảo mật tài khoản, không nhờ người khác đăng ký hộ. Mọi thao tác thực hiện bằng tài khoản của sinh viên được xem là do chính sinh viên thực hiện."
+    },
+    {
+      "type": "p",
+      "text": "2. Kiểm tra kết quả đăng ký và thời khóa biểu cá nhân sau mỗi đợt đăng ký; phản ánh sai sót trong vòng 3 ngày làm việc kể từ ngày kết thúc đợt qua mục Hỗ trợ học vụ trên Cổng thông tin."
+    },
+    {
+      "type": "p",
+      "text": "3. Đóng học phí đầy đủ, đúng hạn; tham gia học tập theo đúng lớp học phần đã đăng ký. Sinh viên học không đúng lớp đã đăng ký sẽ không được ghi nhận điểm."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VII. ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Hiệu lực thi hành"
+    },
+    {
+      "type": "p",
+      "text": "1. Quy định này có hiệu lực kể từ ngày ký và áp dụng từ học kỳ 1 năm học 2026–2027. Quy định này thay thế Quy định số 1205/QĐ-ĐHCN ngày 22 tháng 7 năm 2024 về đăng ký học phần."
+    },
+    {
+      "type": "p",
+      "text": "2. Các trường hợp sinh viên đã được duyệt học vượt hoặc đã đăng ký học cải thiện trước ngày Quy định này có hiệu lực tiếp tục thực hiện theo quyết định đã ban hành cho đến hết học kỳ hè năm học 2025–2026."
+    },
+    {
+      "type": "p",
+      "text": "3. Trong quá trình thực hiện, nếu có vướng mắc, các đơn vị và sinh viên phản ánh về Phòng Đào tạo (phòng A1.106, điện thoại nội bộ 3317) để tổng hợp, trình Hiệu trưởng xem xét điều chỉnh."
+    },
+    {
+      "type": "h2",
+      "text": "PHỤ LỤC. QUY TRÌNH ĐĂNG KÝ HỌC PHẦN TRỰC TUYẾN"
+    },
+    {
+      "type": "p",
+      "text": "Bước 1. Đăng nhập Cổng thông tin sinh viên SV-Portal 4.2 bằng mã số sinh viên và mật khẩu; xác thực hai lớp bằng mã OTP gửi về thư điện tử sinh viên."
+    },
+    {
+      "type": "p",
+      "text": "Bước 2. Vào mục Đăng ký học phần, chọn học kỳ và loại đăng ký (học mới, học lại, học cải thiện). Hệ thống hiển thị các học phần thuộc chương trình đào tạo kèm trạng thái điều kiện tiên quyết."
+    },
+    {
+      "type": "p",
+      "text": "Bước 3. Chọn lớp học phần, kiểm tra lịch học, phòng học và giảng viên; nhấn Đăng ký. Hệ thống báo lỗi nếu trùng lịch, vượt số tín chỉ tối đa hoặc chưa đạt học phần tiên quyết."
+    },
+    {
+      "type": "p",
+      "text": "Bước 4. Kiểm tra lại danh sách học phần đã đăng ký và tổng số tín chỉ; nhấn Xác nhận kết quả. Kết quả chỉ được lưu chính thức sau khi xác nhận."
+    },
+    {
+      "type": "p",
+      "text": "Bước 5. Theo dõi thông báo học phí và hoàn thành nghĩa vụ học phí qua các kênh thanh toán trực tuyến được Phòng Tài chính – Kế toán công bố."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Sinh viên đang bị cảnh báo kết quả học tập thì học kỳ chính được đăng ký tối đa bao nhiêu tín chỉ?",
+      "expected_answer": "Tối đa 15 tín chỉ (tối thiểu 10 tín chỉ).",
+      "evidence": "Sinh viên bị cảnh báo kết quả học tập chỉ được đăng ký tối đa 15 tín chỉ trong học kỳ chính kế tiếp"
+    },
+    {
+      "question": "Nếu em hủy học phần vào tuần thứ 3 của học kỳ chính thì được hoàn lại bao nhiêu phần trăm học phí?",
+      "expected_answer": "Hủy từ ngày làm việc thứ 10 đến thứ 21 được hoàn 60% học phí và ghi ký hiệu W.",
+      "evidence": "Hủy học phần từ ngày làm việc thứ 10 đến hết ngày làm việc thứ 21 kể từ ngày bắt đầu học kỳ thì học phần được ghi ký hiệu W trên bảng điểm"
+    },
+    {
+      "question": "Nộp hồ sơ xin học vượt thì phải đóng lệ phí bao nhiêu, có được hoàn lại không?",
+      "expected_answer": "165.000 đồng/hồ sơ cho mỗi học kỳ đề nghị học vượt, không hoàn lại.",
+      "evidence": "Lệ phí xét duyệt hồ sơ học vượt là 165.000 đồng/hồ sơ"
+    }
+  ]
+}

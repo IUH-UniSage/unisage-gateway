@@ -1,0 +1,588 @@
+{
+  "doc_id": "A2",
+  "file_name": "A2_quy-che-cham-khoa-luan-hoi-dong-phan-bien-bm-cnpm.pdf",
+  "title": "QUY CHẾ NỘI BỘ CHẤM KHÓA LUẬN TỐT NGHIỆP VÀ TỔ CHỨC HỘI ĐỒNG PHẢN BIỆN CỦA BỘ MÔN CÔNG NGHỆ PHẦN MỀM",
+  "parent_org": "KHOA CÔNG NGHỆ THÔNG TIN",
+  "issuer": "BỘ MÔN CÔNG NGHỆ PHẦN MỀM",
+  "number": "Số: 0367/QC-BMCNPM",
+  "place_date": "TP. Hồ Chí Minh, ngày 15 tháng 9 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – CẤP ĐỘ 2 – Bộ môn Công nghệ Phần mềm",
+  "blocks": [
+    {
+      "type": "h1",
+      "text": "CĂN CỨ"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế đào tạo trình độ đại học hiện hành của Trường Đại học Công nghiệp TP. Hồ Chí Minh;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy định về liêm chính học thuật trong đào tạo và nghiên cứu khoa học đang được áp dụng tại Trường;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Hướng dẫn số 1427/HD-CNTT ngày 02 tháng 7 năm 2026 của Khoa Công nghệ Thông tin về tổ chức thực hiện khóa luận tốt nghiệp và đồ án tốt nghiệp;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Nghị quyết cuộc họp Bộ môn Công nghệ Phần mềm ngày 11 tháng 9 năm 2026 thông qua Quy chế nội bộ chấm khóa luận tốt nghiệp;"
+    },
+    {
+      "type": "p",
+      "text": "Trưởng Bộ môn Công nghệ Phần mềm ban hành Quy chế nội bộ chấm khóa luận tốt nghiệp và tổ chức hội đồng phản biện như sau."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG I. QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi và đối tượng"
+    },
+    {
+      "type": "p",
+      "text": "1. Quy chế này quy định việc phản biện, kiểm tra đạo văn, tổ chức hội đồng chấm, tiêu chí đánh giá (rubric), cách tính điểm và xử lý chênh lệch điểm đối với khóa luận tốt nghiệp ngành Kỹ thuật phần mềm do Bộ môn Công nghệ Phần mềm quản lý, áp dụng từ đợt bảo vệ tháng 01 năm 2027."
+    },
+    {
+      "type": "p",
+      "text": "2. Đối tượng áp dụng gồm giảng viên hướng dẫn, giảng viên phản biện, thành viên hội đồng chấm khóa luận, thư ký hội đồng, Tổ thư ký tốt nghiệp và sinh viên thực hiện khóa luận tốt nghiệp. Đồ án tốt nghiệp áp dụng các quy định về kiểm tra đạo văn và xử lý chênh lệch điểm của Quy chế này; rubric đồ án tốt nghiệp được ban hành riêng."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Nguyên tắc đánh giá"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Khách quan, công bằng, độc lập giữa các người chấm; mỗi người chấm chịu trách nhiệm cá nhân về điểm số của mình.",
+        "Đánh giá dựa trên rubric công khai cho sinh viên từ khi nhận đề tài.",
+        "Giảng viên hướng dẫn không được làm phản biện và không được là thành viên chấm điểm của hội đồng chấm khóa luận do mình hướng dẫn.",
+        "Người chấm có quan hệ gia đình với sinh viên hoặc có xung đột lợi ích phải tự khai báo và từ chối tham gia chấm."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG II. KIỂM TRA ĐẠO VĂN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Công cụ và thời điểm kiểm tra"
+    },
+    {
+      "type": "p",
+      "text": "1. Toàn văn khóa luận (không gồm phụ lục mã nguồn và tài liệu tham khảo) được kiểm tra trùng lặp bằng phần mềm kiểm tra đạo văn do Thư viện Trường cung cấp, chậm nhất 03 ngày làm việc sau hạn nộp khóa luận. Tổ thư ký tốt nghiệp là đầu mối nộp kiểm tra; sinh viên không tự nộp lên hệ thống chính thức."
+    },
+    {
+      "type": "p",
+      "text": "2. Mã nguồn chương trình được kiểm tra trùng lặp bằng công cụ so khớp mã nguồn của Bộ môn, đối chiếu với kho khóa luận của 04 khóa gần nhất và các kho mã nguồn công khai phổ biến. Đoạn mã từ thư viện mã nguồn mở có ghi rõ nguồn và giấy phép không bị tính là trùng lặp."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Ngưỡng tỷ lệ trùng lặp và xử lý"
+    },
+    {
+      "type": "p",
+      "text": "Tỷ lệ trùng lặp văn bản được tính sau khi loại trừ trích dẫn đúng quy định, mẫu trang bìa và các thuật ngữ chuẩn. Khóa luận được xử lý theo các mức tại Bảng 1."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mức",
+        "Tỷ lệ trùng lặp văn bản",
+        "Tỷ lệ trùng lặp mã nguồn",
+        "Hình thức xử lý"
+      ],
+      "rows": [
+        [
+          "A",
+          "Dưới 18%",
+          "Dưới 25%",
+          "Đủ điều kiện chuyển phản biện"
+        ],
+        [
+          "B",
+          "Từ 18% đến dưới 30%",
+          "Từ 25% đến dưới 40%",
+          "Chỉnh sửa trong 05 ngày, kiểm tra lại một lần"
+        ],
+        [
+          "C",
+          "Từ 30% đến dưới 45%",
+          "Từ 40% đến dưới 60%",
+          "Giảng viên hướng dẫn giải trình; Trưởng Bộ môn quyết định cho chỉnh sửa hoặc không cho bảo vệ"
+        ],
+        [
+          "D",
+          "Từ 45% trở lên",
+          "Từ 60% trở lên",
+          "Không cho bảo vệ; lập biên bản chuyển Khoa xử lý theo quy định liêm chính học thuật"
+        ]
+      ],
+      "widths": [
+        0.08,
+        0.25,
+        0.25,
+        0.42
+      ],
+      "caption": "Bảng 1. Ngưỡng trùng lặp và hình thức xử lý"
+    },
+    {
+      "type": "p",
+      "text": "Khóa luận có tỷ lệ trùng lặp văn bản từ 45% trở lên hoặc tỷ lệ trùng lặp mã nguồn từ 60% trở lên thì không được bảo vệ trong đợt đó. Sinh viên có thể đăng ký thực hiện lại khóa luận với đề tài mới ở học kỳ kế tiếp nếu Khoa không áp dụng hình thức kỷ luật cao hơn."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Khai báo sử dụng trí tuệ nhân tạo tạo sinh"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên được sử dụng công cụ trí tuệ nhân tạo tạo sinh để hỗ trợ viết mã, sửa lỗi ngôn ngữ và tra cứu, nhưng phải khai báo trong Phụ lục Khai báo sử dụng AI của khóa luận: tên công cụ, mục đích, phạm vi nội dung được hỗ trợ."
+    },
+    {
+      "type": "p",
+      "text": "2. Nội dung do công cụ tạo sinh soạn thảo mà không khai báo, nếu bị phát hiện qua bảo vệ hoặc kiểm tra, được xử lý như hành vi trùng lặp không trích dẫn. Hội đồng có quyền yêu cầu sinh viên giải thích trực tiếp bất kỳ đoạn mã hoặc đoạn văn bản nào trong khóa luận."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG III. PHẢN BIỆN VÀ HỘI ĐỒNG CHẤM"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Giảng viên phản biện"
+    },
+    {
+      "type": "p",
+      "text": "1. Mỗi khóa luận có 01 giảng viên phản biện do Trưởng Bộ môn phân công, có học vị tiến sĩ hoặc thạc sĩ có ít nhất 05 năm kinh nghiệm giảng dạy chuyên ngành. Phản biện không cùng nhóm nghiên cứu với giảng viên hướng dẫn đối với khóa luận có định hướng công bố."
+    },
+    {
+      "type": "p",
+      "text": "2. Giảng viên phản biện nhận khóa luận chậm nhất 10 ngày trước ngày bảo vệ, chạy thử sản phẩm và gửi phiếu nhận xét cho Tổ thư ký chậm nhất 03 ngày trước ngày bảo vệ. Phiếu nhận xét phải có ít nhất 03 câu hỏi để sinh viên trả lời tại buổi bảo vệ."
+    },
+    {
+      "type": "p",
+      "text": "3. Mỗi giảng viên phản biện không quá 10 khóa luận trong một đợt bảo vệ."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Thành phần hội đồng chấm"
+    },
+    {
+      "type": "p",
+      "text": "1. Hội đồng chấm khóa luận do Trưởng khoa ra quyết định thành lập theo đề nghị của Bộ môn, gồm 05 thành viên: Chủ tịch, Thư ký và 03 Ủy viên, trong đó có giảng viên phản biện của các khóa luận được chấm tại hội đồng. Chủ tịch hội đồng phải có học vị tiến sĩ trở lên. Mỗi hội đồng có tối thiểu 01 ủy viên là chuyên gia từ doanh nghiệp phần mềm hoặc giảng viên ngoài Bộ môn."
+    },
+    {
+      "type": "p",
+      "text": "2. Mỗi hội đồng chấm không quá 12 khóa luận trong một ngày. Hội đồng làm việc khi có mặt tối thiểu 04 thành viên, trong đó bắt buộc có Chủ tịch và Thư ký."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Trình tự buổi bảo vệ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Thư ký công bố quyết định thành lập hội đồng, kết quả kiểm tra đạo văn và điều kiện bảo vệ của sinh viên.",
+        "Sinh viên trình bày khóa luận trong 18 phút, trong đó có tối thiểu 05 phút trình diễn sản phẩm phần mềm trực tiếp; khóa luận nhóm 02 sinh viên trình bày trong 25 phút và mỗi thành viên phải trình bày phần việc của mình.",
+        "Giảng viên phản biện đọc tóm tắt nhận xét và đặt câu hỏi; các thành viên hội đồng đặt câu hỏi bổ sung. Thời gian hỏi đáp không quá 20 phút.",
+        "Hội đồng họp riêng, các thành viên chấm điểm độc lập vào phiếu chấm; Thư ký tổng hợp và Chủ tịch công bố kết quả cuối buổi."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG IV. RUBRIC VÀ CÁCH TÍNH ĐIỂM"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Rubric đánh giá khóa luận"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi người chấm đánh giá theo 06 tiêu chí với trọng số tại Bảng 2. Mỗi tiêu chí chấm theo thang điểm 10, lẻ đến 0,25 điểm; điểm của người chấm là tổng có trọng số của các tiêu chí, làm tròn đến một chữ số thập phân."
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Tiêu chí",
+        "Trọng số",
+        "Mô tả mức xuất sắc (9,0–10)"
+      ],
+      "rows": [
+        [
+          "1",
+          "Xác định vấn đề, mục tiêu và tổng quan",
+          "10%",
+          "Vấn đề rõ ràng, có khảo sát so sánh tối thiểu 03 giải pháp liên quan"
+        ],
+        [
+          "2",
+          "Phân tích, thiết kế hệ thống",
+          "20%",
+          "Mô hình đầy đủ, nhất quán, có lập luận lựa chọn kiến trúc"
+        ],
+        [
+          "3",
+          "Hiện thực và chất lượng sản phẩm",
+          "30%",
+          "Sản phẩm chạy ổn định, mã nguồn sạch, có kiểm thử tự động độ phủ từ 60%"
+        ],
+        [
+          "4",
+          "Kiểm thử, đánh giá kết quả",
+          "15%",
+          "Có kịch bản kiểm thử, số liệu đánh giá và so sánh với mục tiêu"
+        ],
+        [
+          "5",
+          "Trình bày báo cáo, thuyết trình",
+          "10%",
+          "Báo cáo đúng định dạng, thuyết trình mạch lạc, đúng giờ"
+        ],
+        [
+          "6",
+          "Trả lời câu hỏi và hiểu biết",
+          "15%",
+          "Trả lời chính xác, thể hiện làm chủ toàn bộ sản phẩm"
+        ],
+        [
+          "",
+          "Tổng",
+          "100%",
+          ""
+        ]
+      ],
+      "widths": [
+        0.07,
+        0.35,
+        0.13,
+        0.45
+      ],
+      "caption": "Bảng 2. Rubric đánh giá khóa luận tốt nghiệp"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Trọng số điểm thành phần"
+    },
+    {
+      "type": "p",
+      "text": "Điểm khóa luận tốt nghiệp được tính theo công thức: Điểm khóa luận = 0,2 × Điểm GVHD + 0,3 × Điểm phản biện + 0,5 × Điểm trung bình hội đồng. Điểm trung bình hội đồng là trung bình cộng điểm của các thành viên hội đồng có mặt, không bao gồm điểm của giảng viên phản biện."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Thành phần",
+        "Người chấm",
+        "Trọng số",
+        "Thời điểm chấm"
+      ],
+      "rows": [
+        [
+          "Điểm GVHD",
+          "Giảng viên hướng dẫn",
+          "20%",
+          "Trước ngày bảo vệ 03 ngày"
+        ],
+        [
+          "Điểm phản biện",
+          "Giảng viên phản biện",
+          "30%",
+          "Sau buổi bảo vệ, có tính phần trả lời câu hỏi"
+        ],
+        [
+          "Điểm hội đồng",
+          "Chủ tịch, Thư ký, các Ủy viên (trừ phản biện)",
+          "50%",
+          "Tại buổi bảo vệ"
+        ]
+      ],
+      "widths": [
+        0.2,
+        0.35,
+        0.12,
+        0.33
+      ],
+      "caption": "Bảng 3. Trọng số các thành phần điểm"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Điều kiện đạt"
+    },
+    {
+      "type": "p",
+      "text": "Khóa luận đạt khi điểm khóa luận từ 5,0 trở lên và không có thành phần nào dưới 4,0. Khóa luận có điểm thành phần hội đồng dưới 4,0 thì không đạt dù điểm tổng từ 5,0 trở lên. Khóa luận đạt từ 9,0 trở lên được Bộ môn đề cử xét giải thưởng khóa luận xuất sắc cấp Khoa, với điều kiện tỷ lệ trùng lặp văn bản thuộc mức A."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG V. XỬ LÝ CHÊNH LỆCH ĐIỂM"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Chênh lệch giữa GVHD và phản biện"
+    },
+    {
+      "type": "p",
+      "text": "Khi điểm của giảng viên hướng dẫn và điểm của giảng viên phản biện chênh lệch từ 2,5 điểm trở lên, Trưởng Bộ môn chỉ định một giảng viên phản biện thứ hai chấm độc lập. Điểm phản biện chính thức là trung bình cộng của hai giảng viên phản biện."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Chênh lệch giữa các thành viên hội đồng"
+    },
+    {
+      "type": "p",
+      "text": "1. Điểm của một thành viên hội đồng lệch so với trung bình điểm của các thành viên còn lại từ 1,75 điểm trở lên thì thành viên đó phải trình bày lý do tại phiên họp riêng của hội đồng và được điều chỉnh điểm một lần. Nếu sau khi điều chỉnh vẫn lệch từ 1,75 điểm trở lên, điểm của thành viên đó bị loại khỏi việc tính điểm trung bình hội đồng và Thư ký ghi rõ vào biên bản."
+    },
+    {
+      "type": "p",
+      "text": "2. Trường hợp có từ 02 thành viên bị loại điểm theo khoản 1 Điều này, Chủ tịch hội đồng đề nghị Trưởng Bộ môn tổ chức chấm lại khóa luận bằng một hội đồng khác trong vòng 07 ngày làm việc."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Ví dụ tính điểm"
+    },
+    {
+      "type": "p",
+      "text": "Khóa luận X có điểm GVHD 8,5; điểm phản biện 7,0; bốn thành viên hội đồng (trừ phản biện) chấm lần lượt 7,5; 8,0; 7,75 và 5,5. Điểm 5,5 lệch so với trung bình ba điểm còn lại (7,75) là 2,25 điểm. Sau khi trình bày, thành viên giữ nguyên điểm nên điểm 5,5 bị loại."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Bước",
+        "Cách tính",
+        "Kết quả"
+      ],
+      "rows": [
+        [
+          "Trung bình hội đồng sau khi loại điểm lệch",
+          "(7,5 + 8,0 + 7,75) / 3",
+          "7,75"
+        ],
+        [
+          "Phần GVHD",
+          "0,2 × 8,5",
+          "1,70"
+        ],
+        [
+          "Phần phản biện",
+          "0,3 × 7,0",
+          "2,10"
+        ],
+        [
+          "Phần hội đồng",
+          "0,5 × 7,75",
+          "3,875"
+        ],
+        [
+          "Điểm khóa luận",
+          "1,70 + 2,10 + 3,875",
+          "7,675 → làm tròn 7,7"
+        ]
+      ],
+      "widths": [
+        0.45,
+        0.33,
+        0.22
+      ],
+      "caption": "Bảng 4. Ví dụ tính điểm khóa luận"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Điểm cá nhân trong khóa luận nhóm"
+    },
+    {
+      "type": "p",
+      "text": "1. Đối với khóa luận do nhóm 02 sinh viên thực hiện, mỗi người chấm cho điểm riêng từng sinh viên ở tiêu chí 3 (hiện thực và chất lượng sản phẩm) và tiêu chí 6 (trả lời câu hỏi và hiểu biết) căn cứ vào phần việc được phân công trong đề cương và lịch sử đóng góp trên kho mã nguồn; các tiêu chí còn lại cho điểm chung."
+    },
+    {
+      "type": "p",
+      "text": "2. Điểm khóa luận của hai thành viên trong cùng nhóm không được chênh lệch quá 1,5 điểm, trừ trường hợp giảng viên hướng dẫn có biên bản ghi nhận một thành viên không tham gia đầy đủ. Trường hợp vượt mức này, Chủ tịch hội đồng yêu cầu các thành viên hội đồng rà soát lại và ghi rõ lý do vào biên bản."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Chỉnh sửa sau bảo vệ"
+    },
+    {
+      "type": "p",
+      "text": "1. Khóa luận đạt nhưng hội đồng yêu cầu chỉnh sửa thì sinh viên hoàn thiện và nộp bản chính thức trong vòng 07 ngày kể từ ngày bảo vệ, kèm bản giải trình chỉnh sửa có chữ ký xác nhận của giảng viên hướng dẫn và Thư ký hội đồng."
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên không nộp bản chỉnh sửa đúng hạn bị trừ 0,5 điểm vào điểm khóa luận; quá 14 ngày không nộp thì kết quả khóa luận không được công nhận trong đợt xét tốt nghiệp gần nhất."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 17. Bảo vệ trực tuyến"
+    },
+    {
+      "type": "p",
+      "text": "1. Hội đồng chỉ được tổ chức bảo vệ trực tuyến cho từng sinh viên trong các trường hợp: sinh viên đang thực tập ở nước ngoài theo chương trình của Khoa, sinh viên có giấy xác nhận điều trị y tế không thể có mặt, hoặc trường hợp bất khả kháng do Trưởng khoa quyết định."
+    },
+    {
+      "type": "p",
+      "text": "2. Buổi bảo vệ trực tuyến phải được ghi hình toàn bộ, sinh viên bật camera liên tục và chia sẻ màn hình khi trình diễn sản phẩm. Thư ký hội đồng xác thực danh tính sinh viên bằng thẻ sinh viên trước khi bắt đầu. Kết nối gián đoạn quá 10 phút thì hội đồng dừng buổi bảo vệ và bố trí lại trong đợt."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 18. Trách nhiệm của Thư ký hội đồng"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Kiểm tra điều kiện bảo vệ của từng sinh viên: đề cương đã duyệt, kết quả kiểm tra đạo văn, phiếu nhận xét của giảng viên hướng dẫn và phản biện.",
+        "Ghi biên bản đầy đủ câu hỏi, nội dung trả lời chính của sinh viên và ý kiến kết luận của hội đồng.",
+        "Tổng hợp điểm theo công thức tại Điều 10, áp dụng quy định xử lý chênh lệch tại Điều 13 và trình Chủ tịch ký trước khi công bố.",
+        "Nhập điểm lên cổng tốt nghiệp trong vòng 01 ngày làm việc sau buổi bảo vệ."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VI. PHÚC KHẢO, LƯU TRỮ VÀ THÙ LAO"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 19. Phúc khảo"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên có quyền đề nghị phúc khảo điểm khóa luận trong vòng 05 ngày làm việc kể từ ngày công bố kết quả. Việc phúc khảo do 02 giảng viên không tham gia hội đồng trước đó thực hiện trên hồ sơ, biên bản và video buổi bảo vệ. Điểm phúc khảo thay thế điểm hội đồng nếu chênh lệch từ 0,5 điểm trở lên."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 20. Lưu trữ hồ sơ"
+    },
+    {
+      "type": "p",
+      "text": "Thư ký hội đồng nộp cho Tổ thư ký: biên bản họp hội đồng, phiếu chấm của từng thành viên, phiếu nhận xét phản biện, báo cáo kiểm tra đạo văn và đường dẫn video buổi bảo vệ trong vòng 02 ngày làm việc sau buổi bảo vệ. Hồ sơ được lưu tại Bộ môn trong thời hạn 05 năm."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 21. Thù lao chấm khóa luận nội bộ"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nhiệm vụ",
+        "Mức chi",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Giảng viên phản biện",
+          "280.000 đồng/khóa luận",
+          "Kể cả phản biện thứ hai theo Điều 12"
+        ],
+        [
+          "Chủ tịch hội đồng",
+          "95.000 đồng/khóa luận",
+          "—"
+        ],
+        [
+          "Thư ký, Ủy viên hội đồng",
+          "75.000 đồng/khóa luận",
+          "—"
+        ],
+        [
+          "Chuyên gia doanh nghiệp tham gia hội đồng",
+          "650.000 đồng/buổi",
+          "Cộng mức Ủy viên theo số khóa luận"
+        ],
+        [
+          "Phúc khảo",
+          "150.000 đồng/khóa luận/người",
+          "—"
+        ]
+      ],
+      "widths": [
+        0.4,
+        0.3,
+        0.3
+      ],
+      "caption": "Bảng 5. Mức chi thù lao chấm khóa luận (nguồn kinh phí đào tạo của Bộ môn)"
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VII. ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+      "type": "p",
+      "text": "1. Tổ thư ký tốt nghiệp có trách nhiệm phổ biến Quy chế này đến giảng viên và sinh viên, đăng rubric lên cổng tốt nghiệp trước khi sinh viên nộp đề cương."
+    },
+    {
+      "type": "p",
+      "text": "2. Giảng viên vi phạm quy định về độc lập chấm điểm hoặc không khai báo xung đột lợi ích sẽ không được phân công phản biện, chấm khóa luận trong 02 đợt kế tiếp và bị xem xét khi đánh giá, xếp loại viên chức."
+    },
+    {
+      "type": "p",
+      "text": "3. Quy chế có hiệu lực từ ngày ký. Trong quá trình thực hiện, nếu có vướng mắc, các cá nhân phản ánh về Trưởng Bộ môn để xem xét, sửa đổi, bổ sung."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. MẪU PHIẾU CHẤM KHÓA LUẬN (TÓM TẮT)"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mục",
+        "Nội dung"
+      ],
+      "rows": [
+        [
+          "Thông tin chung",
+          "Tên đề tài, họ tên và mã số sinh viên, giảng viên hướng dẫn, mã hội đồng"
+        ],
+        [
+          "Vai trò người chấm",
+          "GVHD / Phản biện / Chủ tịch / Thư ký / Ủy viên"
+        ],
+        [
+          "Điểm từng tiêu chí",
+          "Sáu tiêu chí theo Bảng 2, thang 10, lẻ đến 0,25"
+        ],
+        [
+          "Điểm tổng người chấm",
+          "Tổng có trọng số, làm tròn một chữ số thập phân"
+        ],
+        [
+          "Cam kết",
+          "Người chấm cam kết không có xung đột lợi ích với sinh viên"
+        ],
+        [
+          "Nhận xét",
+          "Ưu điểm, hạn chế, đề nghị chỉnh sửa sau bảo vệ"
+        ]
+      ],
+      "widths": [
+        0.3,
+        0.7
+      ],
+      "caption": "Mẫu CK-KTPM-02. Phiếu chấm khóa luận tốt nghiệp"
+    }
+  ],
+  "signature": {
+    "title": "TRƯỞNG BỘ MÔN",
+    "name": "TS. Đoàn Quốc Thịnh"
+  },
+  "recipients": [
+    "Ban Chủ nhiệm Khoa Công nghệ Thông tin (để báo cáo)",
+    "Giảng viên Bộ môn (để thực hiện)",
+    "Tổ thư ký tốt nghiệp",
+    "Lưu: VT Bộ môn"
+  ],
+  "questions": [
+    {
+      "question": "Điểm khóa luận tốt nghiệp ngành KTPM được tính theo trọng số các thành phần như thế nào?",
+      "expected_answer": "20% điểm GVHD + 30% điểm phản biện + 50% điểm trung bình hội đồng.",
+      "evidence": "Điểm khóa luận = 0,2 × Điểm GVHD + 0,3 × Điểm phản biện + 0,5 × Điểm trung bình hội đồng."
+    },
+    {
+      "question": "Khi điểm giảng viên hướng dẫn và điểm phản biện lệch nhau nhiều thì bộ môn xử lý ra sao?",
+      "expected_answer": "Chênh lệch từ 2,5 điểm trở lên thì Trưởng Bộ môn chỉ định phản biện thứ hai chấm độc lập; điểm phản biện là trung bình của hai phản biện.",
+      "evidence": "Khi điểm của giảng viên hướng dẫn và điểm của giảng viên phản biện chênh lệch từ 2,5 điểm trở lên, Trưởng Bộ môn chỉ định một giảng viên phản biện thứ hai chấm độc lập."
+    },
+    {
+      "question": "Khóa luận bị trùng lặp bao nhiêu phần trăm thì không được bảo vệ?",
+      "expected_answer": "Trùng lặp văn bản từ 45% trở lên hoặc trùng lặp mã nguồn từ 60% trở lên.",
+      "evidence": "Khóa luận có tỷ lệ trùng lặp văn bản từ 45% trở lên hoặc tỷ lệ trùng lặp mã nguồn từ 60% trở lên thì không được bảo vệ trong đợt đó."
+    }
+  ]
+}

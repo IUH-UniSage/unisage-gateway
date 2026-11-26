@@ -1,0 +1,493 @@
+{
+  "doc_id": "P6",
+  "file_name": "P6_quy-dinh-tam-dung-thoi-hoc-chuyen-nganh-2026.pdf",
+  "title": "QUY ĐỊNH VỀ TẠM DỪNG HỌC, THÔI HỌC, BUỘC THÔI HỌC, CHUYỂN NGÀNH VÀ CHUYỂN CƠ SỞ ĐÀO TẠO",
+  "number": "Số: 2953/QĐ-ĐHCN",
+  "place_date": "TP. Hồ Chí Minh, ngày 30 tháng 7 năm 2026",
+  "signature": {
+    "title": "HIỆU TRƯỞNG",
+    "name": "PGS.TS. Hồ Quang Tuệ"
+  },
+  "recipients": [
+    "Các khoa, viện, trung tâm đào tạo",
+    "Phòng Đào tạo, Phòng CTSV, Phòng TC-KT",
+    "Sinh viên hệ chính quy",
+    "Lưu: VT, ĐT"
+  ],
+  "questions": [
+    {
+      "question": "Sinh viên xin bảo lưu vì lý do cá nhân thì được tạm dừng tối đa bao lâu trong toàn khóa?",
+      "expected_answer": "Mỗi lần không quá 2 học kỳ chính liên tiếp; tổng toàn khóa không quá 4 học kỳ chính.",
+      "evidence": "tổng thời gian tạm dừng trong toàn khóa học không vượt quá 4 học kỳ chính"
+    },
+    {
+      "question": "Muốn chuyển ngành thì điểm trung bình tích lũy phải đạt bao nhiêu và lệ phí xét là bao nhiêu?",
+      "expected_answer": "ĐTBC tích lũy từ 2,20 trở lên; lệ phí 350.000 đồng/hồ sơ.",
+      "evidence": "lệ phí xét chuyển ngành 350.000 đồng/hồ sơ"
+    },
+    {
+      "question": "Bị cảnh báo học tập mức 2 thì học kỳ sau được đăng ký tối đa bao nhiêu tín chỉ?",
+      "expected_answer": "Tối đa 14 tín chỉ.",
+      "evidence": "Tối đa 14 tín chỉ"
+    }
+  ],
+  "parent_org": "BỘ CÔNG THƯƠNG",
+  "issuer": "TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH",
+  "confidential": null,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế đào tạo trình độ đại học của Trường ban hành kèm theo Quyết định số 1174/QĐ-ĐHCN ngày 02 tháng 4 năm 2025;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế công tác sinh viên hệ chính quy ban hành kèm theo Quyết định số 2208/QĐ-ĐHCN ngày 19 tháng 7 năm 2025;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ biên bản họp Hội đồng Khoa học và Đào tạo Trường ngày 08 tháng 7 năm 2026;"
+    },
+    {
+      "type": "p",
+      "text": "Xét đề nghị của Trưởng phòng Đào tạo, Hiệu trưởng ban hành Quy định về tạm dừng học, thôi học, buộc thôi học, chuyển ngành và chuyển cơ sở đào tạo áp dụng từ năm 2026."
+    },
+    {
+      "type": "h1",
+      "text": "Chương I. QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này quy định điều kiện, thủ tục và thời hạn giải quyết các trường hợp sinh viên tạm dừng học (bảo lưu kết quả học tập), tiếp tục học sau thời gian tạm dừng, tự nguyện thôi học, bị buộc thôi học, chuyển ngành đào tạo trong Trường và chuyển giữa các cơ sở đào tạo của Trường; đồng thời quy định cơ chế cảnh báo học tập làm căn cứ xử lý."
+    },
+    {
+      "type": "p",
+      "text": "Quy định áp dụng đối với sinh viên trình độ đại học hệ chính quy từ khóa tuyển sinh 2022 trở về sau. Sinh viên các khóa trước tiếp tục áp dụng quy định cũ đối với các điều khoản có lợi hơn cho sinh viên, trừ Chương III về cảnh báo học tập được áp dụng thống nhất từ học kỳ 1 năm học 2026–2027."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Nguyên tắc giải quyết"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Mọi yêu cầu của sinh viên được tiếp nhận qua phân hệ Dịch vụ Một cửa trực tuyến; Phòng Đào tạo không tiếp nhận hồ sơ giấy, trừ trường hợp sinh viên đang điều trị tại cơ sở y tế hoặc đang thực hiện nghĩa vụ quân sự.",
+        "Thời hạn giải quyết được tính theo ngày làm việc, kể từ ngày hồ sơ được xác nhận đầy đủ trên hệ thống.",
+        "Kết quả giải quyết được thông báo đồng thời đến sinh viên, cố vấn học tập và khoa quản lý ngành.",
+        "Sinh viên chịu trách nhiệm về tính trung thực của hồ sơ; hồ sơ giả mạo bị hủy kết quả giải quyết và xử lý kỷ luật."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "Chương II. TẠM DỪNG HỌC VÀ TIẾP TỤC HỌC"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Các trường hợp được tạm dừng học"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên được tạm dừng học và bảo lưu kết quả đã tích lũy trong các trường hợp sau: (a) được điều động vào lực lượng vũ trang hoặc tham gia nghĩa vụ công an nhân dân; (b) được cơ quan có thẩm quyền cử đi đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế; (c) bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài, có giấy xác nhận của cơ sở khám bệnh, chữa bệnh từ cấp huyện trở lên; (d) vì lý do cá nhân khác, với điều kiện đã học ít nhất 1 học kỳ tại Trường, không đang bị xem xét buộc thôi học hoặc kỷ luật, và có điểm trung bình chung tích lũy không dưới 1,20."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Thời gian tạm dừng học tối đa"
+    },
+    {
+      "type": "p",
+      "text": "Đối với trường hợp tạm dừng vì lý do cá nhân theo điểm d Điều 3, mỗi lần tạm dừng không quá 2 học kỳ chính liên tiếp và tổng thời gian tạm dừng trong toàn khóa học không vượt quá 4 học kỳ chính. Thời gian tạm dừng vì lý do cá nhân được tính vào thời gian học tập tối đa của sinh viên."
+    },
+    {
+      "type": "p",
+      "text": "Đối với các trường hợp theo điểm a, b và c Điều 3, thời gian tạm dừng được xác định theo văn bản điều động, văn bản cử đi hoặc chỉ định của cơ sở y tế và không tính vào thời gian học tập tối đa. Thời gian học tập tối đa của sinh viên là 1,5 lần thời gian đào tạo chuẩn của chương trình, tương ứng 6 năm đối với chương trình 4 năm và 6,75 năm đối với chương trình 4,5 năm."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Hồ sơ và thời hạn đề nghị tạm dừng học"
+    },
+    {
+      "type": "p",
+      "text": "Hồ sơ gồm đơn đề nghị theo Mẫu TD-01, văn bản chứng minh lý do (nếu có) và xác nhận không nợ học phí của Phòng Tài chính – Kế toán. Sinh viên nộp hồ sơ chậm nhất vào ngày thứ Sáu của tuần học thứ 4 của học kỳ. Hồ sơ nộp sau thời hạn này chỉ được xét đối với các trường hợp theo điểm a, b, c Điều 3."
+    },
+    {
+      "type": "p",
+      "text": "Phòng Đào tạo giải quyết trong thời hạn 7 ngày làm việc. Sinh viên được chấp thuận tạm dừng trước tuần học thứ 4 được hoàn 100% học phí đã nộp của học kỳ đó; tạm dừng từ tuần thứ 4 đến hết tuần thứ 8 vì lý do theo điểm a, b, c được bảo lưu 70% học phí sang học kỳ quay lại; sau tuần thứ 8 không hoàn hoặc bảo lưu học phí."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Thời điểm được chấp thuận",
+        "Lý do theo điểm a, b, c",
+        "Lý do cá nhân (điểm d)"
+      ],
+      "rows": [
+        [
+          "Trước tuần học thứ 4",
+          "Hoàn 100% học phí",
+          "Hoàn 100% học phí"
+        ],
+        [
+          "Từ tuần 4 đến hết tuần 8",
+          "Bảo lưu 70% học phí",
+          "Không xét (quá hạn)"
+        ],
+        [
+          "Sau tuần thứ 8",
+          "Không hoàn, không bảo lưu",
+          "Không xét (quá hạn)"
+        ]
+      ],
+      "widths": [
+        0.34,
+        0.33,
+        0.33
+      ],
+      "caption": "Bảng 1. Xử lý học phí khi tạm dừng học"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Tiếp tục học sau thời gian tạm dừng"
+    },
+    {
+      "type": "p",
+      "text": "Ít nhất 15 ngày trước ngày bắt đầu học kỳ quay lại, sinh viên nộp đơn tiếp tục học theo Mẫu TD-02 trên hệ thống. Sinh viên quay lại học được xét công nhận các học phần đã tích lũy nếu thời gian từ khi tích lũy không quá 5 năm; nếu chương trình đào tạo đã thay đổi, khoa quản lý ngành lập bảng đối sánh học phần trong thời hạn 10 ngày làm việc."
+    },
+    {
+      "type": "p",
+      "text": "Quá thời hạn tạm dừng mà sinh viên không làm thủ tục tiếp tục học sẽ được Phòng Đào tạo gửi thông báo nhắc qua thư điện tử sinh viên. Sau 30 ngày kể từ ngày gửi thông báo, nếu sinh viên không phản hồi, Trường ra quyết định buộc thôi học theo điểm c Điều 12."
+    },
+    {
+      "type": "h1",
+      "text": "Chương III. CẢNH BÁO HỌC TẬP"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Mục đích và thời điểm xét cảnh báo"
+    },
+    {
+      "type": "p",
+      "text": "Cảnh báo học tập nhằm thông báo sớm cho sinh viên, gia đình và cố vấn học tập về kết quả học tập yếu kém để có biện pháp hỗ trợ kịp thời. Việc xét cảnh báo được thực hiện sau mỗi học kỳ chính, chậm nhất 3 tuần kể từ ngày kết thúc kỳ thi cuối kỳ. Học kỳ hè không dùng để xét cảnh báo, nhưng điểm học kỳ hè được cộng vào kết quả tích lũy."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Điều kiện bị cảnh báo học tập"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên bị cảnh báo học tập khi rơi vào một trong các trường hợp: (a) điểm trung bình học kỳ đạt dưới 0,80 đối với học kỳ đầu tiên của khóa học, hoặc dưới 1,00 đối với các học kỳ tiếp theo; (b) tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24 tín chỉ; (c) điểm trung bình chung tích lũy dưới mức quy định tại Bảng 2."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Trình độ năm học của sinh viên",
+        "Số tín chỉ tích lũy",
+        "ĐTBC tích lũy tối thiểu để không bị cảnh báo"
+      ],
+      "rows": [
+        [
+          "Năm thứ nhất",
+          "Dưới 32 tín chỉ",
+          "1,20"
+        ],
+        [
+          "Năm thứ hai",
+          "Từ 32 đến dưới 64 tín chỉ",
+          "1,40"
+        ],
+        [
+          "Năm thứ ba",
+          "Từ 64 đến dưới 96 tín chỉ",
+          "1,60"
+        ],
+        [
+          "Các năm tiếp theo",
+          "Từ 96 tín chỉ trở lên",
+          "1,80"
+        ]
+      ],
+      "widths": [
+        0.32,
+        0.32,
+        0.36
+      ],
+      "caption": "Bảng 2. Ngưỡng điểm trung bình chung tích lũy dùng để xét cảnh báo"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Mức cảnh báo và biện pháp hỗ trợ"
+    },
+    {
+      "type": "p",
+      "text": "Cảnh báo được chia thành ba mức tăng dần. Cảnh báo mức 1 áp dụng khi sinh viên bị cảnh báo lần đầu; cảnh báo mức 2 áp dụng khi sinh viên bị cảnh báo hai học kỳ chính liên tiếp; cảnh báo mức 3 áp dụng khi sinh viên đã bị cảnh báo mức 2 và tiếp tục không cải thiện. Không có học kỳ chính nào không bị cảnh báo xen giữa thì được xem là liên tiếp."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mức cảnh báo",
+        "Giới hạn đăng ký học kỳ kế tiếp",
+        "Biện pháp bắt buộc"
+      ],
+      "rows": [
+        [
+          "Mức 1",
+          "Tối đa 16 tín chỉ",
+          "Gặp cố vấn học tập ít nhất 1 buổi trong 4 tuần đầu học kỳ"
+        ],
+        [
+          "Mức 2",
+          "Tối đa 14 tín chỉ",
+          "Ký cam kết học tập; tham gia lớp kỹ năng học tập 8 buổi do Trung tâm Hỗ trợ Sinh viên tổ chức; thông báo bằng văn bản đến gia đình"
+        ],
+        [
+          "Mức 3",
+          "Tối đa 12 tín chỉ",
+          "Họp xét với hội đồng khoa; theo dõi điểm danh hằng tuần; nếu học kỳ kế tiếp vẫn thuộc diện cảnh báo thì bị buộc thôi học"
+        ]
+      ],
+      "widths": [
+        0.15,
+        0.27,
+        0.58
+      ],
+      "caption": "Bảng 3. Mức cảnh báo học tập và biện pháp tương ứng"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Gỡ cảnh báo"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên được gỡ cảnh báo khi học kỳ chính kế tiếp không còn thuộc diện cảnh báo theo Điều 8. Sau khi gỡ cảnh báo, nếu sinh viên lại bị cảnh báo thì mức cảnh báo được tính lại từ mức 1. Sinh viên có thể sử dụng kết quả học cải thiện ở học kỳ hè để gỡ điều kiện về điểm trung bình chung tích lũy trước thời điểm xét cảnh báo của học kỳ kế tiếp."
+    },
+    {
+      "type": "h1",
+      "text": "Chương IV. THÔI HỌC VÀ BUỘC THÔI HỌC"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Thôi học theo nguyện vọng"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên có nguyện vọng thôi học nộp đơn theo Mẫu TH-01, có xác nhận của cha, mẹ hoặc người giám hộ đối với sinh viên chưa đủ 18 tuổi, kèm xác nhận hoàn tất nghĩa vụ học phí và trả sách thư viện. Phòng Đào tạo trình Hiệu trưởng ký quyết định trong thời hạn 10 ngày làm việc."
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên đã thôi học theo nguyện vọng được xin học lại tại Trường nếu dự tuyển và trúng tuyển kỳ tuyển sinh mới; các học phần đã tích lũy trong vòng 5 năm được xem xét công nhận theo quy định công nhận tín chỉ. Sinh viên được cấp bảng điểm các học phần đã học và giấy chứng nhận thời gian học tập."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Các trường hợp bị buộc thôi học"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên bị buộc thôi học trong các trường hợp sau: (a) đã bị cảnh báo mức 3 và học kỳ chính kế tiếp tiếp tục thuộc diện cảnh báo; (b) vượt quá thời gian học tập tối đa theo Điều 4 mà chưa đủ điều kiện tốt nghiệp; (c) không làm thủ tục tiếp tục học sau thời gian tạm dừng theo Điều 6, hoặc không đăng ký học phần và không nộp học phí trong 2 học kỳ chính liên tiếp mà không có lý do; (d) bị kỷ luật ở mức buộc thôi học theo quy chế công tác sinh viên; (e) bị phát hiện sử dụng hồ sơ, văn bằng giả để trúng tuyển."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Quy trình xét buộc thôi học"
+    },
+    {
+      "type": "p",
+      "text": "Sau mỗi học kỳ chính, Phòng Đào tạo lập danh sách dự kiến sinh viên thuộc diện buộc thôi học và công bố trên hệ thống trong thời hạn 7 ngày. Trong vòng 10 ngày kể từ ngày công bố, sinh viên có quyền gửi giải trình kèm minh chứng. Hội đồng xét buộc thôi học do Phó Hiệu trưởng phụ trách đào tạo làm chủ tịch, họp chậm nhất 25 ngày sau ngày công bố danh sách."
+    },
+    {
+      "type": "p",
+      "text": "Đối với trường hợp theo điểm a Điều 12, sinh viên có hoàn cảnh đặc biệt được Hội đồng xem xét cho học thêm 1 học kỳ có điều kiện, chỉ một lần trong toàn khóa học, nếu sinh viên đã tích lũy từ 75% số tín chỉ của chương trình trở lên."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Chuyển sang hình thức vừa làm vừa học"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên bị buộc thôi học theo điểm a hoặc điểm b Điều 12 được quyền nộp đơn xin chuyển sang học hình thức vừa làm vừa học của cùng ngành hoặc ngành gần trong thời hạn 60 ngày kể từ ngày ký quyết định. Kết quả học tập đã tích lũy được bảo lưu và công nhận theo chương trình đào tạo vừa làm vừa học tương ứng. Năm 2026, chỉ tiêu tiếp nhận sinh viên chuyển hình thức là 180 sinh viên."
+    },
+    {
+      "type": "h1",
+      "text": "Chương V. CHUYỂN NGÀNH VÀ CHUYỂN CƠ SỞ ĐÀO TẠO"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Điều kiện chuyển ngành"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên được xét chuyển sang ngành đào tạo khác trong Trường khi đáp ứng đủ các điều kiện: (a) đã học ít nhất 1 học kỳ và chưa vượt quá 4 học kỳ chính tại Trường; (b) không đang trong thời gian bị cảnh báo học tập từ mức 2 trở lên hoặc đang chấp hành kỷ luật; (c) điểm trung bình chung tích lũy đạt từ 2,20 trở lên; (d) điểm xét tuyển đầu vào của sinh viên không thấp hơn điểm trúng tuyển của ngành muốn chuyển đến trong cùng năm tuyển sinh và cùng phương thức; (e) ngành chuyển đến còn chỉ tiêu tiếp nhận."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi sinh viên chỉ được chuyển ngành 01 lần trong toàn khóa học. Không xét chuyển vào các ngành có tỷ lệ sinh viên trên giảng viên đã vượt ngưỡng 32 sinh viên/giảng viên theo báo cáo ba công khai gần nhất."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Đợt xét và lệ phí chuyển ngành"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi năm Trường tổ chức 2 đợt xét chuyển ngành: đợt 1 nhận hồ sơ từ ngày 05 tháng 1 đến ngày 20 tháng 1; đợt 2 nhận hồ sơ từ ngày 03 tháng 7 đến ngày 18 tháng 7. Sinh viên nộp lệ phí xét chuyển ngành 350.000 đồng/hồ sơ; lệ phí không hoàn trả nếu hồ sơ không được chấp thuận."
+    },
+    {
+      "type": "p",
+      "text": "Khoa nhận sinh viên lập bảng công nhận học phần chậm nhất 10 ngày làm việc sau khi có quyết định chuyển ngành. Học phần đã học thuộc ngành cũ nhưng không thuộc chương trình ngành mới được ghi vào phụ lục bảng điểm và không tính vào điểm trung bình chung tích lũy."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nhóm ngành chuyển đến",
+        "Chỉ tiêu đợt 1/2027",
+        "Chỉ tiêu đợt 2/2027",
+        "Điều kiện bổ sung"
+      ],
+      "rows": [
+        [
+          "Công nghệ thông tin và Kỹ thuật phần mềm",
+          "25",
+          "20",
+          "Điểm học phần Toán rời rạc từ 6,0"
+        ],
+        [
+          "Kế toán, Kiểm toán, Tài chính – Ngân hàng",
+          "40",
+          "35",
+          "Không có"
+        ],
+        [
+          "Kỹ thuật cơ khí, Cơ điện tử, Ô tô",
+          "45",
+          "40",
+          "Không có"
+        ],
+        [
+          "Ngôn ngữ Anh",
+          "15",
+          "10",
+          "Chứng chỉ tiếng Anh tương đương B2"
+        ],
+        [
+          "Công nghệ thực phẩm, Công nghệ sinh học",
+          "30",
+          "30",
+          "Không có"
+        ]
+      ],
+      "widths": [
+        0.38,
+        0.15,
+        0.15,
+        0.32
+      ],
+      "caption": "Bảng 4. Chỉ tiêu tiếp nhận chuyển ngành năm 2027"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 17. Chuyển giữa các cơ sở đào tạo"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên học tại cơ sở đào tạo ngoài trụ sở chính được xin chuyển về trụ sở chính tại TP. Hồ Chí Minh và ngược lại khi: (a) ngành đang học có tổ chức đào tạo tại cơ sở chuyển đến; (b) sinh viên đã hoàn thành ít nhất 2 học kỳ chính; (c) điểm trung bình chung tích lũy đạt từ 2,00 trở lên; (d) có lý do chính đáng như thay đổi nơi cư trú của gia đình, hoàn cảnh sức khỏe, hoặc được doanh nghiệp tài trợ học bổng theo vùng."
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên chuyển từ cơ sở có mức học phí thấp hơn về cơ sở có mức học phí cao hơn phải đóng học phí theo mức của cơ sở chuyển đến kể từ học kỳ được chuyển. Hồ sơ chuyển cơ sở được xét mỗi năm 1 đợt, nhận hồ sơ từ ngày 10 tháng 6 đến ngày 30 tháng 6; kết quả công bố trước ngày 25 tháng 7."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 18. Chuyển trường"
+    },
+    {
+      "type": "p",
+      "text": "Việc chuyển đến hoặc chuyển đi khỏi Trường được thực hiện theo quy định của Bộ Giáo dục và Đào tạo và quy chế đào tạo của Trường. Sinh viên không được chuyển trường trong năm thứ nhất và học kỳ cuối khóa, hoặc khi đang trong thời gian bị kỷ luật từ mức cảnh cáo trở lên."
+    },
+    {
+      "type": "h1",
+      "text": "Chương VI. TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 19. Trách nhiệm của các đơn vị"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Phòng Đào tạo chủ trì tiếp nhận hồ sơ, tổng hợp danh sách cảnh báo, trình quyết định tạm dừng, thôi học, buộc thôi học, chuyển ngành, chuyển cơ sở.",
+        "Phòng Công tác Sinh viên phối hợp liên hệ gia đình sinh viên thuộc diện cảnh báo mức 2, mức 3 và tư vấn tâm lý khi cần.",
+        "Phòng Tài chính – Kế toán xác nhận nghĩa vụ học phí và thực hiện hoàn, bảo lưu học phí theo Điều 5.",
+        "Các khoa phân công cố vấn học tập theo dõi sinh viên bị cảnh báo; lập bảng công nhận học phần cho sinh viên chuyển ngành, quay lại học.",
+        "Trung tâm Hỗ trợ Sinh viên tổ chức lớp kỹ năng học tập cho sinh viên cảnh báo mức 2 ít nhất 3 lớp mỗi học kỳ."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 20. Hiệu lực thi hành"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này có hiệu lực từ học kỳ 1 năm học 2026–2027 và thay thế các quy định trước đây của Trường về cùng nội dung. Trong quá trình thực hiện, nếu có vướng mắc, các đơn vị và sinh viên phản ánh về Phòng Đào tạo để tổng hợp, báo cáo Hiệu trưởng xem xét sửa đổi, bổ sung."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. THỜI HẠN GIẢI QUYẾT VÀ BIỂU MẪU"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Thủ tục",
+        "Mẫu đơn",
+        "Hạn nộp",
+        "Thời hạn giải quyết"
+      ],
+      "rows": [
+        [
+          "Tạm dừng học",
+          "TD-01",
+          "Thứ Sáu tuần học thứ 4",
+          "7 ngày làm việc"
+        ],
+        [
+          "Tiếp tục học",
+          "TD-02",
+          "Trước học kỳ ít nhất 15 ngày",
+          "5 ngày làm việc"
+        ],
+        [
+          "Thôi học theo nguyện vọng",
+          "TH-01",
+          "Bất kỳ thời điểm nào",
+          "10 ngày làm việc"
+        ],
+        [
+          "Giải trình xét buộc thôi học",
+          "TH-02",
+          "10 ngày từ khi công bố danh sách",
+          "Theo phiên họp hội đồng"
+        ],
+        [
+          "Chuyển ngành",
+          "CN-01",
+          "05/1–20/1 hoặc 03/7–18/7",
+          "15 ngày làm việc"
+        ],
+        [
+          "Chuyển cơ sở đào tạo",
+          "CS-01",
+          "10/6–30/6",
+          "Công bố trước 25/7"
+        ]
+      ],
+      "widths": [
+        0.3,
+        0.12,
+        0.33,
+        0.25
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Các biểu mẫu được cung cấp trên phân hệ Dịch vụ Một cửa trực tuyến. Sinh viên có thể tra cứu trạng thái hồ sơ bằng mã hồ sơ gồm 10 ký tự do hệ thống cấp. Mọi thắc mắc về kết quả giải quyết được gửi đến bộ phận Một cửa của Phòng Đào tạo trong vòng 5 ngày làm việc kể từ ngày nhận kết quả."
+    }
+  ]
+}

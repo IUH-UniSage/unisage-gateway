@@ -1,0 +1,763 @@
+{
+  "doc_id": "B3",
+  "file_name": "B3_chuong-trinh-nckh-sinh-vien-nganh-ke-toan-2026.pdf",
+  "title": "KẾ HOẠCH CHƯƠNG TRÌNH NGHIÊN CỨU KHOA HỌC SINH VIÊN NGÀNH KẾ TOÁN NĂM 2026",
+  "parent_org": "KHOA KINH TẾ",
+  "issuer": "BỘ MÔN KẾ TOÁN",
+  "number": "Số: 0614/KH-BMKT",
+  "place_date": "TP. Hồ Chí Minh, ngày 12 tháng 3 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – CẤP ĐỘ 3 – BỘ MÔN KẾ TOÁN",
+  "blocks": [
+    {
+      "type": "h1",
+      "text": "I. CĂN CỨ XÂY DỰNG KẾ HOẠCH"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy định về hoạt động nghiên cứu khoa học của sinh viên Trường Đại học Công nghiệp TP. Hồ Chí Minh số 1407/QĐ-ĐHCN ngày 26 tháng 12 năm 2025 (văn bản giả lập); căn cứ Kế hoạch khoa học và công nghệ năm 2026 của Khoa Kinh tế số 0129/KH-KKT ngày 20 tháng 01 năm 2026; căn cứ kết quả xét duyệt thuyết minh đề tài của Hội đồng khoa học Bộ môn Kế toán họp ngày 05 tháng 3 năm 2026;"
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn Kế toán xây dựng Chương trình nghiên cứu khoa học sinh viên ngành Kế toán năm 2026 (sau đây gọi là Chương trình) với các nội dung về danh mục đề tài được duyệt, giảng viên hướng dẫn, kinh phí hỗ trợ, tiến độ, tiêu chí nghiệm thu và cơ cấu giải thưởng như sau."
+    },
+    {
+      "type": "h1",
+      "text": "II. MỤC TIÊU VÀ CHỈ TIÊU"
+    },
+    {
+      "type": "h2",
+      "text": "1. Mục tiêu"
+    },
+    {
+      "type": "p",
+      "text": "Chương trình nhằm hình thành năng lực nghiên cứu độc lập cho sinh viên ngành Kế toán, gắn nghiên cứu với các vấn đề thực tiễn của doanh nghiệp và khu vực công như chuyển đổi số trong kế toán, áp dụng chuẩn mực báo cáo tài chính quốc tế, kế toán môi trường và quản trị chi phí; tạo nguồn bài báo khoa học sinh viên và nguồn ứng viên cho các giải thưởng nghiên cứu khoa học cấp Trường, cấp Bộ."
+    },
+    {
+      "type": "h2",
+      "text": "2. Chỉ tiêu năm 2026"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Thực hiện 10 đề tài nghiên cứu khoa học sinh viên được duyệt với tổng số 41 sinh viên tham gia, thuộc các khóa 2022, 2023 và 2024.",
+        "Ít nhất 70% đề tài được nghiệm thu đúng hạn và đạt từ loại Khá trở lên.",
+        "Ít nhất 3 bài báo của sinh viên được đăng hoặc chấp nhận đăng tại kỷ yếu hội thảo khoa học có mã ISBN hoặc tạp chí khoa học trong nước.",
+        "Chọn ít nhất 2 đề tài tham gia xét Giải thưởng sinh viên nghiên cứu khoa học cấp Trường năm 2026."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "III. DANH MỤC ĐỀ TÀI ĐƯỢC DUYỆT"
+    },
+    {
+      "type": "p",
+      "text": "Hội đồng khoa học Bộ môn đã xét 17 thuyết minh đề tài do sinh viên đăng ký và chọn 10 đề tài có điểm xét duyệt từ 75/100 trở lên. Danh mục đề tài, chủ nhiệm đề tài và giảng viên hướng dẫn được nêu tại Bảng 1."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mã đề tài",
+        "Tên đề tài",
+        "Chủ nhiệm (lớp)",
+        "GV hướng dẫn"
+      ],
+      "rows": [
+        [
+          "KT-SV26-01",
+          "Mức độ sẵn sàng áp dụng IFRS của các doanh nghiệp niêm yết ngành bất động sản tại TP. Hồ Chí Minh",
+          "Phạm Ngọc Quỳnh Như (DHKT18B)",
+          "TS. Võ Đình Khang"
+        ],
+        [
+          "KT-SV26-02",
+          "Các nhân tố ảnh hưởng đến ý định sử dụng phần mềm kế toán đám mây của hộ kinh doanh chuyển đổi lên doanh nghiệp",
+          "Trương Minh Hiếu (DHKT18A)",
+          "ThS. Châu Thanh Tùng"
+        ],
+        [
+          "KT-SV26-03",
+          "Kế toán chi phí môi trường tại các doanh nghiệp dệt nhuộm vùng Đông Nam Bộ",
+          "Lê Thị Thu Hiền (DHKT19C)",
+          "TS. Vũ Thị Thanh Trúc"
+        ],
+        [
+          "KT-SV26-04",
+          "Ứng dụng học máy trong nhận diện dấu hiệu gian lận báo cáo tài chính của doanh nghiệp niêm yết Việt Nam",
+          "Đinh Gia Khánh (DHKT18D)",
+          "TS. Trịnh Bảo Ngân"
+        ],
+        [
+          "KT-SV26-05",
+          "Ảnh hưởng của chất lượng kiểm toán đến mức độ quản trị lợi nhuận: bằng chứng từ sàn HOSE giai đoạn 2019–2025",
+          "Nguyễn Hoàng Yến Nhi (DHKT18B)",
+          "ThS. Hồ Quốc Bảo"
+        ],
+        [
+          "KT-SV26-06",
+          "Thực trạng tổ chức công tác kế toán tại các trường mầm non công lập quận Gò Vấp",
+          "Vũ Thị Kim Ngân (DHKT19A)",
+          "ThS. Nguyễn Thị Bích Liên"
+        ],
+        [
+          "KT-SV26-07",
+          "Vận dụng phương pháp chi phí mục tiêu trong doanh nghiệp sản xuất đồ gỗ xuất khẩu tỉnh Bình Dương",
+          "Hồ Tấn Phát (DHKT19B)",
+          "ThS. Dương Khánh Linh"
+        ],
+        [
+          "KT-SV26-08",
+          "Mức độ hài lòng của doanh nghiệp đối với hóa đơn điện tử khởi tạo từ máy tính tiền",
+          "Lâm Bảo Trân (DHKT20A)",
+          "ThS. Phan Ngọc Diễm"
+        ],
+        [
+          "KT-SV26-09",
+          "Kỹ năng phân tích dữ liệu của sinh viên kế toán và yêu cầu của nhà tuyển dụng trong bối cảnh tự động hóa",
+          "Kim Thị Mỹ Tiên (DHKT19D)",
+          "PGS.TS. Đặng Quang Vinh"
+        ],
+        [
+          "KT-SV26-10",
+          "Công bố thông tin phát triển bền vững theo chuẩn GRI của các ngân hàng thương mại Việt Nam",
+          "Mạc Đăng Khoa (DHKT20B)",
+          "ThS. Bạch Thị Hồng Nhung"
+        ]
+      ],
+      "widths": [
+        0.14,
+        0.44,
+        0.22,
+        0.2
+      ],
+      "caption": "Bảng 1. Danh mục đề tài nghiên cứu khoa học sinh viên năm 2026"
+    },
+    {
+      "type": "p",
+      "text": "Đề tài KT-SV26-07 về vận dụng phương pháp chi phí mục tiêu do ThS. Dương Khánh Linh hướng dẫn và được Công ty CP Gỗ Mỹ Nghệ Phú Tân hỗ trợ cung cấp số liệu chi phí sản xuất của 3 dòng sản phẩm bàn ghế ngoài trời. Đề tài KT-SV26-04 sử dụng bộ dữ liệu báo cáo tài chính của 312 doanh nghiệp niêm yết trong giai đoạn 2015–2025 do nhóm tự thu thập."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi đề tài có từ 3 đến 5 sinh viên tham gia, trong đó chủ nhiệm đề tài phải là sinh viên có điểm trung bình tích lũy từ 2,80 trở lên theo thang điểm 4 và không đang chịu hình thức kỷ luật. Mỗi giảng viên hướng dẫn tối đa 2 đề tài nghiên cứu khoa học sinh viên trong năm."
+    },
+    {
+      "type": "h2",
+      "text": "Sản phẩm dự kiến của các đề tài"
+    },
+    {
+      "type": "p",
+      "text": "Bên cạnh báo cáo tổng kết và bài báo, mỗi đề tài cam kết một sản phẩm đặc thù phục vụ giảng dạy hoặc chuyển giao cho đơn vị hợp tác. Sản phẩm đặc thù là điều kiện bắt buộc để được xét giải từ giải Ba trở lên."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mã đề tài",
+        "Phương pháp chính",
+        "Quy mô mẫu dự kiến",
+        "Sản phẩm đặc thù"
+      ],
+      "rows": [
+        [
+          "KT-SV26-01",
+          "Phân tích nội dung báo cáo thường niên",
+          "46 doanh nghiệp",
+          "Bộ chỉ số đánh giá mức độ sẵn sàng IFRS"
+        ],
+        [
+          "KT-SV26-02",
+          "Khảo sát, mô hình cấu trúc tuyến tính",
+          "320 hộ kinh doanh",
+          "Bản khuyến nghị cho đơn vị cung cấp phần mềm"
+        ],
+        [
+          "KT-SV26-03",
+          "Nghiên cứu tình huống",
+          "5 doanh nghiệp dệt nhuộm",
+          "Mẫu bảng tập hợp chi phí môi trường"
+        ],
+        [
+          "KT-SV26-04",
+          "Học máy có giám sát",
+          "312 doanh nghiệp, 11 năm",
+          "Mô hình cảnh báo sớm kèm mã nguồn"
+        ],
+        [
+          "KT-SV26-05",
+          "Hồi quy dữ liệu bảng",
+          "198 doanh nghiệp niêm yết",
+          "Bộ dữ liệu chất lượng kiểm toán đã chuẩn hóa"
+        ],
+        [
+          "KT-SV26-06",
+          "Khảo sát, phỏng vấn sâu",
+          "24 trường mầm non",
+          "Quy trình luân chuyển chứng từ mẫu"
+        ],
+        [
+          "KT-SV26-07",
+          "Nghiên cứu tình huống, mô phỏng chi phí",
+          "3 dòng sản phẩm",
+          "Bài tập tình huống cho học phần Kế toán quản trị"
+        ],
+        [
+          "KT-SV26-08",
+          "Khảo sát định lượng",
+          "260 doanh nghiệp",
+          "Báo cáo chính sách gửi cơ quan thuế quận"
+        ],
+        [
+          "KT-SV26-09",
+          "Khảo sát kết hợp phân tích tin tuyển dụng",
+          "410 sinh viên, 900 tin tuyển dụng",
+          "Đề xuất học phần tự chọn Phân tích dữ liệu kế toán"
+        ],
+        [
+          "KT-SV26-10",
+          "Phân tích nội dung",
+          "27 ngân hàng",
+          "Thang đo mức độ công bố theo GRI"
+        ]
+      ],
+      "widths": [
+        0.14,
+        0.3,
+        0.22,
+        0.34
+      ],
+      "caption": "Bảng 2. Phương pháp và sản phẩm dự kiến của các đề tài"
+    },
+    {
+      "type": "p",
+      "text": "Đề tài sử dụng dữ liệu thứ cấp phải ghi rõ nguồn và thời điểm truy xuất dữ liệu; đề tài khảo sát phải lưu phiếu khảo sát gốc hoặc dữ liệu thu thập trực tuyến có dấu thời gian, phục vụ việc hội đồng kiểm tra ngẫu nhiên ít nhất 5% số phiếu."
+    },
+    {
+      "type": "h1",
+      "text": "IV. KINH PHÍ HỖ TRỢ"
+    },
+    {
+      "type": "h2",
+      "text": "1. Kinh phí hỗ trợ từng đề tài"
+    },
+    {
+      "type": "p",
+      "text": "Kinh phí hỗ trợ được xác định theo khối lượng thu thập dữ liệu, số lượng khảo sát và yêu cầu phân tích của từng đề tài. Đề tài KT-SV26-04 về ứng dụng học máy nhận diện gian lận báo cáo tài chính được hỗ trợ mức cao nhất là 9.400.000 đồng do yêu cầu mua dữ liệu bổ sung và thuê máy chủ tính toán."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mã đề tài",
+        "Khảo sát, thu thập dữ liệu",
+        "Văn phòng phẩm, in ấn",
+        "Chi khác",
+        "Tổng hỗ trợ (đồng)"
+      ],
+      "rows": [
+        [
+          "KT-SV26-01",
+          "4.800.000",
+          "900.000",
+          "1.500.000",
+          "7.200.000"
+        ],
+        [
+          "KT-SV26-02",
+          "6.200.000",
+          "800.000",
+          "1.500.000",
+          "8.500.000"
+        ],
+        [
+          "KT-SV26-03",
+          "4.700.000",
+          "600.000",
+          "1.500.000",
+          "6.800.000"
+        ],
+        [
+          "KT-SV26-04",
+          "7.100.000",
+          "800.000",
+          "1.500.000",
+          "9.400.000"
+        ],
+        [
+          "KT-SV26-05",
+          "5.300.000",
+          "800.000",
+          "1.500.000",
+          "7.600.000"
+        ],
+        [
+          "KT-SV26-06",
+          "3.800.000",
+          "600.000",
+          "1.500.000",
+          "5.900.000"
+        ],
+        [
+          "KT-SV26-07",
+          "5.900.000",
+          "700.000",
+          "1.500.000",
+          "8.100.000"
+        ],
+        [
+          "KT-SV26-08",
+          "4.200.000",
+          "600.000",
+          "1.500.000",
+          "6.300.000"
+        ],
+        [
+          "KT-SV26-09",
+          "4.800.000",
+          "700.000",
+          "1.500.000",
+          "7.000.000"
+        ],
+        [
+          "KT-SV26-10",
+          "3.700.000",
+          "600.000",
+          "1.500.000",
+          "5.800.000"
+        ],
+        [
+          "Tổng",
+          "50.500.000",
+          "7.100.000",
+          "15.000.000",
+          "72.600.000"
+        ]
+      ],
+      "widths": [
+        0.16,
+        0.24,
+        0.2,
+        0.16,
+        0.24
+      ],
+      "caption": "Bảng 3. Kinh phí hỗ trợ đề tài (đồng)"
+    },
+    {
+      "type": "p",
+      "text": "Khoản chi khác 1.500.000 đồng/đề tài dùng cho hội thảo nhóm, đăng ký tham dự hội nghị khoa học sinh viên hoặc phí xử lý bản thảo bài báo. Kinh phí được tạm ứng 50% sau khi ký hợp đồng thực hiện đề tài, phần còn lại được thanh toán sau khi đề tài được nghiệm thu đạt yêu cầu và quyết toán đủ chứng từ hợp lệ."
+    },
+    {
+      "type": "h2",
+      "text": "2. Tổng dự toán Chương trình"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nội dung",
+        "Số tiền (đồng)",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Hỗ trợ thực hiện 10 đề tài",
+          "72.600.000",
+          "Theo Bảng 3"
+        ],
+        [
+          "Giải thưởng",
+          "26.300.000",
+          "Theo Bảng 7"
+        ],
+        [
+          "Thù lao hội đồng xét duyệt và nghiệm thu",
+          "6.400.000",
+          "2 phiên xét duyệt, 2 phiên nghiệm thu"
+        ],
+        [
+          "Tổ chức hội nghị tổng kết, in kỷ yếu",
+          "1.700.000",
+          "In 60 cuốn kỷ yếu"
+        ],
+        [
+          "Tổng cộng",
+          "107.000.000",
+          "Nguồn khoa học và công nghệ của Khoa năm 2026"
+        ]
+      ],
+      "widths": [
+        0.42,
+        0.22,
+        0.36
+      ],
+      "caption": "Bảng 4. Tổng dự toán Chương trình"
+    },
+    {
+      "type": "p",
+      "text": "Tổng kinh phí của Chương trình là 107.000.000 đồng, được bố trí từ nguồn kinh phí khoa học và công nghệ năm 2026 mà Trường phân bổ cho Khoa Kinh tế. Trường hợp có đề tài bị dừng thực hiện, phần kinh phí chưa sử dụng được chuyển sang bổ sung cho giải thưởng hoặc hỗ trợ công bố bài báo theo quyết định của Trưởng Bộ môn."
+    },
+    {
+      "type": "h1",
+      "text": "V. TIẾN ĐỘ THỰC HIỆN"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mốc thời gian",
+        "Nội dung",
+        "Đơn vị/người thực hiện"
+      ],
+      "rows": [
+        [
+          "16/3/2026 – 20/3/2026",
+          "Ký hợp đồng thực hiện đề tài, tạm ứng 50% kinh phí",
+          "Chủ nhiệm đề tài, Thư ký Bộ môn"
+        ],
+        [
+          "Đến 30/5/2026",
+          "Hoàn thành tổng quan tài liệu, thiết kế công cụ khảo sát",
+          "Nhóm đề tài, GV hướng dẫn"
+        ],
+        [
+          "01/6/2026 – 31/7/2026",
+          "Thu thập dữ liệu, khảo sát thực địa",
+          "Nhóm đề tài"
+        ],
+        [
+          "14/8/2026",
+          "Báo cáo giữa kỳ trước tiểu ban kiểm tra tiến độ",
+          "Tiểu ban do PGS.TS. Đặng Quang Vinh làm trưởng tiểu ban"
+        ],
+        [
+          "Đến 30/10/2026",
+          "Nộp báo cáo tổng kết, bài báo và bản kiểm tra trùng lặp",
+          "Chủ nhiệm đề tài"
+        ],
+        [
+          "21/11/2026",
+          "Họp hội đồng nghiệm thu cấp Bộ môn",
+          "Hội đồng nghiệm thu"
+        ],
+        [
+          "04/12/2026",
+          "Hội nghị tổng kết, trao giải",
+          "Bộ môn Kế toán"
+        ]
+      ],
+      "widths": [
+        0.24,
+        0.46,
+        0.3
+      ],
+      "caption": "Bảng 5. Tiến độ Chương trình năm 2026"
+    },
+    {
+      "type": "p",
+      "text": "Đề tài không báo cáo giữa kỳ đúng hạn hoặc được tiểu ban đánh giá chậm tiến độ trên 30% khối lượng sẽ được nhắc nhở bằng văn bản; nếu đến ngày 30 tháng 9 năm 2026 vẫn không khắc phục, Bộ môn xem xét dừng thực hiện đề tài và thu hồi kinh phí đã tạm ứng tương ứng phần việc chưa thực hiện."
+    },
+    {
+      "type": "p",
+      "text": "Chủ nhiệm đề tài được đề nghị gia hạn một lần, tối đa 30 ngày, khi có lý do khách quan như doanh nghiệp khảo sát chậm cung cấp dữ liệu. Đề nghị gia hạn phải có ý kiến đồng ý của giảng viên hướng dẫn và gửi Bộ môn trước hạn nộp báo cáo ít nhất 10 ngày."
+    },
+    {
+      "type": "h1",
+      "text": "VI. TIÊU CHÍ NGHIỆM THU"
+    },
+    {
+      "type": "h2",
+      "text": "1. Hồ sơ nghiệm thu"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Báo cáo tổng kết đề tài dài từ 40 đến 70 trang, trình bày theo mẫu của Trường, kèm tóm tắt bằng tiếng Việt và tiếng Anh, mỗi bản không quá 300 từ.",
+        "Bản thảo bài báo khoa học hoặc minh chứng đã gửi đăng.",
+        "Kết quả kiểm tra trùng lặp với tỷ lệ không vượt quá 22%.",
+        "Bộ dữ liệu gốc đã ẩn danh và tệp kết quả phân tích, nộp trên thư mục lưu trữ của Bộ môn.",
+        "Bản nhận xét của giảng viên hướng dẫn đề nghị đưa ra nghiệm thu."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "2. Thang điểm nghiệm thu"
+    },
+    {
+      "type": "p",
+      "text": "Hội đồng nghiệm thu gồm 5 thành viên, trong đó có ít nhất 1 thành viên ngoài Bộ môn. Mỗi thành viên chấm điểm độc lập theo thang 100 điểm với 5 tiêu chí; điểm nghiệm thu là trung bình cộng điểm của các thành viên có mặt, làm tròn đến một chữ số thập phân."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Tiêu chí",
+        "Điểm tối đa"
+      ],
+      "rows": [
+        [
+          "Tính cấp thiết, mục tiêu và tổng quan nghiên cứu",
+          "15"
+        ],
+        [
+          "Phương pháp nghiên cứu, độ tin cậy của dữ liệu",
+          "25"
+        ],
+        [
+          "Kết quả nghiên cứu, thảo luận và hàm ý",
+          "30"
+        ],
+        [
+          "Tính ứng dụng và khả năng công bố",
+          "20"
+        ],
+        [
+          "Hình thức báo cáo và trình bày trước hội đồng",
+          "10"
+        ],
+        [
+          "Tổng",
+          "100"
+        ]
+      ],
+      "widths": [
+        0.75,
+        0.25
+      ],
+      "caption": "Bảng 6. Tiêu chí chấm nghiệm thu"
+    },
+    {
+      "type": "p",
+      "text": "Đề tài đạt từ 70 điểm trở lên được nghiệm thu đạt yêu cầu. Xếp loại: từ 88 điểm trở lên là Xuất sắc; từ 80 đến dưới 88 điểm là Tốt; từ 70 đến dưới 80 điểm là Khá; dưới 70 điểm là Không đạt. Đề tài Không đạt được chỉnh sửa và nghiệm thu lại một lần trong vòng 20 ngày; nếu vẫn không đạt, chủ nhiệm đề tài hoàn trả 50% kinh phí đã nhận."
+    },
+    {
+      "type": "h1",
+      "text": "VII. GIẢI THƯỞNG"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ kết quả nghiệm thu, Hội đồng khoa học Bộ môn xét chọn và đề nghị Trưởng Khoa quyết định khen thưởng các đề tài có kết quả nổi bật. Giải thưởng được trao cho tập thể nhóm nghiên cứu, kèm giấy khen của Trưởng Khoa Kinh tế."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Giải",
+        "Số lượng",
+        "Điều kiện tối thiểu",
+        "Mức thưởng/đề tài (đồng)",
+        "Thành tiền (đồng)"
+      ],
+      "rows": [
+        [
+          "Giải Nhất",
+          "1",
+          "Xuất sắc, có bài báo được chấp nhận đăng",
+          "6.000.000",
+          "6.000.000"
+        ],
+        [
+          "Giải Nhì",
+          "2",
+          "Xuất sắc",
+          "4.000.000",
+          "8.000.000"
+        ],
+        [
+          "Giải Ba",
+          "3",
+          "Từ loại Tốt",
+          "2.500.000",
+          "7.500.000"
+        ],
+        [
+          "Giải Khuyến khích",
+          "4",
+          "Từ loại Khá",
+          "1.200.000",
+          "4.800.000"
+        ],
+        [
+          "Tổng",
+          "10",
+          "",
+          "",
+          "26.300.000"
+        ]
+      ],
+      "widths": [
+        0.18,
+        0.12,
+        0.32,
+        0.2,
+        0.18
+      ],
+      "caption": "Bảng 7. Cơ cấu giải thưởng"
+    },
+    {
+      "type": "p",
+      "text": "Giải Nhất của Chương trình có mức thưởng 6.000.000 đồng cho mỗi đề tài và chỉ được xét cho đề tài xếp loại Xuất sắc đồng thời có bài báo được chấp nhận đăng. Trường hợp không có đề tài đủ điều kiện, Hội đồng không xét giải ở mức đó và kinh phí tương ứng được dùng để tăng số lượng giải Khuyến khích."
+    },
+    {
+      "type": "p",
+      "text": "Ngoài giải thưởng tập thể, sinh viên là chủ nhiệm đề tài đạt giải Nhất, Nhì được cộng 8 điểm rèn luyện và được ưu tiên xét học bổng khuyến khích học tập học kỳ 1 năm học 2026–2027; giảng viên hướng dẫn đề tài đạt giải được tính 30 giờ chuẩn nghiên cứu khoa học cho mỗi đề tài."
+    },
+    {
+      "type": "h1",
+      "text": "VIII. TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "h2",
+      "text": "1. Trách nhiệm của Bộ môn"
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn giao TS. Trịnh Bảo Ngân làm thư ký khoa học của Chương trình, chịu trách nhiệm theo dõi tiến độ, tổng hợp hồ sơ, chuẩn bị các phiên hội đồng và phối hợp với Phòng Quản lý khoa học để làm thủ tục thanh toán. Thư ký Bộ môn hỗ trợ thủ tục tạm ứng, quyết toán kinh phí."
+    },
+    {
+      "type": "h2",
+      "text": "2. Trách nhiệm của giảng viên hướng dẫn"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên hướng dẫn gặp nhóm đề tài ít nhất 2 lần mỗi tháng, ghi sổ theo dõi hướng dẫn; kiểm tra tính trung thực của dữ liệu, bảo đảm tuân thủ đạo đức nghiên cứu khi khảo sát doanh nghiệp, cá nhân; xác nhận bảng kê chi tiêu của nhóm trước khi quyết toán."
+    },
+    {
+      "type": "h2",
+      "text": "3. Trách nhiệm của chủ nhiệm đề tài"
+    },
+    {
+      "type": "p",
+      "text": "Chủ nhiệm đề tài tổ chức thực hiện đề tài theo thuyết minh đã duyệt, quản lý kinh phí đúng mục đích, lưu giữ hóa đơn, chứng từ hợp lệ; báo cáo kịp thời cho giảng viên hướng dẫn mọi thay đổi về thành viên, nội dung, tiến độ. Việc thay đổi chủ nhiệm đề tài hoặc thay đổi trên 30% nội dung nghiên cứu phải được Bộ môn chấp thuận bằng văn bản."
+    },
+    {
+      "type": "h1",
+      "text": "IX. LIÊM CHÍNH HỌC THUẬT VÀ QUYỀN ĐỐI VỚI KẾT QUẢ NGHIÊN CỨU"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên và giảng viên hướng dẫn tham gia Chương trình phải tuân thủ các chuẩn mực liêm chính học thuật: không bịa đặt, làm sai lệch dữ liệu; không sao chép ý tưởng, câu chữ của người khác mà không trích dẫn; không nộp cùng một kết quả cho hai chương trình hỗ trợ kinh phí khác nhau. Việc sử dụng công cụ trí tuệ nhân tạo tạo sinh trong quá trình viết báo cáo phải được khai báo tại mục Lời cam đoan, nêu rõ công cụ và phạm vi sử dụng."
+    },
+    {
+      "type": "p",
+      "text": "Đề tài có khảo sát cá nhân phải có phiếu đồng ý tham gia của người trả lời và cam kết ẩn danh thông tin. Dữ liệu do doanh nghiệp cung cấp chỉ được sử dụng trong phạm vi đề tài; việc công bố tên doanh nghiệp phải có sự đồng ý bằng văn bản của doanh nghiệp đó."
+    },
+    {
+      "type": "p",
+      "text": "Kết quả nghiên cứu là tài sản chung của Trường, nhóm sinh viên và giảng viên hướng dẫn. Bài báo công bố từ đề tài phải ghi tên đơn vị là Khoa Kinh tế, Trường Đại học Công nghiệp TP. Hồ Chí Minh, và ghi nhận nguồn hỗ trợ theo cú pháp: 'Nghiên cứu được hỗ trợ bởi Chương trình nghiên cứu khoa học sinh viên ngành Kế toán năm 2026, mã đề tài' kèm mã đề tài tương ứng."
+    },
+    {
+      "type": "p",
+      "text": "Trường hợp phát hiện vi phạm liêm chính học thuật sau khi đã trao giải, Bộ môn đề nghị Trưởng Khoa thu hồi giải thưởng, giấy khen và kinh phí thưởng; giảng viên hướng dẫn không được hướng dẫn đề tài nghiên cứu khoa học sinh viên trong năm kế tiếp nếu có lỗi trong việc giám sát."
+    },
+    {
+      "type": "h2",
+      "text": "Định hướng sau năm 2026"
+    },
+    {
+      "type": "p",
+      "text": "Các đề tài xếp loại Xuất sắc được Bộ môn ưu tiên giới thiệu phát triển thành khóa luận tốt nghiệp hoặc đề tài cấp Trường dành cho giảng viên trẻ có sinh viên tham gia. Bộ môn dự kiến xây dựng nhóm nghiên cứu sinh viên thường trực về dữ liệu kế toán, bắt đầu từ học kỳ 2 năm học 2026–2027, với nòng cốt là thành viên các đề tài KT-SV26-04 và KT-SV26-09."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Chỉ số theo dõi",
+        "Năm 2025 (thực hiện)",
+        "Năm 2026 (kế hoạch)"
+      ],
+      "rows": [
+        [
+          "Số thuyết minh đăng ký",
+          "11",
+          "17"
+        ],
+        [
+          "Số đề tài được duyệt",
+          "6",
+          "10"
+        ],
+        [
+          "Số sinh viên tham gia",
+          "23",
+          "41"
+        ],
+        [
+          "Số bài báo sinh viên được đăng, chấp nhận đăng",
+          "1",
+          "Từ 3"
+        ],
+        [
+          "Số đề tài đạt giải cấp Trường",
+          "0",
+          "Từ 2"
+        ]
+      ],
+      "widths": [
+        0.5,
+        0.25,
+        0.25
+      ],
+      "caption": "Bảng 8. So sánh một số chỉ số với năm 2025"
+    },
+    {
+      "type": "p",
+      "text": "Kết quả thực hiện Chương trình là căn cứ để Bộ môn đề xuất mức kinh phí cho năm 2027 và đánh giá nhiệm vụ nghiên cứu khoa học của giảng viên hướng dẫn."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. HỘI ĐỒNG NGHIỆM THU DỰ KIẾN"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Hội đồng",
+        "Chủ tịch",
+        "Đề tài phụ trách",
+        "Thành viên ngoài Bộ môn"
+      ],
+      "rows": [
+        [
+          "Hội đồng số 1",
+          "PGS.TS. Đặng Quang Vinh",
+          "KT-SV26-01, 02, 04, 05, 09",
+          "TS. Hứa Minh Quân – Bộ môn Tài chính – Ngân hàng"
+        ],
+        [
+          "Hội đồng số 2",
+          "TS. Lâm Thị Ngọc Hân",
+          "KT-SV26-03, 06, 07, 08, 10",
+          "ThS. Kế toán trưởng Đoàn Thị Phương Lan – Công ty CP Thực phẩm Hưng Lộc Phát"
+        ]
+      ],
+      "widths": [
+        0.16,
+        0.24,
+        0.26,
+        0.34
+      ],
+      "caption": "Bảng 9. Hội đồng nghiệm thu dự kiến"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên hướng dẫn không tham gia hội đồng nghiệm thu đề tài do mình hướng dẫn. Trường hợp chủ tịch hội đồng là giảng viên hướng dẫn của một đề tài trong danh sách, Trưởng Bộ môn chỉ định một thành viên khác điều hành phiên nghiệm thu của đề tài đó."
+    }
+  ],
+  "signature": {
+    "title": "TRƯỞNG BỘ MÔN",
+    "name": "TS. Lâm Thị Ngọc Hân"
+  },
+  "recipients": [
+    "Ban Chủ nhiệm Khoa Kinh tế (để báo cáo)",
+    "Phòng Quản lý khoa học và Hợp tác quốc tế",
+    "Giảng viên hướng dẫn, chủ nhiệm đề tài",
+    "Lưu: BMKT"
+  ],
+  "questions": [
+    {
+      "question": "Đề tài sinh viên về ứng dụng học máy nhận diện gian lận báo cáo tài chính được hỗ trợ bao nhiêu kinh phí?",
+      "expected_answer": "9.400.000 đồng (mức cao nhất trong Chương trình).",
+      "evidence": "Đề tài KT-SV26-04 về ứng dụng học máy nhận diện gian lận báo cáo tài chính được hỗ trợ mức cao nhất là 9.400.000 đồng"
+    },
+    {
+      "question": "Giải Nhất nghiên cứu khoa học sinh viên ngành Kế toán năm 2026 được thưởng bao nhiêu tiền?",
+      "expected_answer": "6.000.000 đồng/đề tài, chỉ xét cho đề tài xếp loại Xuất sắc và có bài báo được chấp nhận đăng.",
+      "evidence": "Giải Nhất của Chương trình có mức thưởng 6.000.000 đồng cho mỗi đề tài"
+    },
+    {
+      "question": "Ai là giảng viên hướng dẫn đề tài NCKH sinh viên về phương pháp chi phí mục tiêu trong doanh nghiệp đồ gỗ xuất khẩu Bình Dương?",
+      "expected_answer": "ThS. Dương Khánh Linh (đề tài KT-SV26-07).",
+      "evidence": "Đề tài KT-SV26-07 về vận dụng phương pháp chi phí mục tiêu do ThS. Dương Khánh Linh hướng dẫn"
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "doc_id": "A4",
+  "file_name": "A4_bien-ban-hop-ra-soat-gio-chuan-vuot-gio-bm-cnpm-2025-2026.pdf",
+  "title": "BIÊN BẢN HỌP BỘ MÔN VỀ RÀ SOÁT ĐỊNH MỨC GIỜ CHUẨN, GIỜ VƯỢT ĐỊNH MỨC VÀ THÙ LAO VƯỢT GIỜ CỦA GIẢNG VIÊN NĂM HỌC 2025–2026",
+  "parent_org": "KHOA CÔNG NGHỆ THÔNG TIN",
+  "issuer": "BỘ MÔN CÔNG NGHỆ PHẦN MỀM",
+  "number": "Số: 0281/BB-BMCNPM",
+  "place_date": "TP. Hồ Chí Minh, ngày 16 tháng 7 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – CẤP ĐỘ 4 – Bộ môn Công nghệ Phần mềm",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Hôm nay, vào lúc 08 giờ 30 phút ngày 16 tháng 7 năm 2026, tại văn phòng Bộ môn Công nghệ Phần mềm (phòng H5.0209), Bộ môn tổ chức cuộc họp rà soát định mức giờ chuẩn, giờ vượt định mức và thù lao vượt giờ của giảng viên năm học 2025–2026."
+    },
+    {
+      "type": "h1",
+      "text": "I. THÀNH PHẦN THAM DỰ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Chủ trì: TS. Đoàn Quốc Thịnh – Trưởng Bộ môn.",
+        "Thư ký cuộc họp: ThS. Đặng Thùy Trang – giảng viên.",
+        "Đại diện Văn phòng Khoa Công nghệ Thông tin: CN. Ông Thị Ngọc Hân – chuyên viên phụ trách khối lượng giảng dạy.",
+        "Giảng viên Bộ môn: có mặt 18/20 giảng viên cơ hữu; vắng 02 giảng viên có lý do (ThS. Tạ Thị Mỹ Linh đang tham dự khóa tập huấn ngắn hạn tại nước ngoài, ThS. Quách Văn Hiếu đi công tác theo quyết định của Khoa)."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Cuộc họp đủ điều kiện tiến hành theo quy định với số giảng viên tham dự trên hai phần ba tổng số giảng viên của Bộ môn."
+    },
+    {
+      "type": "h1",
+      "text": "II. NỘI DUNG CUỘC HỌP"
+    },
+    {
+      "type": "h2",
+      "text": "1. Trưởng Bộ môn thông qua căn cứ và nguyên tắc rà soát"
+    },
+    {
+      "type": "p",
+      "text": "Trưởng Bộ môn thông qua các căn cứ: quy định về chế độ làm việc của giảng viên hiện hành của Trường; Công văn số 0954/CNTT-VP ngày 30 tháng 6 năm 2026 của Khoa Công nghệ Thông tin về việc tổng hợp khối lượng giảng dạy năm học 2025–2026; dữ liệu khối lượng giảng dạy được trích xuất từ hệ thống quản lý đào tạo ngày 08 tháng 7 năm 2026."
+    },
+    {
+      "type": "p",
+      "text": "Định mức giờ chuẩn giảng dạy năm học 2025–2026 áp dụng tại Bộ môn như sau: giảng viên 270 giờ chuẩn; giảng viên chính 290 giờ chuẩn; giảng viên cao cấp 310 giờ chuẩn. Định mức được giảm trừ theo chức vụ kiêm nhiệm và tình trạng của giảng viên theo Bảng 1."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Đối tượng",
+        "Tỷ lệ giảm định mức",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Trưởng Bộ môn",
+          "30%",
+          "Theo chức vụ kiêm nhiệm"
+        ],
+        [
+          "Phó Trưởng Bộ môn",
+          "20%",
+          "Theo chức vụ kiêm nhiệm"
+        ],
+        [
+          "Giảng viên đang làm nghiên cứu sinh (trong thời hạn đào tạo)",
+          "30%",
+          "Có quyết định công nhận NCS"
+        ],
+        [
+          "Giảng viên tập sự",
+          "50%",
+          "Trong thời gian tập sự"
+        ],
+        [
+          "Bí thư chi đoàn, cố vấn học tập từ 02 lớp trở lên",
+          "5%",
+          "Không cộng dồn với các mức trên quá 30%"
+        ]
+      ],
+      "widths": [
+        0.5,
+        0.2,
+        0.3
+      ],
+      "caption": "Bảng 1. Tỷ lệ giảm định mức giờ chuẩn năm học 2025–2026"
+    },
+    {
+      "type": "h2",
+      "text": "2. Báo cáo tổng hợp khối lượng giảng dạy"
+    },
+    {
+      "type": "p",
+      "text": "Thư ký trình bày bảng tổng hợp khối lượng giảng dạy năm học 2025–2026 của 14 giảng viên có khối lượng phát sinh tại Bộ môn (06 giảng viên còn lại có khối lượng chủ yếu tại Bộ môn khác hoặc đang đi học dài hạn, được tổng hợp riêng). Khối lượng thực hiện bao gồm giờ giảng lý thuyết, thực hành, hướng dẫn đồ án môn học, khóa luận tốt nghiệp, coi thi, chấm thi đã quy đổi ra giờ chuẩn theo hệ số của Trường."
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Giảng viên",
+        "Chức danh",
+        "Định mức gốc",
+        "Giảm",
+        "Định mức sau giảm",
+        "Thực hiện",
+        "Vượt (+) / thiếu"
+      ],
+      "rows": [
+        [
+          "1",
+          "TS. Đoàn Quốc Thịnh",
+          "GV chính",
+          "290",
+          "30%",
+          "203",
+          "352",
+          "149"
+        ],
+        [
+          "2",
+          "TS. Mai Thị Thu Hương",
+          "GV chính",
+          "290",
+          "20%",
+          "232",
+          "401",
+          "169"
+        ],
+        [
+          "3",
+          "PGS.TS. Hồ Văn Lực",
+          "GV cao cấp",
+          "310",
+          "0%",
+          "310",
+          "468",
+          "158"
+        ],
+        [
+          "4",
+          "TS. Trịnh Quang Vinh",
+          "GV chính",
+          "290",
+          "0%",
+          "290",
+          "532",
+          "242"
+        ],
+        [
+          "5",
+          "TS. Lê Bảo Ngọc",
+          "GV",
+          "270",
+          "0%",
+          "270",
+          "395",
+          "125"
+        ],
+        [
+          "6",
+          "TS. Châu Minh Tâm",
+          "GV chính",
+          "290",
+          "0%",
+          "290",
+          "347",
+          "57"
+        ],
+        [
+          "7",
+          "ThS. Vũ Thị Hạnh Nguyên",
+          "GV",
+          "270",
+          "0%",
+          "270",
+          "418",
+          "148"
+        ],
+        [
+          "8",
+          "ThS. Phan Ngọc Diệp",
+          "GV",
+          "270",
+          "30%",
+          "189",
+          "236",
+          "47"
+        ],
+        [
+          "9",
+          "ThS. Lâm Hoàng Phúc",
+          "GV",
+          "270",
+          "0%",
+          "270",
+          "489",
+          "219"
+        ],
+        [
+          "10",
+          "ThS. Nguyễn Đức Khang",
+          "GV",
+          "270",
+          "0%",
+          "270",
+          "344",
+          "74"
+        ],
+        [
+          "11",
+          "ThS. Tạ Thị Mỹ Linh",
+          "GV",
+          "270",
+          "30%",
+          "189",
+          "205",
+          "16"
+        ],
+        [
+          "12",
+          "ThS. Huỳnh Gia Bảo",
+          "GV",
+          "270",
+          "0%",
+          "270",
+          "452",
+          "182"
+        ],
+        [
+          "13",
+          "ThS. Đặng Thùy Trang",
+          "GV",
+          "270",
+          "0%",
+          "270",
+          "248",
+          "thiếu 22"
+        ],
+        [
+          "14",
+          "ThS. Kiều Minh Nhật",
+          "GV (tập sự)",
+          "270",
+          "50%",
+          "135",
+          "160",
+          "25"
+        ],
+        [
+          "",
+          "Tổng cộng",
+          "",
+          "",
+          "",
+          "",
+          "5047",
+          ""
+        ]
+      ],
+      "widths": [
+        0.05,
+        0.25,
+        0.12,
+        0.1,
+        0.08,
+        0.12,
+        0.1,
+        0.12
+      ],
+      "caption": "Bảng 2. Tổng hợp giờ chuẩn năm học 2025–2026 (đơn vị: giờ chuẩn)"
+    },
+    {
+      "type": "p",
+      "text": "Thư ký lưu ý: giờ thực hiện của TS. Trịnh Quang Vinh là 532 giờ chuẩn, vượt định mức 242 giờ, cao nhất Bộ môn, chủ yếu do đảm nhận thêm 04 lớp học phần Kiểm thử phần mềm của chương trình chất lượng cao trong học kỳ 2. ThS. Lâm Hoàng Phúc vượt 219 giờ do dạy thay giảng viên nghỉ thai sản trong học kỳ 1."
+    },
+    {
+      "type": "p",
+      "text": "Cơ cấu khối lượng thực hiện của từng giảng viên theo loại hoạt động được tổng hợp tại Bảng 2a. Giờ hướng dẫn gồm hướng dẫn đồ án môn học, thực tập doanh nghiệp và khóa luận tốt nghiệp; giờ coi, chấm thi gồm coi thi tập trung, chấm thi viết và chấm báo cáo đồ án."
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Giảng viên",
+        "Lý thuyết",
+        "Thực hành",
+        "Hướng dẫn",
+        "Coi, chấm thi",
+        "Tổng"
+      ],
+      "rows": [
+        [
+          "1",
+          "TS. Đoàn Quốc Thịnh",
+          "155",
+          "109",
+          "63",
+          "25",
+          "352"
+        ],
+        [
+          "2",
+          "TS. Mai Thị Thu Hương",
+          "177",
+          "124",
+          "72",
+          "28",
+          "401"
+        ],
+        [
+          "3",
+          "PGS.TS. Hồ Văn Lực",
+          "206",
+          "145",
+          "84",
+          "33",
+          "468"
+        ],
+        [
+          "4",
+          "TS. Trịnh Quang Vinh",
+          "234",
+          "165",
+          "96",
+          "37",
+          "532"
+        ],
+        [
+          "5",
+          "TS. Lê Bảo Ngọc",
+          "174",
+          "122",
+          "71",
+          "28",
+          "395"
+        ],
+        [
+          "6",
+          "TS. Châu Minh Tâm",
+          "153",
+          "108",
+          "62",
+          "24",
+          "347"
+        ],
+        [
+          "7",
+          "ThS. Vũ Thị Hạnh Nguyên",
+          "184",
+          "130",
+          "75",
+          "29",
+          "418"
+        ],
+        [
+          "8",
+          "ThS. Phan Ngọc Diệp",
+          "104",
+          "73",
+          "42",
+          "17",
+          "236"
+        ],
+        [
+          "9",
+          "ThS. Lâm Hoàng Phúc",
+          "215",
+          "152",
+          "88",
+          "34",
+          "489"
+        ],
+        [
+          "10",
+          "ThS. Nguyễn Đức Khang",
+          "151",
+          "107",
+          "62",
+          "24",
+          "344"
+        ],
+        [
+          "11",
+          "ThS. Tạ Thị Mỹ Linh",
+          "90",
+          "64",
+          "37",
+          "14",
+          "205"
+        ],
+        [
+          "12",
+          "ThS. Huỳnh Gia Bảo",
+          "199",
+          "140",
+          "81",
+          "32",
+          "452"
+        ],
+        [
+          "13",
+          "ThS. Đặng Thùy Trang",
+          "109",
+          "77",
+          "45",
+          "17",
+          "248"
+        ],
+        [
+          "14",
+          "ThS. Kiều Minh Nhật",
+          "70",
+          "50",
+          "29",
+          "11",
+          "160"
+        ]
+      ],
+      "widths": [
+        0.06,
+        0.3,
+        0.12,
+        0.12,
+        0.13,
+        0.13,
+        0.14
+      ],
+      "caption": "Bảng 2a. Cơ cấu khối lượng thực hiện theo loại hoạt động (giờ chuẩn)"
+    },
+    {
+      "type": "h2",
+      "text": "3. Rà soát hệ số quy đổi đang áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "Thư ký trình bày các hệ số quy đổi ra giờ chuẩn đang áp dụng khi tổng hợp khối lượng năm học 2025–2026, để giảng viên đối chiếu với số liệu cá nhân. Các hệ số này theo quy định chung của Trường, Bộ môn không có thẩm quyền điều chỉnh mà chỉ được kiến nghị."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Hoạt động",
+        "Hệ số quy đổi",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Giảng lý thuyết lớp đến 60 sinh viên",
+          "1,0 giờ chuẩn/tiết",
+          "Lớp trên 60 sinh viên cộng 0,1 cho mỗi 10 sinh viên"
+        ],
+        [
+          "Giảng lý thuyết bằng tiếng Anh",
+          "1,5 giờ chuẩn/tiết",
+          "Chương trình chất lượng cao"
+        ],
+        [
+          "Hướng dẫn thực hành tại phòng máy",
+          "0,8 giờ chuẩn/tiết",
+          "Nhóm thực hành đến 35 sinh viên"
+        ],
+        [
+          "Hướng dẫn đồ án môn học",
+          "0,4 giờ chuẩn/sinh viên",
+          "Đang được đề nghị điều chỉnh"
+        ],
+        [
+          "Hướng dẫn khóa luận tốt nghiệp",
+          "6 giờ chuẩn/sinh viên",
+          "Đồ án tốt nghiệp 4 giờ chuẩn/sinh viên"
+        ],
+        [
+          "Coi thi tập trung",
+          "0,3 giờ chuẩn/ca",
+          "—"
+        ],
+        [
+          "Chấm thi viết",
+          "0,08 giờ chuẩn/bài",
+          "Chấm hai vòng tính cho cả hai người chấm"
+        ]
+      ],
+      "widths": [
+        0.4,
+        0.25,
+        0.35
+      ],
+      "caption": "Bảng 2b. Hệ số quy đổi giờ chuẩn áp dụng năm học 2025–2026"
+    },
+    {
+      "type": "p",
+      "text": "Qua đối chiếu, thư ký phát hiện 03 trường hợp nhập thiếu giờ chấm thi trong hệ thống: TS. Châu Minh Tâm (thiếu 6 giờ), ThS. Huỳnh Gia Bảo (thiếu 4 giờ) và ThS. Kiều Minh Nhật (thiếu 3 giờ). Các số liệu tại Bảng 2 đã được cập nhật sau khi bổ sung các giờ này."
+    },
+    {
+      "type": "h2",
+      "text": "4. Nguyên tắc thanh toán thù lao vượt giờ"
+    },
+    {
+      "type": "p",
+      "text": "Đại diện Văn phòng Khoa thông báo nguyên tắc thanh toán của Trường: số giờ vượt định mức được thanh toán tối đa 200 giờ chuẩn mỗi giảng viên trong một năm học; phần vượt trên 200 giờ không được thanh toán nhưng được ghi nhận trong hồ sơ đánh giá viên chức. Giờ vượt được bù trừ trước cho giờ nghiên cứu khoa học còn thiếu (nếu có) theo tỷ lệ 01 giờ giảng dạy bù 01 giờ nghiên cứu khoa học, tối đa 50 giờ. Theo số liệu Khoa cung cấp, năm học 2025–2026 không có giảng viên nào trong danh sách thiếu giờ nghiên cứu khoa học nên toàn bộ giờ vượt được xét thanh toán."
+    },
+    {
+      "type": "p",
+      "text": "Đơn giá thanh toán vượt giờ năm học 2025–2026 do Khoa đề xuất và được Trường chấp thuận: giảng viên có học vị tiến sĩ, phó giáo sư là 118.000 đồng/giờ chuẩn; giảng viên có học vị thạc sĩ là 96.000 đồng/giờ chuẩn. Thù lao vượt giờ được chi trả một lần vào kỳ lương tháng 9 năm 2026 sau khi khấu trừ thuế thu nhập cá nhân theo quy định."
+    },
+    {
+      "type": "h2",
+      "text": "5. Bảng dự kiến thù lao vượt giờ"
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Giảng viên",
+        "Giờ vượt",
+        "Giờ được thanh toán",
+        "Đơn giá (đồng)",
+        "Thù lao (đồng)"
+      ],
+      "rows": [
+        [
+          "1",
+          "TS. Đoàn Quốc Thịnh",
+          "149",
+          "149",
+          "118.000",
+          "17.582.000"
+        ],
+        [
+          "2",
+          "TS. Mai Thị Thu Hương",
+          "169",
+          "169",
+          "118.000",
+          "19.942.000"
+        ],
+        [
+          "3",
+          "PGS.TS. Hồ Văn Lực",
+          "158",
+          "158",
+          "118.000",
+          "18.644.000"
+        ],
+        [
+          "4",
+          "TS. Trịnh Quang Vinh",
+          "242",
+          "200",
+          "118.000",
+          "23.600.000"
+        ],
+        [
+          "5",
+          "TS. Lê Bảo Ngọc",
+          "125",
+          "125",
+          "118.000",
+          "14.750.000"
+        ],
+        [
+          "6",
+          "TS. Châu Minh Tâm",
+          "57",
+          "57",
+          "118.000",
+          "6.726.000"
+        ],
+        [
+          "7",
+          "ThS. Vũ Thị Hạnh Nguyên",
+          "148",
+          "148",
+          "96.000",
+          "14.208.000"
+        ],
+        [
+          "8",
+          "ThS. Phan Ngọc Diệp",
+          "47",
+          "47",
+          "96.000",
+          "4.512.000"
+        ],
+        [
+          "9",
+          "ThS. Lâm Hoàng Phúc",
+          "219",
+          "200",
+          "96.000",
+          "19.200.000"
+        ],
+        [
+          "10",
+          "ThS. Nguyễn Đức Khang",
+          "74",
+          "74",
+          "96.000",
+          "7.104.000"
+        ],
+        [
+          "11",
+          "ThS. Tạ Thị Mỹ Linh",
+          "16",
+          "16",
+          "96.000",
+          "1.536.000"
+        ],
+        [
+          "12",
+          "ThS. Huỳnh Gia Bảo",
+          "182",
+          "182",
+          "96.000",
+          "17.472.000"
+        ],
+        [
+          "13",
+          "ThS. Đặng Thùy Trang",
+          "0",
+          "0",
+          "96.000",
+          "0"
+        ],
+        [
+          "14",
+          "ThS. Kiều Minh Nhật",
+          "25",
+          "25",
+          "96.000",
+          "2.400.000"
+        ],
+        [
+          "",
+          "Tổng cộng",
+          "1611",
+          "1550",
+          "",
+          "167.676.000"
+        ]
+      ],
+      "widths": [
+        0.06,
+        0.32,
+        0.12,
+        0.15,
+        0.15,
+        0.2
+      ],
+      "caption": "Bảng 3. Dự kiến thù lao vượt giờ năm học 2025–2026"
+    },
+    {
+      "type": "p",
+      "text": "Tổng thù lao vượt giờ dự kiến của 14 giảng viên năm học 2025–2026 là 167.676.000 đồng, chưa khấu trừ thuế thu nhập cá nhân. Hai giảng viên có số giờ vượt trên mức trần 200 giờ là TS. Trịnh Quang Vinh và ThS. Lâm Hoàng Phúc."
+    },
+    {
+      "type": "h1",
+      "text": "III. Ý KIẾN THẢO LUẬN"
+    },
+    {
+      "type": "p",
+      "text": "ThS. Lâm Hoàng Phúc đề nghị Bộ môn kiến nghị Khoa xem xét thanh toán phần giờ vượt trên mức trần đối với trường hợp dạy thay theo phân công đột xuất, vì không thuộc trường hợp giảng viên tự đăng ký nhận thêm lớp. Trưởng Bộ môn ghi nhận và sẽ có văn bản kiến nghị Khoa."
+    },
+    {
+      "type": "p",
+      "text": "TS. Mai Thị Thu Hương đề nghị rà soát lại hệ số quy đổi giờ hướng dẫn đồ án môn học Công nghệ phần mềm, hiện đang tính 0,4 giờ chuẩn mỗi sinh viên, thấp hơn so với khối lượng thực tế khi sinh viên làm nhóm sản phẩm có triển khai thực tế. Đề xuất nâng lên 0,6 giờ chuẩn mỗi sinh viên từ năm học 2026–2027."
+    },
+    {
+      "type": "p",
+      "text": "PGS.TS. Hồ Văn Lực đề nghị Bộ môn ưu tiên phân bổ lớp cho các giảng viên chưa đủ định mức trước khi giao thêm lớp cho các giảng viên đã vượt nhiều, nhằm cân đối khối lượng và bảo đảm thời gian nghiên cứu khoa học."
+    },
+    {
+      "type": "p",
+      "text": "ThS. Đặng Thùy Trang giải trình: khối lượng thực hiện 248 giờ, thiếu 22 giờ so với định mức do 01 lớp học phần Phát triển ứng dụng web bị hủy vì không đủ sĩ số trong học kỳ 2. Giảng viên đề nghị được bù phần thiếu bằng giờ nghiên cứu khoa học vượt định mức."
+    },
+    {
+      "type": "p",
+      "text": "ThS. Nguyễn Đức Khang đề nghị Bộ môn công bố sớm dự kiến phân công giảng dạy cho cả năm học thay vì từng học kỳ, để giảng viên chủ động sắp xếp thời gian nghiên cứu và hướng dẫn sinh viên; đồng thời đề nghị ưu tiên giảng viên tập sự được dự giờ các học phần trước khi được phân công giảng dạy độc lập."
+    },
+    {
+      "type": "p",
+      "text": "TS. Lê Bảo Ngọc đề nghị tính giờ cho việc xây dựng ngân hàng câu hỏi thi trắc nghiệm trên máy của các học phần chung, vì đây là khối lượng lớn nhưng hiện chưa được quy đổi. Trưởng Bộ môn đề nghị giảng viên tổng hợp số liệu cụ thể để Bộ môn đưa vào văn bản kiến nghị chung."
+    },
+    {
+      "type": "p",
+      "text": "CN. Ông Thị Ngọc Hân lưu ý các giảng viên kiểm tra kỹ dữ liệu coi thi và chấm thi; mọi điều chỉnh phải có minh chứng là lịch coi thi, phiếu giao nhận bài thi có chữ ký, gửi về Văn phòng Khoa trước ngày 25 tháng 7 năm 2026."
+    },
+    {
+      "type": "h1",
+      "text": "IV. KẾT LUẬN CỦA CHỦ TRÌ"
+    },
+    {
+      "type": "p",
+      "text": "1. Thống nhất số liệu giờ chuẩn tại Bảng 2 và dự kiến thù lao vượt giờ tại Bảng 3. Giảng viên có ý kiến khác về số liệu cá nhân gửi minh chứng cho thư ký cuộc họp chậm nhất ngày 22 tháng 7 năm 2026; sau thời hạn này Bộ môn chốt số liệu gửi Khoa."
+    },
+    {
+      "type": "p",
+      "text": "2. Chấp thuận đề nghị bù 22 giờ giảng dạy còn thiếu của ThS. Đặng Thùy Trang bằng giờ nghiên cứu khoa học vượt định mức, do nguyên nhân khách quan; giảng viên không thuộc diện bị trừ khi đánh giá mức độ hoàn thành nhiệm vụ."
+    },
+    {
+      "type": "p",
+      "text": "3. Bộ môn có văn bản gửi Khoa kiến nghị xem xét thanh toán phần giờ vượt trên mức trần cho trường hợp dạy thay đột xuất của ThS. Lâm Hoàng Phúc (19 giờ)."
+    },
+    {
+      "type": "p",
+      "text": "4. Giao Phó Trưởng Bộ môn chủ trì xây dựng phương án điều chỉnh hệ số quy đổi giờ hướng dẫn đồ án môn học, trình cuộc họp Bộ môn tháng 8 năm 2026 trước khi đề xuất lên Khoa."
+    },
+    {
+      "type": "p",
+      "text": "5. Trong phân công giảng dạy năm học 2026–2027, Bộ môn khống chế khối lượng dự kiến của mỗi giảng viên không vượt quá 170% định mức sau giảm, trừ trường hợp dạy thay đột xuất."
+    },
+    {
+      "type": "h1",
+      "text": "V. BIỂU QUYẾT"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nội dung biểu quyết",
+        "Đồng ý",
+        "Không đồng ý",
+        "Ý kiến khác"
+      ],
+      "rows": [
+        [
+          "Thông qua số liệu Bảng 2 và Bảng 3",
+          "18/18",
+          "0",
+          "0"
+        ],
+        [
+          "Bù giờ thiếu của ThS. Đặng Thùy Trang bằng giờ NCKH",
+          "17/18",
+          "0",
+          "01 (đề nghị bổ sung minh chứng hủy lớp)"
+        ],
+        [
+          "Kiến nghị thanh toán giờ vượt trần cho trường hợp dạy thay",
+          "18/18",
+          "0",
+          "0"
+        ],
+        [
+          "Khống chế khối lượng năm học 2026–2027 không quá 170% định mức",
+          "15/18",
+          "02",
+          "01"
+        ]
+      ],
+      "widths": [
+        0.46,
+        0.14,
+        0.14,
+        0.26
+      ],
+      "caption": "Bảng 4. Kết quả biểu quyết"
+    },
+    {
+      "type": "h1",
+      "text": "VI. KẾ HOẠCH TRIỂN KHAI SAU CUỘC HỌP"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Công việc",
+        "Người thực hiện",
+        "Thời hạn"
+      ],
+      "rows": [
+        [
+          "Tiếp nhận ý kiến, minh chứng điều chỉnh số liệu cá nhân",
+          "ThS. Đặng Thùy Trang",
+          "22/7/2026"
+        ],
+        [
+          "Chốt số liệu, gửi bảng tổng hợp có chữ ký về Văn phòng Khoa",
+          "TS. Đoàn Quốc Thịnh",
+          "25/7/2026"
+        ],
+        [
+          "Soạn văn bản kiến nghị thanh toán giờ vượt trần trường hợp dạy thay",
+          "TS. Đoàn Quốc Thịnh",
+          "29/7/2026"
+        ],
+        [
+          "Xây dựng phương án hệ số hướng dẫn đồ án môn học",
+          "TS. Mai Thị Thu Hương",
+          "Cuộc họp tháng 8/2026"
+        ],
+        [
+          "Dự kiến phân công giảng dạy HK1 2026–2027 theo nguyên tắc mới",
+          "Phó Trưởng Bộ môn",
+          "05/8/2026"
+        ]
+      ],
+      "widths": [
+        0.5,
+        0.28,
+        0.22
+      ],
+      "caption": "Bảng 5. Phân công triển khai"
+    },
+    {
+      "type": "p",
+      "text": "Cuộc họp kết thúc lúc 11 giờ 15 phút cùng ngày. Biên bản đã được đọc lại cho các thành viên tham dự nghe và thống nhất thông qua. Biên bản được lập thành 03 bản: 01 bản gửi Văn phòng Khoa, 01 bản lưu Bộ môn, 01 bản lưu hồ sơ khối lượng giảng dạy năm học 2025–2026."
+    },
+    {
+      "type": "p",
+      "text": "Biên bản này là tài liệu nội bộ cấp độ 4 do có chứa thông tin thu nhập cá nhân của giảng viên; không sao chụp, chia sẻ ra ngoài thành phần được phân quyền."
+    },
+    {
+      "type": "p",
+      "text": "Thư ký cuộc họp: ThS. Đặng Thùy Trang (đã ký)."
+    }
+  ],
+  "signature": {
+    "title": "CHỦ TRÌ CUỘC HỌP – TRƯỞNG BỘ MÔN",
+    "name": "TS. Đoàn Quốc Thịnh"
+  },
+  "recipients": [
+    "Văn phòng Khoa Công nghệ Thông tin",
+    "Lưu: VT Bộ môn, hồ sơ khối lượng giảng dạy"
+  ],
+  "questions": [
+    {
+      "question": "Đơn giá thanh toán vượt giờ năm học 2025–2026 cho giảng viên tiến sĩ và thạc sĩ của bộ môn là bao nhiêu?",
+      "expected_answer": "Tiến sĩ, PGS: 118.000 đồng/giờ chuẩn; thạc sĩ: 96.000 đồng/giờ chuẩn.",
+      "evidence": "giảng viên có học vị tiến sĩ, phó giáo sư là 118.000 đồng/giờ chuẩn; giảng viên có học vị thạc sĩ là 96.000 đồng/giờ chuẩn."
+    },
+    {
+      "question": "Mỗi giảng viên được thanh toán tối đa bao nhiêu giờ vượt định mức trong một năm học?",
+      "expected_answer": "Tối đa 200 giờ chuẩn; phần vượt trên 200 giờ không được thanh toán.",
+      "evidence": "số giờ vượt định mức được thanh toán tối đa 200 giờ chuẩn mỗi giảng viên trong một năm học"
+    },
+    {
+      "question": "Năm học 2025–2026 giảng viên nào trong bộ môn vượt giờ nhiều nhất và vượt bao nhiêu giờ?",
+      "expected_answer": "TS. Trịnh Quang Vinh, thực hiện 532 giờ chuẩn, vượt 242 giờ.",
+      "evidence": "giờ thực hiện của TS. Trịnh Quang Vinh là 532 giờ chuẩn, vượt định mức 242 giờ, cao nhất Bộ môn"
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "doc_id": "P4",
+  "file_name": "P4_quy-dinh-xet-tot-nghiep-chuan-dau-ra-ngoai-ngu-tin-hoc-2026.pdf",
+  "title": "QUY ĐỊNH XÉT VÀ CÔNG NHẬN TỐT NGHIỆP; CHUẨN ĐẦU RA NGOẠI NGỮ, TIN HỌC ĐỐI VỚI CÁC KHÓA TUYỂN SINH TỪ NĂM 2026",
+  "number": "Số: 2489/QĐ-ĐHCN",
+  "place_date": "TP. Hồ Chí Minh, ngày 03 tháng 9 năm 2026",
+  "signature": {
+    "title": "HIỆU TRƯỞNG",
+    "name": "Nguyễn Văn Phúc Lâm"
+  },
+  "recipients": [
+    "Hội đồng trường (để báo cáo)",
+    "Ban Giám hiệu",
+    "Các khoa, phòng, trung tâm",
+    "Sinh viên (qua Cổng thông tin)",
+    "Lưu: VT, P.ĐT"
+  ],
+  "parent_org": "BỘ CÔNG THƯƠNG",
+  "issuer": "TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH",
+  "confidential": null,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Căn cứ Luật Giáo dục đại học năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học năm 2018;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam và Chuẩn kỹ năng sử dụng công nghệ thông tin theo các văn bản hiện hành của Bộ Giáo dục và Đào tạo, Bộ Thông tin và Truyền thông;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế đào tạo trình độ đại học theo hệ thống tín chỉ của Trường Đại học Công nghiệp TP. Hồ Chí Minh ban hành kèm theo Quyết định số 0814/QĐ-ĐHCN ngày 09 tháng 3 năm 2025;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Nghị quyết số 33/NQ-HĐT ngày 26 tháng 8 năm 2026 của Hội đồng trường về chuẩn đầu ra ngoại ngữ, tin học đối với các khóa tuyển sinh từ năm 2026;"
+    },
+    {
+      "type": "p",
+      "text": "Theo đề nghị của Trưởng phòng Đào tạo và Giám đốc Trung tâm Ngoại ngữ – Tin học."
+    },
+    {
+      "type": "p",
+      "text": "Hiệu trưởng ban hành Quy định xét và công nhận tốt nghiệp; chuẩn đầu ra ngoại ngữ, tin học áp dụng cho sinh viên đại học hệ chính quy các khóa tuyển sinh từ năm 2026 như sau."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG I. QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "1. Quy định này quy định điều kiện xét và công nhận tốt nghiệp; chuẩn đầu ra ngoại ngữ, tin học; danh mục chứng chỉ được công nhận và bảng quy đổi; tổ chức các đợt xét tốt nghiệp; xếp hạng tốt nghiệp và cấp bằng."
+    },
+    {
+      "type": "p",
+      "text": "2. Quy định áp dụng đối với sinh viên đại học hệ chính quy khóa 2026 trở về sau, bao gồm chương trình đại trà và chương trình tăng cường tiếng Anh. Sinh viên khóa 2025 trở về trước tiếp tục áp dụng quy định chuẩn đầu ra đã ban hành cho khóa đó, trừ các nội dung tại Chương IV và Chương V được áp dụng chung cho mọi khóa kể từ đợt xét tháng 10 năm 2027."
+    },
+    {
+      "type": "p",
+      "text": "3. Sinh viên người nước ngoài học bằng tiếng Việt áp dụng chuẩn đầu ra tiếng Việt theo quy định riêng thay cho chuẩn đầu ra ngoại ngữ."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Giải thích từ ngữ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Chuẩn đầu ra ngoại ngữ: mức năng lực ngoại ngữ tối thiểu sinh viên phải đạt để được xét tốt nghiệp, xác định theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (KNLNN).",
+        "Chuẩn đầu ra tin học: mức kỹ năng sử dụng công nghệ thông tin tối thiểu sinh viên phải đạt để được xét tốt nghiệp.",
+        "Chuẩn ngoại ngữ trung gian: mức năng lực ngoại ngữ sinh viên phải đạt trước khi được đăng ký các học phần chuyên ngành từ học kỳ 5.",
+        "Kỳ thi nội bộ: kỳ thi đánh giá năng lực tiếng Anh ĐHCN-EPT và kỳ thi kỹ năng tin học ĐHCN-ITS do Trung tâm Ngoại ngữ – Tin học của Trường tổ chức.",
+        "Đợt xét tốt nghiệp: khoảng thời gian Trường tiếp nhận hồ sơ, xét và ra quyết định công nhận tốt nghiệp cho sinh viên đủ điều kiện."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG II. CHUẨN ĐẦU RA NGOẠI NGỮ"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Mức chuẩn đầu ra ngoại ngữ"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên chương trình đại trà các khóa tuyển sinh từ năm 2026 phải đạt trình độ tiếng Anh tối thiểu bậc 3/6 theo KNLNN (tương đương B1 theo Khung tham chiếu chung châu Âu – CEFR)."
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên chương trình tăng cường tiếng Anh phải đạt trình độ tiếng Anh tối thiểu bậc 4/6 theo KNLNN (tương đương B2 theo CEFR)."
+    },
+    {
+      "type": "p",
+      "text": "3. Sinh viên ngành Ngôn ngữ Anh phải đạt tiếng Anh bậc 5/6 và một ngoại ngữ thứ hai bậc 2/6; sinh viên các ngành ngôn ngữ khác áp dụng chuẩn riêng được quy định trong chương trình đào tạo của ngành."
+    },
+    {
+      "type": "p",
+      "text": "4. Sinh viên chương trình đại trà có thể thay thế tiếng Anh bằng tiếng Nhật, tiếng Hàn, tiếng Trung hoặc tiếng Pháp với trình độ tương đương bậc 3/6, nếu được Trưởng khoa chấp thuận trước khi kết thúc học kỳ 4."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Chuẩn ngoại ngữ trung gian"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên chương trình đại trà khóa 2026 trở đi phải đạt tiếng Anh tối thiểu bậc 2/6 (tương đương A2) trước khi đăng ký học phần chuyên ngành của học kỳ 5. Minh chứng là chứng chỉ được công nhận tại Bảng 1 hoặc kết quả kỳ thi ĐHCN-EPT từ 42/100 điểm trở lên."
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên chưa đạt chuẩn ngoại ngữ trung gian chỉ được đăng ký tối đa 14 tín chỉ mỗi học kỳ chính, trong đó bắt buộc có học phần Tiếng Anh tăng cường A2 (3 tín chỉ, không tính vào tín chỉ tích lũy của chương trình), cho đến khi đạt chuẩn."
+    },
+    {
+      "type": "p",
+      "text": "3. Sinh viên chương trình tăng cường tiếng Anh phải đạt bậc 3/6 trước học kỳ 5; không đạt thì được chuyển sang chương trình đại trà cùng ngành theo nguyện vọng."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Chứng chỉ được công nhận và bảng quy đổi tiếng Anh"
+    },
+    {
+      "type": "p",
+      "text": "1. Các chứng chỉ, kết quả thi được công nhận và mức điểm tối thiểu tương ứng như Bảng 1. Đối với TOEIC, sinh viên phải nộp đồng thời kết quả bài thi Nghe – Đọc và bài thi Nói – Viết."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Chứng chỉ / kỳ thi",
+        "Bậc 2/6 (chuẩn trung gian)",
+        "Bậc 3/6 (đại trà)",
+        "Bậc 4/6 (tăng cường)"
+      ],
+      "rows": [
+        [
+          "VSTEP (do đơn vị được cấp phép tổ chức)",
+          "Bậc 2",
+          "Bậc 3",
+          "Bậc 4"
+        ],
+        [
+          "IELTS Academic",
+          "3.5",
+          "4.5",
+          "5.5"
+        ],
+        [
+          "TOEIC Nghe – Đọc / Nói – Viết",
+          "350 / 160",
+          "455 / 225",
+          "600 / 250"
+        ],
+        [
+          "TOEFL iBT",
+          "32",
+          "46",
+          "61"
+        ],
+        [
+          "Cambridge (Linguaskill / B1 Preliminary)",
+          "120",
+          "140",
+          "160"
+        ],
+        [
+          "Aptis ESOL (bốn kỹ năng)",
+          "A2",
+          "B1",
+          "B2"
+        ],
+        [
+          "Kỳ thi nội bộ ĐHCN-EPT (thang 100)",
+          "42",
+          "58",
+          "74"
+        ]
+      ],
+      "widths": [
+        0.34,
+        0.22,
+        0.22,
+        0.22
+      ],
+      "caption": "Bảng 1. Quy đổi chứng chỉ tiếng Anh theo bậc năng lực"
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên chương trình đại trà sử dụng IELTS để xét chuẩn đầu ra phải đạt từ 4.5 trở lên; sinh viên chương trình tăng cường tiếng Anh phải đạt từ 5.5 trở lên."
+    },
+    {
+      "type": "p",
+      "text": "3. Kết quả kỳ thi ĐHCN-EPT chỉ có giá trị để xét chuẩn đầu ra tại Trường, không có giá trị như một chứng chỉ ngoại ngữ quốc gia. Mỗi sinh viên được dự thi ĐHCN-EPT miễn phí 1 lần trong toàn khóa; từ lần thứ hai, lệ phí dự thi là 540.000 đồng/lần."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Chứng chỉ ngoại ngữ khác tiếng Anh"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Ngoại ngữ",
+        "Chứng chỉ được công nhận",
+        "Mức tối thiểu tương đương bậc 3/6"
+      ],
+      "rows": [
+        [
+          "Tiếng Nhật",
+          "JLPT / NAT-TEST",
+          "N4 / 4Q"
+        ],
+        [
+          "Tiếng Hàn",
+          "TOPIK II",
+          "Cấp 3"
+        ],
+        [
+          "Tiếng Trung",
+          "HSK (kèm HSKK sơ cấp)",
+          "HSK 3 từ 210 điểm"
+        ],
+        [
+          "Tiếng Pháp",
+          "DELF / TCF",
+          "B1 / từ 300 điểm"
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.38,
+        0.4
+      ],
+      "caption": "Bảng 2. Chứng chỉ ngoại ngữ khác được công nhận"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Thời hạn và xác thực chứng chỉ"
+    },
+    {
+      "type": "p",
+      "text": "1. Chứng chỉ, kết quả thi ngoại ngữ quốc tế được công nhận nếu còn trong thời hạn 24 tháng tính từ ngày thi đến ngày sinh viên nộp hồ sơ xét chuẩn đầu ra, không phụ thuộc thời hạn ghi trên chứng chỉ. Chứng chỉ VSTEP và kết quả kỳ thi ĐHCN-EPT không giới hạn thời hạn khi xét tại Trường."
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên nộp bản scan chứng chỉ trên Cổng thông tin sinh viên, mục Chuẩn đầu ra, và nộp bản chính để đối chiếu tại Trung tâm Ngoại ngữ – Tin học. Trung tâm xác thực trực tuyến với đơn vị cấp chứng chỉ trong vòng 7 ngày làm việc."
+    },
+    {
+      "type": "p",
+      "text": "3. Sinh viên sử dụng chứng chỉ giả hoặc có dấu hiệu gian lận bị hủy kết quả công nhận, bị xử lý kỷ luật mức đình chỉ học tập 1 năm và bị chuyển hồ sơ đến cơ quan có thẩm quyền xử lý theo quy định của pháp luật."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG III. CHUẨN ĐẦU RA TIN HỌC"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Mức chuẩn và chứng chỉ được công nhận"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên phải đạt chuẩn kỹ năng sử dụng công nghệ thông tin cơ bản, được chứng minh bằng một trong các hình thức sau:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Chứng chỉ ứng dụng công nghệ thông tin cơ bản do đơn vị được cấp phép tổ chức thi và cấp chứng chỉ;",
+        "Chứng chỉ MOS (Microsoft Office Specialist) đạt từ 750 điểm trở lên ở ít nhất 2 trong 3 môn Word, Excel, PowerPoint;",
+        "Chứng chỉ IC3 Digital Literacy (GS6) đạt Cấp độ 2 trở lên;",
+        "Kết quả kỳ thi nội bộ ĐHCN-ITS từ 65/100 điểm trở lên, gồm phần trắc nghiệm 40 câu và phần thực hành trên máy trong 60 phút."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên các ngành thuộc Khoa Công nghệ Thông tin, ngành Hệ thống thông tin quản lý và ngành Thương mại điện tử được miễn chuẩn đầu ra tin học do chương trình đào tạo đã bao hàm các năng lực tương đương."
+    },
+    {
+      "type": "p",
+      "text": "3. Chứng chỉ tin học không giới hạn thời hạn khi xét chuẩn đầu ra. Lệ phí dự thi ĐHCN-ITS là 380.000 đồng/lần; sinh viên khóa 2026 được miễn lệ phí lần thi đầu tiên nếu dự thi trong năm học thứ nhất."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Hình thức",
+        "Mức yêu cầu",
+        "Đối tượng được miễn"
+      ],
+      "rows": [
+        [
+          "Chứng chỉ ứng dụng CNTT cơ bản",
+          "Đạt",
+          "Ngành thuộc Khoa CNTT, HTTT quản lý, Thương mại điện tử"
+        ],
+        [
+          "MOS (Word, Excel, PowerPoint)",
+          "Từ 750 điểm, 2/3 môn",
+          "Như trên"
+        ],
+        [
+          "IC3 Digital Literacy GS6",
+          "Cấp độ 2 trở lên",
+          "Như trên"
+        ],
+        [
+          "Kỳ thi nội bộ ĐHCN-ITS",
+          "Từ 65/100 điểm",
+          "Như trên"
+        ]
+      ],
+      "widths": [
+        0.34,
+        0.26,
+        0.4
+      ],
+      "caption": "Bảng 3. Chuẩn đầu ra tin học"
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG IV. ĐIỀU KIỆN VÀ THỦ TỤC XÉT TỐT NGHIỆP"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Điều kiện xét và công nhận tốt nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Tích lũy đủ số tín chỉ và hoàn thành các học phần bắt buộc theo chương trình đào tạo của ngành, khóa;",
+        "Điểm trung bình tích lũy toàn khóa đạt từ 2,00 trở lên theo thang điểm 4;",
+        "Có chứng chỉ Giáo dục quốc phòng – an ninh và hoàn thành học phần Giáo dục thể chất;",
+        "Đạt chuẩn đầu ra ngoại ngữ và chuẩn đầu ra tin học theo Chương II và Chương III;",
+        "Tại thời điểm xét không bị truy cứu trách nhiệm hình sự, không trong thời gian bị kỷ luật đình chỉ học tập;",
+        "Hoàn thành nghĩa vụ học phí, lệ phí và trả đủ tài liệu, thiết bị mượn của Thư viện, các phòng thí nghiệm."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Các đợt xét tốt nghiệp trong năm"
+    },
+    {
+      "type": "p",
+      "text": "1. Hằng năm Trường tổ chức 5 đợt xét tốt nghiệp vào các tháng 3, 6, 8, 10 và 12. Đợt tháng 10 là đợt xét chính cho sinh viên hoàn thành chương trình đúng thời gian thiết kế, có tổ chức lễ trao bằng tập trung."
+    },
+    {
+      "type": "p",
+      "text": "2. Sinh viên đăng ký xét tốt nghiệp trực tuyến trên Cổng thông tin sinh viên, mục Tốt nghiệp, và nộp lệ phí xét tốt nghiệp 320.000 đồng/lần đăng ký. Sinh viên không đủ điều kiện trong đợt đã đăng ký được chuyển tự động sang đợt kế tiếp mà không phải nộp lại lệ phí, tối đa 2 đợt."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Đợt xét",
+        "Hạn chót đạt chuẩn và nộp minh chứng",
+        "Hội đồng xét",
+        "Trao bằng dự kiến"
+      ],
+      "rows": [
+        [
+          "Đợt tháng 3",
+          "Ngày 20 tháng 2",
+          "Tuần 2 tháng 3",
+          "Tháng 4"
+        ],
+        [
+          "Đợt tháng 6",
+          "Ngày 22 tháng 5",
+          "Tuần 2 tháng 6",
+          "Tháng 7"
+        ],
+        [
+          "Đợt tháng 8",
+          "Ngày 24 tháng 7",
+          "Tuần 2 tháng 8",
+          "Tháng 9"
+        ],
+        [
+          "Đợt tháng 10 (đợt chính)",
+          "Ngày 18 tháng 9",
+          "Tuần 2 tháng 10",
+          "Lễ tốt nghiệp tập trung tháng 11"
+        ],
+        [
+          "Đợt tháng 12",
+          "Ngày 20 tháng 11",
+          "Tuần 2 tháng 12",
+          "Tháng 01 năm sau"
+        ]
+      ],
+      "widths": [
+        0.24,
+        0.3,
+        0.2,
+        0.26
+      ],
+      "caption": "Bảng 4. Lịch các đợt xét tốt nghiệp hằng năm"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Hội đồng xét tốt nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "1. Hội đồng xét tốt nghiệp do Hiệu trưởng hoặc Phó Hiệu trưởng được ủy quyền làm Chủ tịch; Trưởng phòng Đào tạo làm Thư ký; các ủy viên gồm Trưởng các khoa có sinh viên được xét, Trưởng phòng Công tác Sinh viên, Trưởng phòng Khảo thí và Đảm bảo chất lượng, Giám đốc Trung tâm Ngoại ngữ – Tin học."
+    },
+    {
+      "type": "p",
+      "text": "2. Căn cứ đề nghị của Hội đồng, Hiệu trưởng ký quyết định công nhận tốt nghiệp trong vòng 10 ngày làm việc kể từ ngày họp Hội đồng. Danh sách sinh viên được công nhận tốt nghiệp được công khai trên Cổng thông tin sinh viên trong vòng 3 ngày làm việc sau khi có quyết định."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG V. HẠNG TỐT NGHIỆP VÀ CẤP BẰNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Xếp hạng tốt nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "1. Hạng tốt nghiệp được xác định theo điểm trung bình tích lũy toàn khóa như Bảng 5."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Hạng tốt nghiệp",
+        "Điểm trung bình tích lũy (thang 4)",
+        "Tỷ lệ khóa tốt nghiệp 2026 (tham khảo)"
+      ],
+      "rows": [
+        [
+          "Xuất sắc",
+          "Từ 3,60 đến 4,00",
+          "3,1%"
+        ],
+        [
+          "Giỏi",
+          "Từ 3,20 đến 3,59",
+          "19,6%"
+        ],
+        [
+          "Khá",
+          "Từ 2,50 đến 3,19",
+          "58,4%"
+        ],
+        [
+          "Trung bình",
+          "Từ 2,00 đến 2,49",
+          "18,9%"
+        ]
+      ],
+      "widths": [
+        0.26,
+        0.38,
+        0.36
+      ],
+      "caption": "Bảng 5. Xếp hạng tốt nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "2. Hạng tốt nghiệp của sinh viên có kết quả học tập toàn khóa loại Xuất sắc hoặc Giỏi bị giảm đi một mức nếu có khối lượng các học phần phải học lại vượt quá 6% tổng số tín chỉ của chương trình đào tạo, hoặc đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học."
+    },
+    {
+      "type": "p",
+      "text": "3. Sinh viên tốt nghiệp hạng Xuất sắc có thời gian học không vượt thời gian thiết kế của chương trình và không có học phần học lại được Hiệu trưởng tặng Giấy khen và phần thưởng 3.000.000 đồng; thủ khoa tốt nghiệp của toàn Trường trong đợt xét tháng 10 được tặng thêm 5.000.000 đồng."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Cấp bằng và các văn bản kèm theo"
+    },
+    {
+      "type": "p",
+      "text": "1. Bằng tốt nghiệp được cấp cho sinh viên trong vòng 30 ngày kể từ ngày có quyết định công nhận tốt nghiệp. Trong thời gian chờ cấp bằng, sinh viên được cấp Giấy chứng nhận tốt nghiệp tạm thời có giá trị trong 6 tháng."
+    },
+    {
+      "type": "p",
+      "text": "2. Kèm theo bằng tốt nghiệp, sinh viên được cấp Bảng điểm toàn khóa song ngữ Việt – Anh và Phụ lục văn bằng thể hiện chuẩn đầu ra ngoại ngữ, tin học đã đạt."
+    },
+    {
+      "type": "p",
+      "text": "3. Bằng tốt nghiệp được cấp kèm mã tra cứu văn bằng điện tử; đơn vị tuyển dụng có thể xác thực văn bằng trên Cổng tra cứu văn bằng của Trường."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Sinh viên hết thời gian học tập tối đa"
+    },
+    {
+      "type": "p",
+      "text": "1. Sinh viên đã hết thời gian học tập tối đa nhưng chưa đạt chuẩn đầu ra ngoại ngữ, tin học, trong khi đã hoàn thành các điều kiện khác, được bảo lưu kết quả học tập trong thời hạn 3 năm kể từ ngày hết thời gian học tập tối đa để bổ sung chứng chỉ và đăng ký xét tốt nghiệp."
+    },
+    {
+      "type": "p",
+      "text": "2. Trong thời hạn bảo lưu, sinh viên được đăng ký xét tốt nghiệp tại bất kỳ đợt nào trong năm; quá thời hạn 3 năm mà không bổ sung được chứng chỉ thì được cấp Giấy chứng nhận hoàn thành các học phần của chương trình đào tạo."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VI. TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Trách nhiệm của các đơn vị"
+    },
+    {
+      "type": "p",
+      "text": "1. Phòng Đào tạo chủ trì tổ chức các đợt xét tốt nghiệp; rà soát kết quả học tập; quản lý phôi bằng và tổ chức cấp phát bằng tốt nghiệp."
+    },
+    {
+      "type": "p",
+      "text": "2. Trung tâm Ngoại ngữ – Tin học tổ chức kỳ thi ĐHCN-EPT, ĐHCN-ITS định kỳ mỗi tháng 1 lần (trừ tháng 2 và tháng 8); xác thực, cập nhật kết quả chuẩn đầu ra lên hệ thống chậm nhất 7 ngày làm việc sau khi tiếp nhận minh chứng; mở các lớp ôn luyện cho sinh viên có nhu cầu."
+    },
+    {
+      "type": "p",
+      "text": "3. Các khoa phổ biến Quy định cho sinh viên từ năm thứ nhất; cố vấn học tập theo dõi tiến độ đạt chuẩn ngoại ngữ trung gian và nhắc nhở sinh viên chưa đạt chuẩn ít nhất mỗi học kỳ một lần."
+    },
+    {
+      "type": "p",
+      "text": "4. Phòng Công tác Sinh viên xác nhận tình trạng kỷ luật; Phòng Tài chính – Kế toán xác nhận hoàn thành nghĩa vụ tài chính của sinh viên trước mỗi đợt xét."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Hiệu lực thi hành"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này có hiệu lực kể từ ngày ký. Chương II và Chương III áp dụng cho sinh viên khóa tuyển sinh từ năm 2026; Chương IV và Chương V áp dụng cho mọi khóa kể từ đợt xét tốt nghiệp tháng 10 năm 2027. Mọi thắc mắc liên hệ Phòng Đào tạo, Bộ phận Tốt nghiệp – Văn bằng, phòng A1.112."
+    },
+    {
+      "type": "h2",
+      "text": "PHỤ LỤC. LỘ TRÌNH ĐỀ XUẤT ĐẠT CHUẨN NGOẠI NGỮ CHO SINH VIÊN ĐẠI TRÀ KHÓA 2026"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Thời điểm",
+        "Mục tiêu",
+        "Hoạt động khuyến nghị"
+      ],
+      "rows": [
+        [
+          "Học kỳ 1 – 2 (năm học 2026–2027)",
+          "Kiểm tra đầu vào, đạt bậc 1–2",
+          "Học Tiếng Anh 1, 2; dự thi ĐHCN-EPT miễn phí lần đầu"
+        ],
+        [
+          "Học kỳ 3 – 4 (năm học 2027–2028)",
+          "Đạt chuẩn trung gian bậc 2/6",
+          "Nộp minh chứng trước ngày mở đăng ký học kỳ 5"
+        ],
+        [
+          "Học kỳ 5 – 6 (năm học 2028–2029)",
+          "Tiến tới bậc 3/6",
+          "Lớp ôn luyện VSTEP, IELTS do Trung tâm tổ chức"
+        ],
+        [
+          "Học kỳ 7 – 8 (năm học 2029–2030)",
+          "Đạt chuẩn đầu ra bậc 3/6",
+          "Nộp minh chứng trước hạn chót đợt xét tháng 10 năm 2030"
+        ]
+      ],
+      "widths": [
+        0.3,
+        0.3,
+        0.4
+      ],
+      "caption": "Lộ trình tham khảo"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Sinh viên chương trình đại trà khóa 2026 cần IELTS tối thiểu bao nhiêu để đạt chuẩn đầu ra ngoại ngữ?",
+      "expected_answer": "IELTS từ 4.5 trở lên (tương đương bậc 3/6); chương trình tăng cường tiếng Anh cần 5.5.",
+      "evidence": "Sinh viên chương trình đại trà sử dụng IELTS để xét chuẩn đầu ra phải đạt từ 4.5 trở lên"
+    },
+    {
+      "question": "Mỗi năm trường tổ chức bao nhiêu đợt xét tốt nghiệp, vào những tháng nào?",
+      "expected_answer": "5 đợt, vào các tháng 3, 6, 8, 10 và 12 (đợt tháng 10 là đợt chính).",
+      "evidence": "Hằng năm Trường tổ chức 5 đợt xét tốt nghiệp vào các tháng 3, 6, 8, 10 và 12."
+    },
+    {
+      "question": "Dùng chứng chỉ MOS để xét chuẩn đầu ra tin học thì cần đạt bao nhiêu điểm?",
+      "expected_answer": "Từ 750 điểm trở lên ở ít nhất 2 trong 3 môn Word, Excel, PowerPoint.",
+      "evidence": "Chứng chỉ MOS (Microsoft Office Specialist) đạt từ 750 điểm trở lên ở ít nhất 2 trong 3 môn Word, Excel, PowerPoint"
+    }
+  ]
+}
