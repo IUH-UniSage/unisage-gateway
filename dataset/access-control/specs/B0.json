@@ -1,0 +1,581 @@
+{
+  "doc_id": "B0",
+  "file_name": "B0_quy-dinh-sinh-hoat-chuyen-mon-du-gio-bm-ke-toan-2026-2027.pdf",
+  "title": "QUY ĐỊNH SINH HOẠT CHUYÊN MÔN VÀ DỰ GIỜ GIẢNG VIÊN BỘ MÔN KẾ TOÁN NĂM HỌC 2026–2027",
+  "parent_org": "KHOA KINH TẾ",
+  "issuer": "BỘ MÔN KẾ TOÁN",
+  "number": "Số: 1186/QĐ-BMKT",
+  "place_date": "TP. Hồ Chí Minh, ngày 22 tháng 8 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – BỘ MÔN KẾ TOÁN",
+  "blocks": [
+    {
+      "type": "h1",
+      "text": "CĂN CỨ BAN HÀNH"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế tổ chức và hoạt động của Trường Đại học Công nghiệp TP. Hồ Chí Minh; căn cứ Quy định về công tác chuyên môn của các khoa, bộ môn ban hành kèm theo Quyết định số 3318/QĐ-ĐHCN ngày 07 tháng 7 năm 2025 của Hiệu trưởng (văn bản giả lập dùng cho mục đích nội bộ); căn cứ Kế hoạch năm học 2026–2027 của Khoa Kinh tế số 0871/KH-KKT ngày 11 tháng 8 năm 2026;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ kết quả cuộc họp toàn thể giảng viên Bộ môn Kế toán ngày 19 tháng 8 năm 2026 về việc đổi mới hoạt động sinh hoạt chuyên môn và dự giờ, với 19/21 viên chức có mặt và 18/19 ý kiến tán thành;"
+    },
+    {
+      "type": "p",
+      "text": "Xét đề nghị của Tổ thư ký chuyên môn Bộ môn, Trưởng Bộ môn Kế toán ban hành Quy định sinh hoạt chuyên môn và dự giờ giảng viên áp dụng trong năm học 2026–2027 với các nội dung dưới đây."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG I. QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này điều chỉnh việc tổ chức sinh hoạt chuyên môn định kỳ, sinh hoạt nhóm chuyên môn, hoạt động dự giờ, đánh giá giờ giảng và việc sử dụng kết quả dự giờ trong đánh giá, xếp loại viên chức của Bộ môn Kế toán thuộc Khoa Kinh tế."
+    },
+    {
+      "type": "p",
+      "text": "Đối tượng áp dụng gồm toàn bộ giảng viên cơ hữu, giảng viên tập sự, trợ giảng đang công tác tại Bộ môn; giảng viên thỉnh giảng có hợp đồng giảng dạy từ 45 tiết trở lên trong năm học cũng thuộc diện được dự giờ nhưng không bắt buộc tham gia đi dự giờ."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Mục đích, yêu cầu"
+    },
+    {
+      "type": "p",
+      "text": "Sinh hoạt chuyên môn và dự giờ nhằm nâng cao chất lượng giờ giảng, thống nhất nội dung, phương pháp giảng dạy và phương pháp đánh giá giữa các giảng viên cùng phụ trách một học phần; phát hiện, bồi dưỡng và nhân rộng các cách làm hay; hỗ trợ giảng viên mới nhanh chóng đáp ứng yêu cầu của chương trình đào tạo ngành Kế toán theo chuẩn đầu ra cập nhật năm 2025."
+    },
+    {
+      "type": "p",
+      "text": "Hoạt động dự giờ phải được thực hiện trên tinh thần cầu thị, khách quan, góp ý mang tính xây dựng; không dùng kết quả dự giờ một lần duy nhất làm căn cứ kỷ luật. Mọi nhận xét phải được ghi bằng văn bản trên phiếu đánh giá theo mẫu thống nhất và được trao đổi trực tiếp với giảng viên được dự giờ chậm nhất 03 ngày làm việc sau buổi dự."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Giải thích từ ngữ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Sinh hoạt chuyên môn định kỳ: buổi họp chuyên môn của toàn Bộ môn, có chương trình, biên bản và danh sách điểm danh.",
+        "Nhóm chuyên môn: nhóm giảng viên cùng phụ trách một cụm học phần có liên quan, do Trưởng Bộ môn quyết định thành lập.",
+        "Tiết dự giờ: một tiết học 50 phút trên lớp hoặc một tiết học trực tuyến đồng bộ trên hệ thống LMS của Trường mà người dự có mặt từ đầu đến cuối.",
+        "Giảng viên mới: giảng viên có thời gian giảng dạy đại học tại Trường dưới 03 năm tính đến ngày 01 tháng 9 năm 2026, kể cả giảng viên chuyển từ đơn vị khác về.",
+        "Phiếu đánh giá: Phiếu đánh giá giờ giảng mẫu PDG-KT-03 ban hành kèm theo Quy định này."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG II. SINH HOẠT CHUYÊN MÔN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Sinh hoạt chuyên môn định kỳ của Bộ môn"
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn tổ chức sinh hoạt chuyên môn định kỳ vào chiều thứ Năm của tuần thứ hai mỗi tháng, bắt đầu lúc 13 giờ 30, tại phòng E2.315; trường hợp trùng lịch thi hoặc ngày lễ, Thư ký Bộ môn thông báo lịch thay thế trước ít nhất 05 ngày qua nhóm thư điện tử nội bộ của Bộ môn."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi buổi sinh hoạt có thời lượng tối thiểu 120 phút, gồm ba phần: (i) thông tin, văn bản mới về đào tạo, chuẩn mực kế toán và chính sách thuế; (ii) một chuyên đề học thuật hoặc phương pháp giảng dạy do một giảng viên chủ trì báo cáo; (iii) rà soát tiến độ giảng dạy, đề cương học phần, kết quả dự giờ của tháng trước."
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên chủ trì báo cáo chuyên đề phải gửi tài liệu tóm tắt tối thiểu 4 trang cho Thư ký Bộ môn trước buổi sinh hoạt ít nhất 03 ngày. Mỗi lượt chủ trì báo cáo chuyên đề đạt yêu cầu được quy đổi 6 giờ chuẩn nghiên cứu khoa học theo quy định của Trường."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Lịch chuyên đề năm học 2026–2027"
+    },
+    {
+      "type": "p",
+      "text": "Lịch chuyên đề dưới đây là lịch dự kiến, có thể được điều chỉnh tại buổi sinh hoạt liền trước. Giảng viên có nhu cầu đổi lịch phải tự thỏa thuận với người được đổi và báo Thư ký Bộ môn để cập nhật biên bản."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Tháng",
+        "Chuyên đề dự kiến",
+        "Người chủ trì"
+      ],
+      "rows": [
+        [
+          "9/2026",
+          "Cập nhật chuẩn mực báo cáo tài chính quốc tế (IFRS 18) và tác động đến học phần Kế toán tài chính 2",
+          "ThS. Đoàn Minh Khôi"
+        ],
+        [
+          "10/2026",
+          "Thiết kế bài tập tình huống chi phí theo hoạt động (ABC) cho doanh nghiệp sản xuất bao bì",
+          "TS. Vũ Thị Thanh Trúc"
+        ],
+        [
+          "11/2026",
+          "Sử dụng dữ liệu hóa đơn điện tử trong dạy học phần Thuế",
+          "ThS. Phan Ngọc Diễm"
+        ],
+        [
+          "12/2026",
+          "Kỹ thuật chọn mẫu kiểm toán và trò chơi mô phỏng trên lớp",
+          "ThS. Hồ Quốc Bảo"
+        ],
+        [
+          "01/2027",
+          "Rubric chấm bài tập nhóm học phần Hệ thống thông tin kế toán",
+          "ThS. Châu Thanh Tùng"
+        ],
+        [
+          "3/2027",
+          "Phân tích báo cáo tài chính bằng Power BI ở mức nhập môn",
+          "TS. Võ Đình Khang"
+        ],
+        [
+          "4/2027",
+          "Chuẩn mực kế toán công Việt Nam và học phần Kế toán hành chính sự nghiệp",
+          "ThS. Nguyễn Thị Bích Liên"
+        ],
+        [
+          "5/2027",
+          "Tổng kết hoạt động dự giờ, nhân rộng giờ giảng điển hình",
+          "TS. Lâm Thị Ngọc Hân"
+        ]
+      ],
+      "widths": [
+        0.14,
+        0.58,
+        0.28
+      ],
+      "caption": "Bảng 1. Lịch chuyên đề sinh hoạt chuyên môn năm học 2026–2027"
+    },
+    {
+      "type": "p",
+      "text": "Tháng 02/2027 trùng thời gian nghỉ Tết Nguyên đán nên không tổ chức chuyên đề; nội dung rà soát tiến độ của tháng này được ghép vào buổi sinh hoạt tháng 3/2027."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Nghĩa vụ tham dự"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên cơ hữu có nghĩa vụ tham dự đầy đủ các buổi sinh hoạt chuyên môn định kỳ. Trường hợp vắng mặt phải có đơn xin phép gửi Trưởng Bộ môn trước buổi sinh hoạt, trừ trường hợp đột xuất như ốm đau, tai nạn thì báo cáo bổ sung trong vòng 02 ngày làm việc."
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên vắng quá 3 buổi sinh hoạt chuyên môn định kỳ không có lý do chính đáng trong năm học sẽ không được Bộ môn đề nghị xét danh hiệu Lao động tiên tiến và bị xếp mức không cao hơn Hoàn thành nhiệm vụ ở tiêu chí ý thức tổ chức kỷ luật."
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên vắng có phép có trách nhiệm đọc biên bản buổi sinh hoạt trên thư mục dùng chung của Bộ môn và xác nhận đã đọc bằng thư điện tử trong vòng 07 ngày kể từ ngày biên bản được đăng tải."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG III. NHÓM CHUYÊN MÔN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Thành lập và cơ cấu nhóm chuyên môn"
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn Kế toán tổ chức 04 nhóm chuyên môn trong năm học 2026–2027. Mỗi nhóm có một trưởng nhóm do Trưởng Bộ môn chỉ định trên cơ sở đề xuất của các thành viên. Trưởng nhóm có nhiệm kỳ một năm học và được tính 20 giờ chuẩn công tác khác mỗi năm."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nhóm chuyên môn",
+        "Trưởng nhóm",
+        "Học phần phụ trách chính",
+        "Số thành viên"
+      ],
+      "rows": [
+        [
+          "Kế toán tài chính",
+          "ThS. Đoàn Minh Khôi",
+          "Nguyên lý kế toán; Kế toán tài chính 1, 2, 3; Kế toán doanh nghiệp thương mại",
+          "7"
+        ],
+        [
+          "Kế toán quản trị và chi phí",
+          "TS. Vũ Thị Thanh Trúc",
+          "Kế toán chi phí; Kế toán quản trị; Phân tích hoạt động kinh doanh",
+          "5"
+        ],
+        [
+          "Kiểm toán",
+          "ThS. Hồ Quốc Bảo",
+          "Kiểm toán căn bản; Kiểm toán báo cáo tài chính; Kiểm soát nội bộ",
+          "4"
+        ],
+        [
+          "Kế toán công và thuế",
+          "ThS. Phan Ngọc Diễm",
+          "Thuế; Kế toán thuế; Kế toán hành chính sự nghiệp; Kế toán ngân sách xã",
+          "5"
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.22,
+        0.42,
+        0.14
+      ],
+      "caption": "Bảng 2. Cơ cấu nhóm chuyên môn năm học 2026–2027"
+    },
+    {
+      "type": "p",
+      "text": "Nhóm Kiểm toán do ThS. Hồ Quốc Bảo làm trưởng nhóm, có nhiệm vụ đầu mối phối hợp với các công ty kiểm toán để cập nhật hồ sơ kiểm toán mẫu phục vụ giảng dạy."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi giảng viên thuộc một nhóm chuyên môn chính; giảng viên giảng dạy học phần của nhóm khác được mời tham dự các buổi sinh hoạt nhóm có liên quan nhưng không tính vào số thành viên chính thức."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Nhiệm vụ của nhóm chuyên môn"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Thống nhất đề cương chi tiết, kế hoạch giảng dạy, tài liệu học tập và tỷ trọng các cột điểm của các học phần do nhóm phụ trách trước ngày 05 tháng 9 năm 2026 đối với học kỳ 1 và trước ngày 10 tháng 01 năm 2027 đối với học kỳ 2.",
+        "Sinh hoạt nhóm ít nhất 01 lần mỗi tháng, có thể kết hợp trực tiếp hoặc trực tuyến; biên bản sinh hoạt nhóm được nộp cho Thư ký Bộ môn trước ngày 25 hằng tháng.",
+        "Xây dựng kế hoạch dự giờ nội bộ nhóm, bảo đảm mỗi thành viên được ít nhất một đồng nghiệp trong nhóm dự giờ trong mỗi học kỳ.",
+        "Đề xuất ít nhất 01 giờ giảng điển hình mỗi học kỳ để Bộ môn tổ chức dự giờ mở rộng.",
+        "Rà soát, bổ sung ngân hàng bài tập tình huống; mỗi nhóm bổ sung tối thiểu 15 tình huống mới trong năm học."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Trách nhiệm của trưởng nhóm"
+    },
+    {
+      "type": "p",
+      "text": "Trưởng nhóm chuyên môn chịu trách nhiệm trước Trưởng Bộ môn về kết quả hoạt động của nhóm; phân công người dự giờ trong nhóm; tổng hợp phiếu đánh giá của các thành viên; báo cáo tình hình thực hiện tại buổi sinh hoạt chuyên môn định kỳ của Bộ môn; đề xuất khen thưởng hoặc nhắc nhở thành viên."
+    },
+    {
+      "type": "p",
+      "text": "Trường hợp trưởng nhóm đi công tác, học tập dài hạn từ 30 ngày trở lên, Trưởng Bộ môn chỉ định một thành viên của nhóm làm trưởng nhóm tạm thời cho đến khi trưởng nhóm trở lại làm việc."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG IV. HOẠT ĐỘNG DỰ GIỜ"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Số tiết dự giờ tối thiểu"
+    },
+    {
+      "type": "p",
+      "text": "Trong năm học 2026–2027, mỗi giảng viên cơ hữu phải được dự giờ tối thiểu 4 tiết, trong đó ít nhất 2 tiết ở học kỳ 1. Giảng viên mới phải được dự giờ tối thiểu 7 tiết trong năm học, phân bố ở ít nhất 2 học phần khác nhau nếu được phân công giảng dạy từ 2 học phần trở lên."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi giảng viên cơ hữu có trách nhiệm đi dự giờ đồng nghiệp tối thiểu 6 tiết trong năm học, trong đó ít nhất 2 tiết dự giờ giảng viên thuộc nhóm chuyên môn khác. Trưởng Bộ môn, Phó Trưởng Bộ môn và các trưởng nhóm chuyên môn đi dự giờ tối thiểu 10 tiết trong năm học."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Đối tượng",
+        "Được dự giờ tối thiểu (tiết/năm)",
+        "Đi dự giờ tối thiểu (tiết/năm)",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Trưởng Bộ môn, Phó Trưởng Bộ môn",
+          "4",
+          "10",
+          "Ưu tiên dự giờ giảng viên mới"
+        ],
+        [
+          "Trưởng nhóm chuyên môn",
+          "4",
+          "10",
+          "Ít nhất 6 tiết trong nhóm"
+        ],
+        [
+          "Giảng viên cơ hữu từ 03 năm trở lên",
+          "4",
+          "6",
+          "Ít nhất 2 tiết ngoài nhóm"
+        ],
+        [
+          "Giảng viên mới (dưới 03 năm)",
+          "7",
+          "6",
+          "Có người hướng dẫn chuyên môn"
+        ],
+        [
+          "Giảng viên tập sự",
+          "8",
+          "12",
+          "Theo kế hoạch tập sự riêng"
+        ],
+        [
+          "Trợ giảng",
+          "2",
+          "8",
+          "Dự giờ chủ yếu giảng viên mình hỗ trợ"
+        ],
+        [
+          "Giảng viên thỉnh giảng (từ 45 tiết)",
+          "2",
+          "Không bắt buộc",
+          "Do trưởng nhóm bố trí"
+        ]
+      ],
+      "widths": [
+        0.32,
+        0.2,
+        0.2,
+        0.28
+      ],
+      "caption": "Bảng 3. Định mức dự giờ theo đối tượng"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Lập và thông báo kế hoạch dự giờ"
+    },
+    {
+      "type": "p",
+      "text": "Chậm nhất ngày 15 tháng 9 năm 2026, trưởng các nhóm chuyên môn gửi kế hoạch dự giờ học kỳ 1 của nhóm cho Thư ký Bộ môn; kế hoạch học kỳ 2 gửi chậm nhất ngày 20 tháng 01 năm 2027. Thư ký Bộ môn tổng hợp thành Kế hoạch dự giờ chung, trình Trưởng Bộ môn phê duyệt và đăng tải trên thư mục dùng chung."
+    },
+    {
+      "type": "p",
+      "text": "Dự giờ theo kế hoạch được thông báo cho giảng viên được dự giờ trước ít nhất 48 giờ. Bộ môn có thể tổ chức dự giờ đột xuất không báo trước, nhưng số tiết dự giờ đột xuất không vượt quá 2 tiết/giảng viên/học kỳ và phải do Trưởng Bộ môn hoặc Phó Trưởng Bộ môn trực tiếp tham dự."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Yêu cầu đối với người dự giờ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Có mặt tại lớp trước giờ bắt đầu ít nhất 5 phút, ngồi ở vị trí không gây ảnh hưởng đến hoạt động của lớp; không sử dụng điện thoại cho việc riêng trong suốt tiết dự.",
+        "Không can thiệp vào tiến trình giờ giảng, không đặt câu hỏi cho sinh viên trong giờ học nếu không được giảng viên mời.",
+        "Ghi chép diễn biến tiết học theo trình tự thời gian vào phần nhật ký của phiếu đánh giá; chấm điểm độc lập, không trao đổi điểm với người dự khác trước khi nộp phiếu.",
+        "Nộp phiếu đánh giá bản giấy hoặc bản điện tử cho trưởng nhóm chuyên môn trong vòng 02 ngày làm việc sau tiết dự.",
+        "Giữ bí mật kết quả chấm điểm cá nhân; chỉ công bố kết quả tổng hợp theo quy định tại Điều 15."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Dự giờ trực tuyến"
+    },
+    {
+      "type": "p",
+      "text": "Đối với học phần tổ chức dạy học trực tuyến đồng bộ, người dự giờ được giảng viên cấp quyền quan sát lớp học trên hệ thống LMS hoặc phần mềm họp trực tuyến của Trường. Người dự giờ phải bật tên hiển thị theo cú pháp 'DG-Họ tên' và tắt micro trong suốt tiết dự. Không được ghi hình buổi học nếu chưa có sự đồng ý bằng văn bản của giảng viên được dự giờ."
+    },
+    {
+      "type": "p",
+      "text": "Tiết dự giờ trực tuyến được tính tương đương tiết dự giờ trực tiếp. Tuy nhiên, số tiết dự giờ trực tuyến không vượt quá 50% tổng số tiết được dự giờ tối thiểu của mỗi giảng viên trong năm học."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG V. PHIẾU ĐÁNH GIÁ VÀ SỬ DỤNG KẾT QUẢ"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Phiếu đánh giá giờ giảng mẫu PDG-KT-03"
+    },
+    {
+      "type": "p",
+      "text": "Phiếu đánh giá giờ giảng mẫu PDG-KT-03 gồm 4 nhóm tiêu chí với tổng điểm tối đa 100 điểm. Người dự giờ chấm điểm từng tiêu chí thành phần, cộng điểm và ghi nhận xét về ưu điểm, hạn chế và tối thiểu 01 đề xuất cải tiến cụ thể."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nhóm tiêu chí",
+        "Nội dung đánh giá chính",
+        "Điểm tối đa"
+      ],
+      "rows": [
+        [
+          "A. Chuẩn bị bài giảng",
+          "Đề cương, mục tiêu tiết học gắn chuẩn đầu ra; bài giảng điện tử; tình huống, số liệu cập nhật",
+          "20"
+        ],
+        [
+          "B. Nội dung chuyên môn",
+          "Chính xác về chuẩn mực, chế độ kế toán, thuế; liên hệ thực tiễn doanh nghiệp; mức độ phù hợp với trình độ sinh viên",
+          "35"
+        ],
+        [
+          "C. Phương pháp và tổ chức lớp",
+          "Phương pháp tích cực; quản lý thời gian; tương tác, câu hỏi gợi mở; sử dụng công nghệ",
+          "30"
+        ],
+        [
+          "D. Kiểm tra, đánh giá và tác phong",
+          "Kiểm tra mức độ tiếp thu; giao nhiệm vụ tự học; tác phong sư phạm, ngôn ngữ",
+          "15"
+        ],
+        [
+          "Tổng cộng",
+          "",
+          "100"
+        ]
+      ],
+      "widths": [
+        0.28,
+        0.56,
+        0.16
+      ],
+      "caption": "Bảng 4. Cấu trúc Phiếu đánh giá PDG-KT-03"
+    },
+    {
+      "type": "p",
+      "text": "Kết quả xếp loại giờ giảng căn cứ điểm trung bình của các phiếu hợp lệ: từ 90 điểm trở lên xếp loại Xuất sắc; từ 80 đến dưới 90 điểm xếp loại Tốt; từ 65 đến dưới 80 điểm xếp loại Đạt; dưới 65 điểm xếp loại Chưa đạt. Phiếu không ghi đề xuất cải tiến hoặc không có chữ ký của người dự giờ là phiếu không hợp lệ."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Xử lý kết quả dự giờ"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên có điểm trung bình phiếu đánh giá dưới 65 điểm phải được dự giờ lại trong vòng 21 ngày kể từ ngày nhận kết quả, do trưởng nhóm chuyên môn và một giảng viên khác do Trưởng Bộ môn chỉ định cùng dự."
+    },
+    {
+      "type": "p",
+      "text": "Trước buổi dự giờ lại, giảng viên xây dựng bản kế hoạch cải tiến tối đa 2 trang và trao đổi với người hướng dẫn chuyên môn. Nếu kết quả dự giờ lại vẫn dưới 65 điểm, Bộ môn báo cáo Khoa để bố trí bồi dưỡng phương pháp giảng dạy, đồng thời giảm khối lượng giảng dạy học phần đó ở học kỳ tiếp theo."
+    },
+    {
+      "type": "p",
+      "text": "Kết quả tổng hợp dự giờ của Bộ môn được công bố theo số lượng và tỷ lệ xếp loại tại buổi sinh hoạt chuyên môn tháng 01/2027 và tháng 5/2027; điểm số cá nhân chỉ được gửi riêng cho từng giảng viên và lưu trong hồ sơ viên chức."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Sử dụng kết quả trong đánh giá viên chức"
+    },
+    {
+      "type": "p",
+      "text": "Kết quả dự giờ là một trong các minh chứng đánh giá tiêu chí chất lượng giảng dạy khi đánh giá, xếp loại viên chức cuối năm. Giảng viên có ít nhất 01 giờ giảng xếp loại Xuất sắc và không có giờ giảng Chưa đạt được ưu tiên khi xét đề nghị danh hiệu Chiến sĩ thi đua cơ sở."
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên không đủ số tiết đi dự giờ tối thiểu theo Bảng 3 mà không có lý do chính đáng sẽ bị trừ 5 điểm ở tiêu chí thực hiện nhiệm vụ chuyên môn trong phiếu tự đánh giá cuối năm của Bộ môn."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VI. HƯỚNG DẪN CHUYÊN MÔN CHO GIẢNG VIÊN MỚI"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 17. Phân công người hướng dẫn"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi giảng viên mới được phân công một người hướng dẫn chuyên môn có học vị thạc sĩ trở lên và có ít nhất 05 năm giảng dạy học phần tương ứng. Một người hướng dẫn không hướng dẫn quá 2 giảng viên mới cùng lúc. Người hướng dẫn được tính 15 giờ chuẩn công tác khác cho mỗi giảng viên mới được hướng dẫn trong năm học."
+    },
+    {
+      "type": "p",
+      "text": "Người hướng dẫn có trách nhiệm dự ít nhất 3 trong số 7 tiết dự giờ tối thiểu của giảng viên mới, góp ý giáo án, kiểm tra việc chấm bài kiểm tra giữa kỳ đầu tiên và xác nhận vào sổ theo dõi hướng dẫn chuyên môn."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 18. Giảng thử trước Bộ môn"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên mới được phân công giảng dạy một học phần lần đầu phải giảng thử một buổi trước nhóm chuyên môn, tối thiểu 2 tiết, chậm nhất 10 ngày trước khi bắt đầu giảng dạy chính thức. Hội đồng giảng thử gồm trưởng nhóm, người hướng dẫn và ít nhất một giảng viên khác trong nhóm; kết quả giảng thử được đánh giá theo phiếu PDG-KT-03 và chỉ được giảng dạy chính thức khi đạt từ 70 điểm trở lên."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VII. TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 19. Trách nhiệm thi hành"
+    },
+    {
+      "type": "p",
+      "text": "Thư ký Bộ môn là CN. Thái Bảo Ngọc có trách nhiệm lưu trữ biên bản, phiếu đánh giá, kế hoạch dự giờ; lập sổ theo dõi số tiết dự giờ của từng giảng viên và cập nhật hằng tháng. Trưởng các nhóm chuyên môn chịu trách nhiệm tổ chức thực hiện trong nhóm. Giảng viên có trách nhiệm chủ động đăng ký lịch dự giờ và hoàn thành đầy đủ định mức."
+    },
+    {
+      "type": "p",
+      "text": "Hồ sơ dự giờ của năm học được lưu tại Bộ môn trong thời hạn 05 năm. Bản điện tử được lưu trong thư mục 'DuGio_2026-2027' trên ổ lưu trữ dùng chung của Khoa Kinh tế và chỉ Trưởng Bộ môn, Phó Trưởng Bộ môn và Thư ký Bộ môn có quyền chỉnh sửa."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 20. Hiệu lực thi hành"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này có hiệu lực từ ngày 01 tháng 9 năm 2026 và áp dụng đến hết năm học 2026–2027. Quy định về dự giờ ban hành kèm theo văn bản số 0745/QĐ-BMKT ngày 25 tháng 8 năm 2025 hết hiệu lực kể từ ngày Quy định này có hiệu lực. Trong quá trình thực hiện, nếu có vướng mắc, giảng viên phản ánh về Trưởng Bộ môn để xem xét, điều chỉnh cho phù hợp."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. HƯỚNG DẪN GHI PHIẾU ĐÁNH GIÁ PDG-KT-03"
+    },
+    {
+      "type": "p",
+      "text": "Phần thông tin chung ghi rõ họ tên giảng viên được dự giờ, học phần, mã lớp học phần, phòng học hoặc đường dẫn lớp trực tuyến, số sinh viên có mặt trên tổng số sinh viên của lớp, tên bài học và thời gian bắt đầu, kết thúc tiết dự."
+    },
+    {
+      "type": "p",
+      "text": "Phần nhật ký tiết học ghi theo các mốc 10 phút, nêu ngắn gọn hoạt động của giảng viên và sinh viên. Phần nhận xét ghi ít nhất 02 ưu điểm và 01 hạn chế; đề xuất cải tiến phải cụ thể, có thể thực hiện được, ví dụ 'bổ sung một ví dụ hạch toán chiết khấu thanh toán có hóa đơn điện tử điều chỉnh' thay vì nhận xét chung chung."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mức điểm tiêu chí B",
+        "Mô tả hành vi quan sát được"
+      ],
+      "rows": [
+        [
+          "30–35",
+          "Nội dung chính xác tuyệt đối, cập nhật văn bản mới nhất; có ít nhất 2 ví dụ thực tiễn từ doanh nghiệp; sinh viên giải được bài tập vận dụng ngay trên lớp"
+        ],
+        [
+          "24–29",
+          "Nội dung chính xác, có ví dụ thực tiễn nhưng chưa cập nhật đầy đủ; một số sinh viên còn lúng túng khi vận dụng"
+        ],
+        [
+          "18–23",
+          "Có sai sót nhỏ về thuật ngữ hoặc tài khoản kế toán nhưng giảng viên tự phát hiện và điều chỉnh trong giờ"
+        ],
+        [
+          "Dưới 18",
+          "Có sai sót chuyên môn chưa được điều chỉnh hoặc nội dung không phù hợp với đề cương học phần"
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.78
+      ],
+      "caption": "Bảng 5. Thang mô tả tham khảo cho nhóm tiêu chí B"
+    },
+    {
+      "type": "p",
+      "text": "Người dự giờ ký và ghi rõ họ tên, ngày dự. Phiếu được nộp bản điện tử dưới dạng tệp PDF đặt tên theo cú pháp 'PDG_MãLớp_HọTênGVđượcdự_ngày'. Thư ký Bộ môn kiểm tra tính hợp lệ của phiếu trước khi tổng hợp và trả lại phiếu không hợp lệ trong vòng 02 ngày làm việc để người dự giờ bổ sung."
+    }
+  ],
+  "signature": {
+    "title": "TRƯỞNG BỘ MÔN",
+    "name": "TS. Lâm Thị Ngọc Hân"
+  },
+  "recipients": [
+    "Ban Chủ nhiệm Khoa Kinh tế (để báo cáo)",
+    "Toàn thể giảng viên Bộ môn Kế toán",
+    "Lưu: BMKT"
+  ],
+  "questions": [
+    {
+      "question": "Giảng viên mới của Bộ môn Kế toán phải được dự giờ tối thiểu bao nhiêu tiết trong năm học 2026–2027?",
+      "expected_answer": "Tối thiểu 7 tiết trong năm học.",
+      "evidence": "Giảng viên mới phải được dự giờ tối thiểu 7 tiết trong năm học"
+    },
+    {
+      "question": "Nếu điểm phiếu đánh giá dự giờ của tôi dưới bao nhiêu thì phải dự giờ lại, và trong thời hạn bao lâu?",
+      "expected_answer": "Dưới 65 điểm thì phải được dự giờ lại trong vòng 21 ngày kể từ ngày nhận kết quả.",
+      "evidence": "Giảng viên có điểm trung bình phiếu đánh giá dưới 65 điểm phải được dự giờ lại trong vòng 21 ngày kể từ ngày nhận kết quả"
+    },
+    {
+      "question": "Ai là trưởng nhóm chuyên môn Kiểm toán của Bộ môn Kế toán năm học 2026–2027?",
+      "expected_answer": "ThS. Hồ Quốc Bảo.",
+      "evidence": "Nhóm Kiểm toán do ThS. Hồ Quốc Bảo làm trưởng nhóm"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "doc_id": "A0",
+  "file_name": "A0_quy-dinh-sinh-hoat-hoc-thuat-seminar-bm-cnpm-2026-2027.pdf",
+  "title": "QUY ĐỊNH TỔ CHỨC SINH HOẠT HỌC THUẬT (SEMINAR) ĐỊNH KỲ CỦA BỘ MÔN CÔNG NGHỆ PHẦN MỀM NĂM HỌC 2026–2027",
+  "parent_org": "KHOA CÔNG NGHỆ THÔNG TIN",
+  "issuer": "BỘ MÔN CÔNG NGHỆ PHẦN MỀM",
+  "number": "Số: 0318/QĐ-BMCNPM",
+  "place_date": "TP. Hồ Chí Minh, ngày 21 tháng 8 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – Bộ môn Công nghệ Phần mềm",
+  "blocks": [
+    {
+      "type": "h1",
+      "text": "CĂN CỨ BAN HÀNH"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế tổ chức và hoạt động của Khoa Công nghệ Thông tin ban hành kèm theo Quyết định số 1186/QĐ-CNTT ngày 05 tháng 3 năm 2025 của Trưởng khoa Công nghệ Thông tin;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Kế hoạch hoạt động khoa học và công nghệ năm học 2026–2027 của Khoa Công nghệ Thông tin số 0792/KH-CNTT ngày 18 tháng 7 năm 2026;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy định về chế độ làm việc của giảng viên, trong đó có định mức giờ nghiên cứu khoa học hằng năm của giảng viên, đang được áp dụng tại Trường;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ kết luận cuộc họp Bộ môn Công nghệ Phần mềm ngày 07 tháng 8 năm 2026 về việc duy trì và nâng cao chất lượng sinh hoạt học thuật định kỳ;"
+    },
+    {
+      "type": "p",
+      "text": "Trưởng Bộ môn Công nghệ Phần mềm ban hành Quy định tổ chức sinh hoạt học thuật (seminar) định kỳ của Bộ môn năm học 2026–2027 với các nội dung sau đây."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG I. NHỮNG QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "1. Quy định này quy định việc lập kế hoạch, tổ chức, tham dự, đánh giá và quy đổi giờ nghiên cứu khoa học đối với các buổi sinh hoạt học thuật (sau đây gọi chung là seminar) do Bộ môn Công nghệ Phần mềm tổ chức trong năm học 2026–2027, tính từ ngày 01 tháng 9 năm 2026 đến hết ngày 31 tháng 7 năm 2027."
+    },
+    {
+      "type": "p",
+      "text": "2. Quy định áp dụng đối với toàn bộ giảng viên cơ hữu, giảng viên tập sự, nghiên cứu viên và trợ giảng đang sinh hoạt chuyên môn tại Bộ môn. Giảng viên thỉnh giảng, nghiên cứu sinh và học viên cao học do giảng viên Bộ môn hướng dẫn được khuyến khích tham gia nhưng không thuộc diện bắt buộc."
+    },
+    {
+      "type": "p",
+      "text": "3. Sinh viên năm thứ ba, năm thứ tư ngành Kỹ thuật phần mềm thuộc các nhóm nghiên cứu của Bộ môn được tham dự các phiên seminar mở theo thông báo của Bộ môn; việc tham dự của sinh viên không làm phát sinh nghĩa vụ hay quyền lợi về giờ nghiên cứu khoa học."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Mục đích của sinh hoạt học thuật"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Tạo diễn đàn thường xuyên để giảng viên trình bày kết quả nghiên cứu, ý tưởng đề tài, bản thảo bài báo trước khi gửi đăng và nhận góp ý phản biện nội bộ.",
+        "Cập nhật xu hướng công nghệ phần mềm như kiến trúc hướng dịch vụ, kiểm thử tự động, kỹ thuật phần mềm cho hệ thống học máy, DevSecOps và ứng dụng mô hình ngôn ngữ lớn trong phát triển phần mềm.",
+        "Gắn kết hoạt động nghiên cứu với giảng dạy, làm nguồn ý tưởng cho đề tài khóa luận tốt nghiệp và đề tài nghiên cứu khoa học sinh viên.",
+        "Hình thành và duy trì các nhóm nghiên cứu mạnh của Bộ môn, tăng số lượng công bố khoa học có chất lượng."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Nguyên tắc tổ chức"
+    },
+    {
+      "type": "p",
+      "text": "1. Seminar được tổ chức định kỳ, công khai trong nội bộ Bộ môn, bảo đảm tính học thuật, dân chủ và tôn trọng quyền tác giả. Nội dung chưa công bố được trình bày tại seminar không được người tham dự sử dụng lại dưới bất kỳ hình thức nào khi chưa có sự đồng ý bằng văn bản của tác giả."
+    },
+    {
+      "type": "p",
+      "text": "2. Mỗi phiên seminar có một người chủ trì là Trưởng Bộ môn hoặc Phó Trưởng Bộ môn, hoặc trưởng nhóm nghiên cứu được Trưởng Bộ môn ủy quyền, và một thư ký ghi biên bản."
+    },
+    {
+      "type": "p",
+      "text": "3. Ngôn ngữ trình bày là tiếng Việt hoặc tiếng Anh. Bộ môn khuyến khích ít nhất một phần ba số phiên trong năm học được trình bày bằng tiếng Anh nhằm chuẩn bị cho giảng viên tham gia hội thảo quốc tế."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG II. LỊCH VÀ HÌNH THỨC TỔ CHỨC"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Lịch sinh hoạt định kỳ"
+    },
+    {
+      "type": "p",
+      "text": "1. Seminar thường kỳ được tổ chức vào chiều thứ Năm của tuần thứ hai và tuần thứ tư hằng tháng, từ 14 giờ 00 đến 16 giờ 30, tại phòng họp chuyên môn H5.0214 của Bộ môn. Trường hợp trùng lịch thi, lịch nghỉ lễ hoặc sự kiện của Trường, thư ký seminar thông báo lịch thay thế chậm nhất 05 ngày làm việc trước ngày tổ chức."
+    },
+    {
+      "type": "p",
+      "text": "2. Mỗi phiên seminar gồm tối đa hai báo cáo; thời lượng mỗi báo cáo không quá 40 phút trình bày và 20 phút thảo luận. Phần còn lại dành cho thông tin chung của các nhóm nghiên cứu."
+    },
+    {
+      "type": "p",
+      "text": "3. Trong tháng 01 và tháng 02 năm 2027 (thời gian ôn thi và nghỉ Tết Nguyên đán), Bộ môn chỉ tổ chức một phiên mỗi tháng vào tuần thứ hai. Không tổ chức seminar thường kỳ trong tháng 7 năm 2027."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Học kỳ / Giai đoạn",
+        "Thời gian",
+        "Số phiên dự kiến",
+        "Chủ đề trọng tâm"
+      ],
+      "rows": [
+        [
+          "Học kỳ 1",
+          "Tháng 9/2026 – tháng 12/2026",
+          "8",
+          "Kiểm thử tự động, chất lượng mã nguồn, kiến trúc microservice"
+        ],
+        [
+          "Giai đoạn chuyển tiếp",
+          "Tháng 01/2027 – tháng 02/2027",
+          "2",
+          "Định hướng đề tài khóa luận, bản thảo bài báo"
+        ],
+        [
+          "Học kỳ 2",
+          "Tháng 3/2027 – tháng 6/2027",
+          "8",
+          "Kỹ thuật phần mềm cho AI, DevSecOps, phần mềm giáo dục"
+        ],
+        [
+          "Ngày hội học thuật",
+          "Thứ Sáu, ngày 19/3/2027",
+          "1 (toàn ngày)",
+          "Công bố kết quả đề tài cấp bộ môn và báo cáo mời"
+        ],
+        [
+          "Tổng cộng",
+          "Năm học 2026–2027",
+          "19",
+          "—"
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.28,
+        0.15,
+        0.35
+      ],
+      "caption": "Bảng 1. Kế hoạch số phiên seminar năm học 2026–2027"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Hình thức tổ chức"
+    },
+    {
+      "type": "p",
+      "text": "1. Hình thức chính là trực tiếp. Bộ môn có thể tổ chức kết hợp trực tuyến qua phòng họp Microsoft Teams của Bộ môn cho tối đa bốn phiên mỗi học kỳ khi có báo cáo viên ở xa hoặc khách mời từ doanh nghiệp."
+    },
+    {
+      "type": "p",
+      "text": "2. Người tham dự trực tuyến phải bật camera trong thời gian điểm danh và trả lời câu hỏi kiểm tra cuối phiên do thư ký đưa ra; trường hợp không đáp ứng được coi là vắng mặt không có lý do."
+    },
+    {
+      "type": "p",
+      "text": "3. Mỗi năm học, Bộ môn tổ chức Ngày hội học thuật CNPM lần thứ IV vào thứ Sáu, ngày 19 tháng 3 năm 2027. Ngày hội gồm phiên toàn thể buổi sáng và hai tiểu ban song song buổi chiều; mỗi nhóm nghiên cứu có trách nhiệm đăng ký ít nhất một báo cáo."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Đăng ký báo cáo và xếp lịch"
+    },
+    {
+      "type": "p",
+      "text": "1. Chậm nhất ngày 15 tháng 9 năm 2026, mỗi giảng viên đăng ký tên báo cáo dự kiến, tóm tắt không quá 300 chữ và tuần mong muốn trình bày qua biểu mẫu trực tuyến do thư ký seminar gửi. Thư ký tổng hợp, trình Trưởng Bộ môn phê duyệt lịch học kỳ 1 trước ngày 25 tháng 9 năm 2026."
+    },
+    {
+      "type": "p",
+      "text": "2. Việc đăng ký cho học kỳ 2 thực hiện chậm nhất ngày 20 tháng 01 năm 2027. Lịch học kỳ 2 được công bố trước ngày 15 tháng 02 năm 2027."
+    },
+    {
+      "type": "p",
+      "text": "3. Báo cáo viên gửi bản trình chiếu và tài liệu kèm theo cho thư ký chậm nhất 03 ngày làm việc trước phiên seminar để đăng lên thư mục chia sẻ của Bộ môn. Báo cáo viên muốn đổi lịch phải thỏa thuận với một báo cáo viên khác và thông báo cho thư ký ít nhất 07 ngày trước ngày trình bày."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG III. NGHĨA VỤ VÀ QUYỀN LỢI CỦA GIẢNG VIÊN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Nghĩa vụ báo cáo"
+    },
+    {
+      "type": "p",
+      "text": "1. Mỗi giảng viên có học vị tiến sĩ trở lên phải chủ trì trình bày ít nhất 02 báo cáo seminar trong năm học, trong đó ít nhất 01 báo cáo là kết quả nghiên cứu mới hoặc bản thảo bài báo khoa học."
+    },
+    {
+      "type": "p",
+      "text": "2. Mỗi giảng viên có học vị thạc sĩ phải chủ trì trình bày ít nhất 01 báo cáo seminar trong năm học. Giảng viên đang là nghiên cứu sinh trình bày tiến độ luận án ít nhất 01 lần trong năm học; báo cáo tiến độ này được tính là báo cáo chủ trì."
+    },
+    {
+      "type": "p",
+      "text": "3. Giảng viên tập sự phải trình bày 01 báo cáo tổng quan về một chủ đề do người hướng dẫn tập sự giao, trong vòng sáu tháng kể từ ngày bắt đầu tập sự."
+    },
+    {
+      "type": "p",
+      "text": "4. Giảng viên đang đi học tập trung dài hạn ở nước ngoài, nghỉ thai sản hoặc nghỉ ốm dài ngày từ ba tháng trở lên trong năm học được miễn nghĩa vụ báo cáo của năm học đó."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Nghĩa vụ tham dự"
+    },
+    {
+      "type": "p",
+      "text": "1. Giảng viên thuộc diện áp dụng phải tham dự tối thiểu 75% tổng số phiên seminar thường kỳ trong năm học. Việc vắng mặt có lý do chính đáng như đi công tác theo quyết định, coi thi, ốm đau có xác nhận phải được báo trước cho thư ký và được tính là có mặt khi xét tỷ lệ tham dự."
+    },
+    {
+      "type": "p",
+      "text": "2. Giảng viên vắng mặt không có lý do quá 03 phiên trong năm học sẽ bị trừ 04 giờ nghiên cứu khoa học cho mỗi phiên vắng vượt quá, tính vào kết quả thực hiện nhiệm vụ nghiên cứu khoa học năm học 2026–2027."
+    },
+    {
+      "type": "p",
+      "text": "3. Kết quả tham dự seminar là một trong các căn cứ để Bộ môn đánh giá, xếp loại viên chức cuối năm và xét danh hiệu thi đua."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Quyền lợi của báo cáo viên"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Được quy đổi giờ nghiên cứu khoa học theo Chương IV của Quy định này.",
+        "Được Bộ môn ưu tiên xét hỗ trợ kinh phí đăng ký hội thảo khi bản thảo đã được trình bày và chỉnh sửa theo góp ý seminar.",
+        "Được đề cử vào danh sách báo cáo viên của Ngày hội học thuật CNPM và hội thảo cấp khoa.",
+        "Được thư ký seminar cấp giấy xác nhận báo cáo có chữ ký của Trưởng Bộ môn để bổ sung hồ sơ xét chức danh, hồ sơ thi đua."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG IV. QUY ĐỔI GIỜ NGHIÊN CỨU KHOA HỌC"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Nguyên tắc quy đổi"
+    },
+    {
+      "type": "p",
+      "text": "1. Giờ nghiên cứu khoa học quy đổi từ hoạt động seminar được tính vào định mức nghiên cứu khoa học hằng năm của giảng viên, nhưng tổng số giờ quy đổi từ seminar của một giảng viên không vượt quá 60 giờ trong một năm học."
+    },
+    {
+      "type": "p",
+      "text": "2. Chỉ những báo cáo đã được tổ chức, có biên bản phiên seminar và có ý kiến đánh giá đạt của người chủ trì mới được quy đổi. Báo cáo bị đánh giá chưa đạt được phép trình bày lại một lần trong cùng năm học."
+    },
+    {
+      "type": "p",
+      "text": "3. Báo cáo có nhiều đồng tác giả cùng trình bày thì người trình bày chính hưởng mức giờ của báo cáo viên chính, các đồng tác giả cùng trình bày hưởng mức giờ của đồng báo cáo viên. Mỗi báo cáo có tối đa 02 đồng báo cáo viên được quy đổi giờ."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Định mức quy đổi"
+    },
+    {
+      "type": "p",
+      "text": "Báo cáo viên chính trình bày báo cáo kết quả nghiên cứu mới hoặc bản thảo bài báo được quy đổi 12 giờ nghiên cứu khoa học cho mỗi báo cáo. Các hoạt động khác được quy đổi theo Bảng 2 dưới đây."
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Loại hoạt động",
+        "Giờ NCKH quy đổi",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "1",
+          "Báo cáo viên chính – báo cáo kết quả nghiên cứu mới hoặc bản thảo bài báo",
+          "12 giờ/báo cáo",
+          "Phải nộp bản thảo kèm minh chứng"
+        ],
+        [
+          "2",
+          "Báo cáo viên chính – báo cáo tổng quan, cập nhật công nghệ",
+          "8 giờ/báo cáo",
+          "Thời lượng tối thiểu 30 phút"
+        ],
+        [
+          "3",
+          "Đồng báo cáo viên",
+          "6 giờ/báo cáo",
+          "Tối đa 02 người mỗi báo cáo"
+        ],
+        [
+          "4",
+          "Báo cáo bằng tiếng Anh (cộng thêm)",
+          "+3 giờ/báo cáo",
+          "Áp dụng cho báo cáo viên chính"
+        ],
+        [
+          "5",
+          "Báo cáo tại phiên toàn thể Ngày hội học thuật CNPM",
+          "16 giờ/báo cáo",
+          "Không cộng dồn với mục 1, 2"
+        ],
+        [
+          "6",
+          "Chủ trì phiên seminar (người được ủy quyền)",
+          "3 giờ/phiên",
+          "Không áp dụng cho Trưởng Bộ môn"
+        ],
+        [
+          "7",
+          "Thư ký seminar",
+          "2 giờ/phiên",
+          "Gồm biên bản và điểm danh"
+        ],
+        [
+          "8",
+          "Phản biện chỉ định cho bản thảo bài báo",
+          "4 giờ/bản thảo",
+          "Phải có phiếu nhận xét bằng văn bản"
+        ]
+      ],
+      "widths": [
+        0.07,
+        0.48,
+        0.2,
+        0.25
+      ],
+      "caption": "Bảng 2. Định mức quy đổi giờ NCKH từ hoạt động seminar"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Quy đổi đối với báo cáo dẫn đến công bố"
+    },
+    {
+      "type": "p",
+      "text": "1. Bản thảo đã trình bày tại seminar và được chấp nhận đăng trên tạp chí thuộc danh mục được Hội đồng Giáo sư nhà nước tính điểm hoặc tạp chí quốc tế có chỉ số Scopus trong vòng 12 tháng kể từ ngày trình bày thì báo cáo viên chính được cộng thêm 10 giờ nghiên cứu khoa học. Phần cộng thêm này không tính vào mức trần 60 giờ quy định tại khoản 1 Điều 10."
+    },
+    {
+      "type": "p",
+      "text": "2. Giảng viên phải ghi rõ trong phần cảm ơn của bài báo nội dung đã được trình bày tại seminar Bộ môn Công nghệ Phần mềm, kèm ngày trình bày, thì mới được xét cộng giờ theo khoản 1 Điều này."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Ví dụ minh họa cách quy đổi"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên A trong năm học trình bày một bản thảo bài báo bằng tiếng Anh với vai trò báo cáo viên chính, một báo cáo tổng quan bằng tiếng Việt, đồng thời là đồng báo cáo viên trong một báo cáo khác và làm phản biện chỉ định cho hai bản thảo. Số giờ quy đổi của giảng viên A được tính như sau."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Hoạt động",
+        "Cách tính",
+        "Số giờ"
+      ],
+      "rows": [
+        [
+          "Bản thảo bài báo bằng tiếng Anh (báo cáo viên chính)",
+          "12 + 3",
+          "15"
+        ],
+        [
+          "Báo cáo tổng quan bằng tiếng Việt",
+          "8",
+          "8"
+        ],
+        [
+          "Đồng báo cáo viên",
+          "6",
+          "6"
+        ],
+        [
+          "Phản biện chỉ định hai bản thảo",
+          "4 × 2",
+          "8"
+        ],
+        [
+          "Tổng giờ quy đổi trong mức trần",
+          "15 + 8 + 6 + 8",
+          "37"
+        ],
+        [
+          "Bài báo được chấp nhận đăng trong 12 tháng (ngoài mức trần)",
+          "+10",
+          "10"
+        ],
+        [
+          "Tổng cộng ghi nhận",
+          "37 + 10",
+          "47"
+        ]
+      ],
+      "widths": [
+        0.5,
+        0.3,
+        0.2
+      ],
+      "caption": "Bảng 3. Ví dụ quy đổi giờ NCKH của một giảng viên"
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG V. ĐÁNH GIÁ, HỒ SƠ VÀ MINH CHỨNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Đánh giá báo cáo"
+    },
+    {
+      "type": "p",
+      "text": "1. Sau mỗi báo cáo, người chủ trì và tối thiểu hai giảng viên tham dự có học vị tiến sĩ điền phiếu đánh giá theo bốn tiêu chí: tính mới và giá trị khoa học; phương pháp nghiên cứu; chất lượng trình bày và trả lời câu hỏi; khả năng phát triển thành công bố hoặc đề tài. Mỗi tiêu chí chấm theo thang 5 mức."
+    },
+    {
+      "type": "p",
+      "text": "2. Báo cáo đạt khi điểm trung bình của các phiếu từ 3,0 trở lên và không có tiêu chí nào có điểm trung bình dưới 2,0. Báo cáo đạt điểm trung bình từ 4,5 trở lên được đề cử báo cáo tại Ngày hội học thuật CNPM."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Hồ sơ phiên seminar"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Thông báo lịch và tóm tắt báo cáo đã gửi cho giảng viên.",
+        "Danh sách điểm danh có chữ ký hoặc bản xuất danh sách tham dự trực tuyến.",
+        "Biên bản phiên seminar ghi tóm tắt nội dung trao đổi, các góp ý chính và kết luận của người chủ trì.",
+        "Phiếu đánh giá báo cáo và bản trình chiếu của báo cáo viên."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Thư ký seminar lưu hồ sơ trên thư mục chia sẻ của Bộ môn trong vòng 05 ngày làm việc sau phiên seminar và lưu bản giấy tại văn phòng Bộ môn trong thời hạn ba năm."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Tổng hợp giờ quy đổi"
+    },
+    {
+      "type": "p",
+      "text": "1. Thư ký seminar năm học 2026–2027 là ThS. Phan Ngọc Diệp, chịu trách nhiệm tổng hợp giờ quy đổi theo từng học kỳ. Bảng tổng hợp học kỳ 1 được gửi giảng viên đối chiếu trước ngày 15 tháng 01 năm 2027; bảng tổng hợp cả năm gửi trước ngày 10 tháng 7 năm 2027."
+    },
+    {
+      "type": "p",
+      "text": "2. Giảng viên có ý kiến về bảng tổng hợp gửi phản hồi trong vòng 07 ngày kể từ ngày nhận. Sau thời hạn này, Trưởng Bộ môn ký xác nhận và chuyển Văn phòng Khoa làm căn cứ tính giờ nghiên cứu khoa học."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VI. KINH PHÍ VÀ ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 17. Kinh phí tổ chức"
+    },
+    {
+      "type": "p",
+      "text": "1. Kinh phí tổ chức seminar thường kỳ được bố trí từ nguồn kinh phí hoạt động chuyên môn của Bộ môn, mức chi nước uống và tài liệu không quá 350.000 đồng mỗi phiên."
+    },
+    {
+      "type": "p",
+      "text": "2. Báo cáo viên khách mời ngoài Trường được chi thù lao 1.200.000 đồng mỗi báo cáo, chi theo đề xuất của Trưởng Bộ môn và được Trưởng khoa phê duyệt. Mỗi học kỳ mời không quá ba báo cáo viên khách mời."
+    },
+    {
+      "type": "p",
+      "text": "3. Kinh phí Ngày hội học thuật CNPM được lập dự toán riêng, trình Khoa phê duyệt trước ngày 20 tháng 01 năm 2027."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 18. Trách nhiệm thi hành"
+    },
+    {
+      "type": "p",
+      "text": "1. Phó Trưởng Bộ môn phụ trách khoa học có trách nhiệm theo dõi, đôn đốc việc thực hiện Quy định này; định kỳ báo cáo Trưởng Bộ môn tại cuộc họp Bộ môn cuối mỗi học kỳ."
+    },
+    {
+      "type": "p",
+      "text": "2. Trưởng các nhóm nghiên cứu có trách nhiệm phân công thành viên đăng ký báo cáo, bảo đảm mỗi nhóm có ít nhất 03 báo cáo trong năm học."
+    },
+    {
+      "type": "p",
+      "text": "3. Giảng viên và các cá nhân liên quan có trách nhiệm thực hiện nghiêm Quy định này. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh về Bộ môn để xem xét, sửa đổi cho phù hợp."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 19. Hiệu lực"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này có hiệu lực kể từ ngày ký và áp dụng cho năm học 2026–2027. Các quy định trước đây của Bộ môn về sinh hoạt học thuật trái với Quy định này đều bãi bỏ."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. MẪU TÓM TẮT ĐĂNG KÝ BÁO CÁO SEMINAR"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mục",
+        "Nội dung cần điền"
+      ],
+      "rows": [
+        [
+          "Tên báo cáo",
+          "Ghi bằng tiếng Việt và tiếng Anh (nếu trình bày bằng tiếng Anh)"
+        ],
+        [
+          "Báo cáo viên chính / đồng báo cáo viên",
+          "Họ tên, học vị, nhóm nghiên cứu"
+        ],
+        [
+          "Loại báo cáo",
+          "Kết quả nghiên cứu mới / bản thảo bài báo / tổng quan / tiến độ luận án"
+        ],
+        [
+          "Tóm tắt",
+          "Không quá 300 chữ, nêu vấn đề, phương pháp, kết quả dự kiến"
+        ],
+        [
+          "Tuần đăng ký trình bày",
+          "Chọn tuần thứ hai hoặc tuần thứ tư của tháng mong muốn"
+        ],
+        [
+          "Đề xuất phản biện chỉ định",
+          "Tối đa 02 giảng viên, không cùng nhóm tác giả"
+        ]
+      ],
+      "widths": [
+        0.35,
+        0.65
+      ],
+      "caption": "Mẫu SH-01. Phiếu đăng ký báo cáo seminar"
+    }
+  ],
+  "signature": {
+    "title": "TRƯỞNG BỘ MÔN",
+    "name": "TS. Đoàn Quốc Thịnh"
+  },
+  "recipients": [
+    "Trưởng khoa Công nghệ Thông tin (để báo cáo)",
+    "Giảng viên Bộ môn (để thực hiện)",
+    "Lưu: VT Bộ môn"
+  ],
+  "questions": [
+    {
+      "question": "Seminar thường kỳ của bộ môn Công nghệ phần mềm năm học 2026–2027 tổ chức vào lúc nào và ở phòng nào?",
+      "expected_answer": "Chiều thứ Năm tuần thứ hai và tuần thứ tư hằng tháng, 14h00–16h30, tại phòng H5.0214.",
+      "evidence": "Seminar thường kỳ được tổ chức vào chiều thứ Năm của tuần thứ hai và tuần thứ tư hằng tháng, từ 14 giờ 00 đến 16 giờ 30, tại phòng họp chuyên môn H5.0214 của Bộ môn."
+    },
+    {
+      "question": "Giảng viên làm báo cáo viên chính trình bày bản thảo bài báo ở seminar bộ môn thì được quy đổi bao nhiêu giờ NCKH?",
+      "expected_answer": "12 giờ/báo cáo (cộng thêm 3 giờ nếu trình bày bằng tiếng Anh).",
+      "evidence": "Báo cáo viên chính trình bày báo cáo kết quả nghiên cứu mới hoặc bản thảo bài báo được quy đổi 12 giờ nghiên cứu khoa học cho mỗi báo cáo."
+    },
+    {
+      "question": "Giảng viên vắng seminar không lý do nhiều lần thì bị trừ giờ nghiên cứu khoa học như thế nào?",
+      "expected_answer": "Vắng không lý do quá 03 phiên/năm học thì bị trừ 04 giờ NCKH cho mỗi phiên vắng vượt quá.",
+      "evidence": "Giảng viên vắng mặt không có lý do quá 03 phiên trong năm học sẽ bị trừ 04 giờ nghiên cứu khoa học cho mỗi phiên vắng vượt quá"
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "doc_id": "A1",
+  "file_name": "A1_huong-dan-phan-cong-gvhd-tot-nghiep-hk1-2026-2027-ktpm.pdf",
+  "title": "HƯỚNG DẪN PHÂN CÔNG GIẢNG VIÊN HƯỚNG DẪN ĐỒ ÁN, KHÓA LUẬN TỐT NGHIỆP HỌC KỲ 1 NĂM HỌC 2026–2027 NGÀNH KỸ THUẬT PHẦN MỀM",
+  "parent_org": "KHOA CÔNG NGHỆ THÔNG TIN",
+  "issuer": "BỘ MÔN CÔNG NGHỆ PHẦN MỀM",
+  "number": "Số: 0342/HD-BMCNPM",
+  "place_date": "TP. Hồ Chí Minh, ngày 31 tháng 8 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – CẤP ĐỘ 1 – Bộ môn Công nghệ Phần mềm",
+  "blocks": [
+    {
+      "type": "h1",
+      "text": "I. CĂN CỨ VÀ MỤC ĐÍCH"
+    },
+    {
+      "type": "h2",
+      "text": "1. Căn cứ"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Quy chế đào tạo trình độ đại học hiện hành của Trường Đại học Công nghiệp TP. Hồ Chí Minh;",
+        "Hướng dẫn số 1427/HD-CNTT ngày 02 tháng 7 năm 2026 của Khoa Công nghệ Thông tin về tổ chức thực hiện khóa luận tốt nghiệp và đồ án tốt nghiệp học kỳ 1 năm học 2026–2027;",
+        "Kế hoạch giảng dạy học kỳ 1 năm học 2026–2027 của ngành Kỹ thuật phần mềm đã được Khoa phê duyệt;",
+        "Kết luận cuộc họp Bộ môn Công nghệ Phần mềm ngày 28 tháng 8 năm 2026 về phân công giảng viên hướng dẫn tốt nghiệp."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "2. Mục đích"
+    },
+    {
+      "type": "p",
+      "text": "Hướng dẫn này nhằm thống nhất tiêu chí, quy trình và mốc thời gian phân công giảng viên hướng dẫn (GVHD) khóa luận tốt nghiệp và đồ án tốt nghiệp cho sinh viên ngành Kỹ thuật phần mềm khóa 2022 và sinh viên các khóa trước còn nợ học phần tốt nghiệp, bảo đảm phân bổ khối lượng hướng dẫn hợp lý giữa các giảng viên, phù hợp chuyên môn và nguyện vọng của sinh viên."
+    },
+    {
+      "type": "p",
+      "text": "Theo số liệu Phòng Đào tạo chuyển về ngày 25 tháng 8 năm 2026, học kỳ 1 năm học 2026–2027 ngành Kỹ thuật phần mềm có 163 sinh viên đủ điều kiện đăng ký học phần tốt nghiệp, trong đó 151 sinh viên khóa 2022 và 12 sinh viên các khóa trước."
+    },
+    {
+      "type": "h1",
+      "text": "II. HÌNH THỨC TỐT NGHIỆP VÀ ĐIỀU KIỆN"
+    },
+    {
+      "type": "h2",
+      "text": "1. Hai hình thức tốt nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên ngành Kỹ thuật phần mềm thực hiện một trong hai hình thức: (a) khóa luận tốt nghiệp với khối lượng 10 tín chỉ, thực hiện cá nhân hoặc nhóm tối đa 02 sinh viên; (b) đồ án tốt nghiệp với khối lượng 6 tín chỉ, thực hiện theo nhóm 02 hoặc 03 sinh viên, kết hợp học thêm 02 học phần chuyên ngành thay thế theo danh mục của Bộ môn."
+    },
+    {
+      "type": "h2",
+      "text": "2. Điều kiện làm khóa luận tốt nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên được đăng ký làm khóa luận tốt nghiệp khi có điểm trung bình chung tích lũy từ 2,45 trở lên theo thang điểm 4 tính đến hết học kỳ 3 năm học 2025–2026, đã hoàn thành học phần Đồ án chuyên ngành Kỹ thuật phần mềm với điểm từ 7,0 trở lên và không còn nợ quá 08 tín chỉ các học phần bắt buộc."
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên không đáp ứng điều kiện trên thực hiện đồ án tốt nghiệp. Sinh viên có bài báo khoa học đã được chấp nhận đăng hoặc đạt giải cấp Trường trở lên trong cuộc thi nghiên cứu khoa học sinh viên được Trưởng Bộ môn xem xét cho làm khóa luận nếu điểm trung bình chung tích lũy từ 2,20 trở lên."
+    },
+    {
+      "type": "h2",
+      "text": "3. Thống kê dự kiến"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Hình thức",
+        "Số sinh viên",
+        "Số nhóm dự kiến",
+        "Tỷ lệ"
+      ],
+      "rows": [
+        [
+          "Khóa luận tốt nghiệp (cá nhân)",
+          "29",
+          "29",
+          "17,8%"
+        ],
+        [
+          "Khóa luận tốt nghiệp (nhóm 02 SV)",
+          "36",
+          "18",
+          "22,1%"
+        ],
+        [
+          "Đồ án tốt nghiệp (nhóm 02–03 SV)",
+          "98",
+          "41",
+          "60,1%"
+        ],
+        [
+          "Tổng cộng",
+          "163",
+          "88",
+          "100%"
+        ]
+      ],
+      "widths": [
+        0.4,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "caption": "Bảng 1. Dự kiến số sinh viên và số nhóm theo hình thức tốt nghiệp"
+    },
+    {
+      "type": "h1",
+      "text": "III. TIÊU CHÍ PHÂN CÔNG GIẢNG VIÊN HƯỚNG DẪN"
+    },
+    {
+      "type": "h2",
+      "text": "1. Điều kiện đối với giảng viên hướng dẫn"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Là giảng viên cơ hữu của Bộ môn có học vị thạc sĩ trở lên; giảng viên có học vị thạc sĩ phải có tối thiểu 03 năm kinh nghiệm giảng dạy đại học.",
+        "Giảng viên tập sự không được phân công hướng dẫn độc lập; được làm đồng hướng dẫn cùng một giảng viên có học vị tiến sĩ.",
+        "Giảng viên thỉnh giảng từ doanh nghiệp được làm đồng hướng dẫn đồ án tốt nghiệp nếu có trình độ thạc sĩ trở lên và ít nhất 05 năm kinh nghiệm phát triển phần mềm; mỗi giảng viên thỉnh giảng đồng hướng dẫn tối đa 03 nhóm.",
+        "Giảng viên đang nghỉ dài hạn, đi học tập trung trong học kỳ không được phân công hướng dẫn mới."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "2. Số sinh viên tối đa mỗi giảng viên"
+    },
+    {
+      "type": "p",
+      "text": "Số sinh viên hướng dẫn tối đa được tính chung cho cả khóa luận và đồ án tốt nghiệp trong học kỳ 1 năm học 2026–2027, không tính sinh viên làm đồng hướng dẫn với vai trò hỗ trợ."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Chức danh / học vị",
+        "Số SV tối đa",
+        "Trong đó: SV khóa luận tối đa",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Phó giáo sư, tiến sĩ",
+          "14",
+          "8",
+          "Ưu tiên khóa luận có định hướng công bố"
+        ],
+        [
+          "Tiến sĩ",
+          "11",
+          "6",
+          "—"
+        ],
+        [
+          "Thạc sĩ, nghiên cứu sinh",
+          "8",
+          "4",
+          "Khóa luận cần đồng hướng dẫn là tiến sĩ"
+        ],
+        [
+          "Thạc sĩ (dưới 03 năm kinh nghiệm)",
+          "0",
+          "0",
+          "Chỉ làm đồng hướng dẫn"
+        ],
+        [
+          "Trưởng/Phó Trưởng Bộ môn",
+          "Giảm 2 so với mức chức danh",
+          "Giảm 1",
+          "Do kiêm nhiệm quản lý"
+        ]
+      ],
+      "widths": [
+        0.3,
+        0.2,
+        0.22,
+        0.28
+      ],
+      "caption": "Bảng 2. Số sinh viên hướng dẫn tối đa theo chức danh, học vị"
+    },
+    {
+      "type": "p",
+      "text": "Như vậy, giảng viên có học vị tiến sĩ được hướng dẫn tối đa 11 sinh viên, trong đó không quá 6 sinh viên làm khóa luận tốt nghiệp. Giảng viên đồng hướng dẫn với vai trò hỗ trợ được tính 0,3 suất cho mỗi sinh viên khi xác định chỉ tiêu còn lại."
+    },
+    {
+      "type": "h2",
+      "text": "3. Tiêu chí ưu tiên khi phân công"
+    },
+    {
+      "type": "p",
+      "text": "Khi số sinh viên đăng ký vào một giảng viên vượt mức tối đa, Bộ môn phân công theo thứ tự ưu tiên sau: (1) sinh viên đã tham gia nhóm nghiên cứu hoặc đề tài nghiên cứu khoa học của giảng viên ít nhất 01 học kỳ; (2) sinh viên có điểm học phần Đồ án chuyên ngành cao hơn; (3) sinh viên có điểm trung bình chung tích lũy cao hơn; (4) thời điểm đăng ký sớm hơn trên hệ thống."
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên không được giảng viên nguyện vọng 1 tiếp nhận sẽ được xét theo nguyện vọng 2 và 3. Sinh viên không được tiếp nhận ở cả ba nguyện vọng do Bộ môn phân công vào giảng viên còn chỉ tiêu, ưu tiên giảng viên có hướng chuyên môn gần với đề tài đề xuất."
+    },
+    {
+      "type": "h2",
+      "text": "4. Phù hợp hướng chuyên môn"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nhóm hướng chuyên môn",
+        "Mã nhóm",
+        "Số GV",
+        "Chỉ tiêu SV tối đa"
+      ],
+      "rows": [
+        [
+          "Kiểm thử và bảo đảm chất lượng phần mềm",
+          "KT-QA",
+          "4",
+          "38"
+        ],
+        [
+          "Kiến trúc phần mềm, hệ thống phân tán, điện toán đám mây",
+          "KT-CLOUD",
+          "5",
+          "47"
+        ],
+        [
+          "Kỹ thuật phần mềm cho trí tuệ nhân tạo",
+          "KT-AI",
+          "4",
+          "42"
+        ],
+        [
+          "Phát triển ứng dụng di động và web",
+          "KT-WEB",
+          "5",
+          "40"
+        ],
+        [
+          "Quản lý dự án và quy trình phần mềm",
+          "KT-PM",
+          "2",
+          "14"
+        ],
+        [
+          "Tổng cộng",
+          "—",
+          "20",
+          "181"
+        ]
+      ],
+      "widths": [
+        0.45,
+        0.15,
+        0.1,
+        0.3
+      ],
+      "caption": "Bảng 3. Chỉ tiêu hướng dẫn theo nhóm hướng chuyên môn"
+    },
+    {
+      "type": "p",
+      "text": "Tổng chỉ tiêu 181 sinh viên lớn hơn số sinh viên đủ điều kiện 163 nhằm dự phòng cho trường hợp đổi GVHD hoặc sinh viên các khóa trước đăng ký bổ sung."
+    },
+    {
+      "type": "h1",
+      "text": "IV. QUY TRÌNH VÀ MỐC THỜI GIAN"
+    },
+    {
+      "type": "h2",
+      "text": "1. Đăng ký nguyện vọng"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên đăng ký tối đa 03 nguyện vọng giảng viên hướng dẫn kèm đề tài dự kiến trên cổng đăng ký tốt nghiệp của Khoa tại mục Đăng ký GVHD – KTPM. Mỗi nguyện vọng ghi tên đề tài, mô tả ngắn không quá 200 chữ và công nghệ dự kiến sử dụng. Sinh viên làm nhóm chỉ cần trưởng nhóm đăng ký, ghi đầy đủ mã số sinh viên các thành viên."
+    },
+    {
+      "type": "h2",
+      "text": "2. Bảng mốc thời gian"
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Công việc",
+        "Thời gian",
+        "Đơn vị/người thực hiện"
+      ],
+      "rows": [
+        [
+          "1",
+          "Công bố danh sách GV, hướng chuyên môn và danh mục đề tài gợi ý",
+          "07/9/2026",
+          "Bộ môn"
+        ],
+        [
+          "2",
+          "Sinh viên đăng ký nguyện vọng trên cổng tốt nghiệp",
+          "08/9/2026 – 17/9/2026",
+          "Sinh viên"
+        ],
+        [
+          "3",
+          "Giảng viên xem xét, tiếp nhận sinh viên theo nguyện vọng",
+          "18/9/2026 – 23/9/2026",
+          "Giảng viên"
+        ],
+        [
+          "4",
+          "Bộ môn phân công bổ sung sinh viên chưa có GVHD",
+          "24/9/2026 – 26/9/2026",
+          "Tổ thư ký tốt nghiệp"
+        ],
+        [
+          "5",
+          "Công bố danh sách phân công chính thức",
+          "29/9/2026",
+          "Trưởng Bộ môn"
+        ],
+        [
+          "6",
+          "Nộp đề cương chi tiết có chữ ký GVHD",
+          "Chậm nhất 16/10/2026",
+          "Sinh viên"
+        ],
+        [
+          "7",
+          "Hạn cuối đề nghị đổi GVHD hoặc đổi đề tài",
+          "06/11/2026",
+          "Sinh viên, GVHD"
+        ],
+        [
+          "8",
+          "Báo cáo tiến độ giữa kỳ",
+          "23/11/2026 – 27/11/2026",
+          "GVHD, sinh viên"
+        ],
+        [
+          "9",
+          "Nộp khóa luận, đồ án hoàn chỉnh",
+          "Chậm nhất 08/01/2027",
+          "Sinh viên"
+        ]
+      ],
+      "widths": [
+        0.07,
+        0.48,
+        0.22,
+        0.23
+      ],
+      "caption": "Bảng 4. Mốc thời gian phân công và thực hiện tốt nghiệp HK1 2026–2027"
+    },
+    {
+      "type": "h2",
+      "text": "3. Tiếp nhận sinh viên của giảng viên"
+    },
+    {
+      "type": "p",
+      "text": "Trong thời gian từ ngày 18 đến ngày 23 tháng 9 năm 2026, giảng viên đăng nhập cổng tốt nghiệp để chấp nhận hoặc từ chối từng nguyện vọng. Giảng viên từ chối phải ghi lý do cụ thể. Sau ngày 23 tháng 9 năm 2026, nguyện vọng chưa được giảng viên xử lý được hệ thống tự động chuyển sang nguyện vọng kế tiếp."
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên có thể đề xuất nhận vượt chỉ tiêu tối đa 02 sinh viên khi sinh viên đó đang tham gia đề tài nghiên cứu khoa học do giảng viên chủ nhiệm; đề xuất phải được Trưởng Bộ môn đồng ý bằng văn bản và không áp dụng cho giảng viên có học vị thạc sĩ."
+    },
+    {
+      "type": "h2",
+      "text": "4. Tổ thư ký tốt nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn thành lập Tổ thư ký tốt nghiệp học kỳ 1 năm học 2026–2027 gồm 03 thành viên do ThS. Vũ Thị Hạnh Nguyên làm tổ trưởng, có nhiệm vụ tổng hợp nguyện vọng, phân công bổ sung, theo dõi tiến độ và tiếp nhận hồ sơ đổi giảng viên hướng dẫn. Địa chỉ thư điện tử tiếp nhận của Tổ là hộp thư chung của Bộ môn được công bố trên trang thông tin Khoa."
+    },
+    {
+      "type": "h1",
+      "text": "V. QUY TRÌNH ĐỔI GIẢNG VIÊN HƯỚNG DẪN"
+    },
+    {
+      "type": "h2",
+      "text": "1. Các trường hợp được đổi"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Giảng viên hướng dẫn được cử đi công tác, học tập dài hạn, nghỉ ốm hoặc nghỉ thai sản từ 04 tuần trở lên trong thời gian thực hiện tốt nghiệp.",
+        "Sinh viên thay đổi hướng đề tài sang lĩnh vực không thuộc chuyên môn của giảng viên đang hướng dẫn, được giảng viên hiện tại xác nhận.",
+        "Có mâu thuẫn hoặc sự cố trong quá trình hướng dẫn làm ảnh hưởng nghiêm trọng đến tiến độ, được Tổ thư ký xác minh.",
+        "Giảng viên hướng dẫn có quan hệ gia đình với sinh viên (cha, mẹ, vợ, chồng, con, anh, chị, em ruột) phát hiện sau khi phân công."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "2. Hồ sơ đổi GVHD"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên nộp Đơn đề nghị đổi giảng viên hướng dẫn theo Mẫu TN-KTPM-05 cho Tổ thư ký, có ý kiến của giảng viên hướng dẫn hiện tại và chữ ký đồng ý tiếp nhận của giảng viên hướng dẫn mới. Trường hợp giảng viên hiện tại không thể ký, Tổ thư ký ghi chú lý do và đính kèm minh chứng."
+    },
+    {
+      "type": "h2",
+      "text": "3. Thời hạn và xử lý"
+    },
+    {
+      "type": "p",
+      "text": "Hạn cuối nộp đơn đổi giảng viên hướng dẫn là ngày 06 tháng 11 năm 2026. Tổ thư ký xem xét và trình Trưởng Bộ môn quyết định trong vòng 05 ngày làm việc kể từ ngày nhận đủ hồ sơ. Sau thời hạn này, việc đổi giảng viên hướng dẫn chỉ được thực hiện trong trường hợp bất khả kháng thuộc lý do giảng viên và do Trưởng Bộ môn chỉ định giảng viên thay thế."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi sinh viên chỉ được đổi giảng viên hướng dẫn tối đa 01 lần trong học kỳ. Sinh viên đổi giảng viên hướng dẫn kèm đổi đề tài phải nộp lại đề cương chi tiết trong vòng 10 ngày kể từ ngày có quyết định đổi."
+    },
+    {
+      "type": "h2",
+      "text": "4. Ghi nhận khối lượng khi đổi GVHD"
+    },
+    {
+      "type": "p",
+      "text": "Khối lượng hướng dẫn được chia cho giảng viên cũ và giảng viên mới theo thời gian hướng dẫn thực tế: giảng viên cũ hướng dẫn dưới 04 tuần không được tính khối lượng; từ 04 tuần đến dưới 08 tuần được tính 30%; từ 08 tuần trở lên được tính 50% khối lượng giờ chuẩn của sinh viên đó; phần còn lại tính cho giảng viên mới."
+    },
+    {
+      "type": "h1",
+      "text": "VI. DUYỆT ĐỀ CƯƠNG VÀ ĐÁNH GIÁ TIẾN ĐỘ"
+    },
+    {
+      "type": "h2",
+      "text": "1. Yêu cầu đối với đề cương chi tiết"
+    },
+    {
+      "type": "p",
+      "text": "Đề cương chi tiết dài từ 06 đến 10 trang, trình bày theo mẫu thống nhất của Bộ môn, gồm: lý do chọn đề tài; mục tiêu và phạm vi; khảo sát các hệ thống hoặc công trình liên quan; yêu cầu chức năng và phi chức năng; kiến trúc và công nghệ dự kiến; kế hoạch thực hiện theo tuần; danh mục tài liệu tham khảo có tối thiểu 08 tài liệu, trong đó ít nhất 03 tài liệu tiếng Anh."
+    },
+    {
+      "type": "p",
+      "text": "Đối với khóa luận tốt nghiệp, đề cương phải nêu rõ câu hỏi nghiên cứu hoặc vấn đề kỹ thuật cần giải quyết, phương pháp đánh giá kết quả và tiêu chí so sánh với giải pháp hiện có. Đối với đồ án tốt nghiệp, đề cương phải mô tả rõ sản phẩm phần mềm, phân công công việc của từng thành viên và kế hoạch kiểm thử."
+    },
+    {
+      "type": "h2",
+      "text": "2. Duyệt đề cương"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên hướng dẫn duyệt đề cương và ký xác nhận trên cổng tốt nghiệp. Tổ thư ký rà soát trùng lặp tên đề tài với các đề tài đã thực hiện trong 03 năm gần nhất; đề tài trùng lặp trên 70% nội dung mô tả phải điều chỉnh phạm vi hoặc bổ sung điểm mới trong vòng 07 ngày."
+    },
+    {
+      "type": "p",
+      "text": "Trưởng Bộ môn có thể yêu cầu điều chỉnh đề tài có phạm vi quá rộng so với thời gian 15 tuần thực hiện, đề tài chỉ sao chép chức năng của sản phẩm thương mại sẵn có mà không có đóng góp kỹ thuật, hoặc đề tài sử dụng dữ liệu cá nhân mà không có phương án bảo vệ dữ liệu."
+    },
+    {
+      "type": "h2",
+      "text": "3. Đánh giá tiến độ giữa kỳ"
+    },
+    {
+      "type": "p",
+      "text": "Trong tuần từ ngày 23 đến ngày 27 tháng 11 năm 2026, sinh viên báo cáo tiến độ trước giảng viên hướng dẫn và một giảng viên cùng nhóm chuyên môn. Kết quả giữa kỳ được xếp vào một trong ba mức sau và là căn cứ để giảng viên hướng dẫn quyết định cho sinh viên tiếp tục thực hiện."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mức đánh giá",
+        "Tiêu chí",
+        "Hệ quả"
+      ],
+      "rows": [
+        [
+          "Đạt",
+          "Hoàn thành từ 50% khối lượng theo kế hoạch, có bản demo chạy được các chức năng chính",
+          "Tiếp tục thực hiện"
+        ],
+        [
+          "Cần cải thiện",
+          "Hoàn thành từ 30% đến dưới 50% khối lượng",
+          "Lập kế hoạch bù, kiểm tra lại sau 03 tuần"
+        ],
+        [
+          "Không đạt",
+          "Hoàn thành dưới 30% khối lượng hoặc không có sản phẩm",
+          "Đề nghị dừng, đăng ký lại ở học kỳ sau"
+        ]
+      ],
+      "widths": [
+        0.18,
+        0.52,
+        0.3
+      ],
+      "caption": "Bảng 5. Mức đánh giá tiến độ giữa kỳ"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên bị đánh giá Cần cải thiện mà sau 03 tuần kiểm tra lại vẫn chưa đạt từ 60% khối lượng thì giảng viên hướng dẫn lập biên bản đề nghị Bộ môn không cho bảo vệ trong học kỳ 1 năm học 2026–2027."
+    },
+    {
+      "type": "h2",
+      "text": "4. Khối lượng giờ chuẩn hướng dẫn"
+    },
+    {
+      "type": "p",
+      "text": "Khối lượng giờ chuẩn hướng dẫn được ghi nhận cho giảng viên sau khi sinh viên bảo vệ. Sinh viên bị dừng thực hiện sau đánh giá giữa kỳ thì giảng viên hướng dẫn được tính 40% khối lượng giờ chuẩn của sinh viên đó. Đồng hướng dẫn được chia khối lượng theo thỏa thuận ghi trong đề cương, nhưng giảng viên hướng dẫn chính không thấp hơn 60%."
+    },
+    {
+      "type": "h1",
+      "text": "VII. TRÁCH NHIỆM CỦA GIẢNG VIÊN HƯỚNG DẪN VÀ SINH VIÊN"
+    },
+    {
+      "type": "h2",
+      "text": "1. Giảng viên hướng dẫn"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Gặp sinh viên tối thiểu 01 lần mỗi tuần (trực tiếp hoặc trực tuyến), ghi nhận vào Sổ theo dõi hướng dẫn trên cổng tốt nghiệp.",
+        "Duyệt đề cương, theo dõi tiến độ, đánh giá giữa kỳ và đề xuất cho sinh viên bảo vệ hoặc không bảo vệ.",
+        "Hướng dẫn sinh viên tuân thủ quy định về liêm chính học thuật, trích dẫn tài liệu và sử dụng công cụ trí tuệ nhân tạo tạo sinh có khai báo.",
+        "Thông báo kịp thời cho Tổ thư ký khi sinh viên không liên lạc quá 02 tuần liên tiếp."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "2. Sinh viên"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Chủ động liên hệ giảng viên hướng dẫn trong vòng 05 ngày kể từ ngày công bố danh sách phân công chính thức.",
+        "Thực hiện đúng kế hoạch, nộp báo cáo tiến độ, mã nguồn và tài liệu theo yêu cầu của giảng viên hướng dẫn qua kho mã nguồn của Bộ môn.",
+        "Sinh viên vắng mặt quá 03 buổi gặp không có lý do sẽ bị giảng viên hướng dẫn đề nghị không cho bảo vệ."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "VIII. TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên Bộ môn, Tổ thư ký tốt nghiệp và sinh viên ngành Kỹ thuật phần mềm có trách nhiệm thực hiện Hướng dẫn này. Các trường hợp phát sinh ngoài Hướng dẫn do Trưởng Bộ môn xem xét quyết định và báo cáo Khoa."
+    },
+    {
+      "type": "p",
+      "text": "Hướng dẫn này áp dụng cho học kỳ 1 năm học 2026–2027. Việc phân công giảng viên hướng dẫn học kỳ 2 sẽ có hướng dẫn riêng trên cơ sở đánh giá kết quả học kỳ 1."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. DANH SÁCH GIẢNG VIÊN VÀ CHỈ TIÊU HƯỚNG DẪN DỰ KIẾN"
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Giảng viên",
+        "Học vị",
+        "Nhóm chuyên môn",
+        "Chỉ tiêu SV"
+      ],
+      "rows": [
+        [
+          "1",
+          "TS. Đoàn Quốc Thịnh",
+          "Tiến sĩ (Trưởng BM)",
+          "KT-CLOUD",
+          "9"
+        ],
+        [
+          "2",
+          "TS. Mai Thị Thu Hương",
+          "Tiến sĩ (Phó Trưởng BM)",
+          "KT-AI",
+          "9"
+        ],
+        [
+          "3",
+          "PGS.TS. Hồ Văn Lực",
+          "Phó giáo sư",
+          "KT-AI",
+          "14"
+        ],
+        [
+          "4",
+          "TS. Trịnh Quang Vinh",
+          "Tiến sĩ",
+          "KT-QA",
+          "11"
+        ],
+        [
+          "5",
+          "TS. Lê Bảo Ngọc",
+          "Tiến sĩ",
+          "KT-CLOUD",
+          "11"
+        ],
+        [
+          "6",
+          "TS. Châu Minh Tâm",
+          "Tiến sĩ",
+          "KT-WEB",
+          "11"
+        ],
+        [
+          "7",
+          "ThS. Vũ Thị Hạnh Nguyên",
+          "Thạc sĩ",
+          "KT-PM",
+          "6"
+        ],
+        [
+          "8",
+          "ThS. Phan Ngọc Diệp",
+          "Thạc sĩ, NCS",
+          "KT-QA",
+          "8"
+        ],
+        [
+          "9",
+          "ThS. Lâm Hoàng Phúc",
+          "Thạc sĩ",
+          "KT-WEB",
+          "8"
+        ],
+        [
+          "10",
+          "ThS. Nguyễn Đức Khang",
+          "Thạc sĩ",
+          "KT-CLOUD",
+          "8"
+        ],
+        [
+          "11",
+          "ThS. Tạ Thị Mỹ Linh",
+          "Thạc sĩ, NCS",
+          "KT-AI",
+          "8"
+        ],
+        [
+          "12",
+          "ThS. Huỳnh Gia Bảo",
+          "Thạc sĩ",
+          "KT-WEB",
+          "8"
+        ]
+      ],
+      "widths": [
+        0.07,
+        0.33,
+        0.22,
+        0.2,
+        0.18
+      ],
+      "caption": "Phụ lục 1. Chỉ tiêu hướng dẫn của một số giảng viên (trích)"
+    },
+    {
+      "type": "p",
+      "text": "Ghi chú: ThS. Vũ Thị Hạnh Nguyên được giảm 02 chỉ tiêu do kiêm nhiệm tổ trưởng Tổ thư ký tốt nghiệp. Danh sách đầy đủ 20 giảng viên được đăng trên cổng tốt nghiệp ngày 07 tháng 9 năm 2026."
+    }
+  ],
+  "signature": {
+    "title": "TRƯỞNG BỘ MÔN",
+    "name": "TS. Đoàn Quốc Thịnh"
+  },
+  "recipients": [
+    "Ban Chủ nhiệm Khoa Công nghệ Thông tin (để báo cáo)",
+    "Giảng viên Bộ môn (để thực hiện)",
+    "Tổ thư ký tốt nghiệp",
+    "Lưu: VT Bộ môn"
+  ],
+  "questions": [
+    {
+      "question": "Giảng viên có học vị tiến sĩ được hướng dẫn tối đa bao nhiêu sinh viên tốt nghiệp trong học kỳ 1 năm 2026–2027?",
+      "expected_answer": "Tối đa 11 sinh viên, trong đó tối đa 6 sinh viên làm khóa luận.",
+      "evidence": "giảng viên có học vị tiến sĩ được hướng dẫn tối đa 11 sinh viên, trong đó không quá 6 sinh viên làm khóa luận tốt nghiệp."
+    },
+    {
+      "question": "Điểm trung bình tích lũy tối thiểu bao nhiêu thì sinh viên KTPM được làm khóa luận tốt nghiệp thay vì đồ án?",
+      "expected_answer": "Từ 2,45 trở lên (thang 4).",
+      "evidence": "Sinh viên được đăng ký làm khóa luận tốt nghiệp khi có điểm trung bình chung tích lũy từ 2,45 trở lên theo thang điểm 4"
+    },
+    {
+      "question": "Hạn chót nộp đơn đổi giảng viên hướng dẫn tốt nghiệp học kỳ này là ngày nào và dùng mẫu nào?",
+      "expected_answer": "Ngày 06/11/2026, dùng Mẫu TN-KTPM-05.",
+      "evidence": "Hạn cuối nộp đơn đổi giảng viên hướng dẫn là ngày 06 tháng 11 năm 2026."
+    }
+  ]
+}

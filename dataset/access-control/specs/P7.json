@@ -1,0 +1,484 @@
+{
+  "doc_id": "P7",
+  "file_name": "P7_quy-che-co-van-hoc-tap-chu-nhiem-lop-2026.pdf",
+  "title": "QUY CHẾ CÔNG TÁC CỐ VẤN HỌC TẬP VÀ GIÁO VIÊN CHỦ NHIỆM LỚP SINH VIÊN",
+  "number": "Số: 3047/QĐ-ĐHCN",
+  "place_date": "TP. Hồ Chí Minh, ngày 10 tháng 8 năm 2026",
+  "signature": {
+    "title": "HIỆU TRƯỞNG",
+    "name": "PGS.TS. Hồ Quang Tuệ"
+  },
+  "recipients": [
+    "Các khoa, viện, trung tâm",
+    "Phòng CTSV, Phòng Đào tạo, Phòng TC-KT",
+    "Giảng viên, sinh viên hệ chính quy",
+    "Lưu: VT, CTSV"
+  ],
+  "questions": [
+    {
+      "question": "Mỗi học kỳ cố vấn học tập phải tổ chức ít nhất mấy buổi sinh hoạt lớp?",
+      "expected_answer": "Tối thiểu 4 buổi mỗi học kỳ chính (học kỳ 1 năm nhất là 6 buổi), mỗi buổi ít nhất 90 phút.",
+      "evidence": "CVHT tổ chức tối thiểu 4 buổi sinh hoạt lớp trong mỗi học kỳ chính"
+    },
+    {
+      "question": "Làm cố vấn học tập một lớp 60 sinh viên thì được quy đổi bao nhiêu giờ chuẩn mỗi năm?",
+      "expected_answer": "38 giờ chuẩn/năm học (lớp năm nhất nhân hệ số 1,2).",
+      "evidence": "Mức quy đổi cơ bản là 38 giờ chuẩn cho mỗi lớp có đến 60 sinh viên trong một năm học."
+    },
+    {
+      "question": "Cần bao nhiêu phần trăm sinh viên trong lớp ký đơn thì khoa phải xem xét đổi cố vấn học tập?",
+      "expected_answer": "Từ 40% sinh viên của lớp trở lên; khoa họp xem xét trong 15 ngày làm việc.",
+      "evidence": "Khi có từ 40% sinh viên của lớp trở lên cùng ký đơn đề nghị thay đổi CVHT"
+    }
+  ],
+  "parent_org": "BỘ CÔNG THƯƠNG",
+  "issuer": "TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH",
+  "confidential": null,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế công tác sinh viên hệ chính quy ban hành kèm theo Quyết định số 2208/QĐ-ĐHCN ngày 19 tháng 7 năm 2025;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Quy định chế độ làm việc của giảng viên ban hành kèm theo Quyết định số 0612/QĐ-ĐHCN ngày 27 tháng 2 năm 2026;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ kết quả khảo sát mức độ hài lòng của sinh viên về công tác cố vấn học tập năm học 2025–2026 với 11.427 phiếu hợp lệ;"
+    },
+    {
+      "type": "p",
+      "text": "Xét đề nghị của Trưởng phòng Công tác Sinh viên và Trưởng phòng Đào tạo, Hiệu trưởng ban hành Quy chế công tác cố vấn học tập và giáo viên chủ nhiệm lớp như sau."
+    },
+    {
+      "type": "h1",
+      "text": "Chương I. QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "Quy chế này quy định về tiêu chuẩn, nhiệm vụ, quyền hạn, chế độ làm việc, định mức giờ quy đổi và việc đánh giá đối với cố vấn học tập và giáo viên chủ nhiệm lớp sinh viên; đồng thời quy định quyền và nghĩa vụ của sinh viên trong quan hệ với cố vấn học tập."
+    },
+    {
+      "type": "p",
+      "text": "Quy chế áp dụng đối với giảng viên, viên chức được phân công làm cố vấn học tập hoặc giáo viên chủ nhiệm các lớp sinh viên đại học hệ chính quy; các khoa, phòng, trung tâm có liên quan và sinh viên đại học hệ chính quy của Trường."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Giải thích từ ngữ"
+    },
+    {
+      "type": "p",
+      "text": "\"Cố vấn học tập\" (CVHT) là giảng viên được giao nhiệm vụ tư vấn, hướng dẫn sinh viên về chương trình đào tạo, kế hoạch học tập, đăng ký học phần và định hướng nghề nghiệp. \"Giáo viên chủ nhiệm\" (GVCN) là giảng viên hoặc viên chức được giao quản lý lớp sinh viên về mặt nề nếp, rèn luyện và đời sống. Đối với các lớp từ khóa tuyển sinh 2024 trở về sau, một người đồng thời đảm nhiệm cả hai vai trò và được gọi chung là CVHT, trừ các lớp có trên 75 sinh viên được bố trí thêm một GVCN riêng."
+    },
+    {
+      "type": "p",
+      "text": "\"Sổ tay CVHT điện tử\" là phân hệ trên hệ thống quản lý đào tạo dùng để ghi nhận lịch sinh hoạt lớp, biên bản, nội dung tư vấn cá nhân và danh sách sinh viên cần theo dõi đặc biệt."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Nguyên tắc hoạt động"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Lấy sinh viên làm trung tâm; tôn trọng quyền tự quyết của sinh viên trong việc lựa chọn kế hoạch học tập.",
+        "Bảo mật thông tin cá nhân, kết quả học tập và hoàn cảnh gia đình của sinh viên; không công khai danh sách sinh viên bị cảnh báo học tập trong nhóm trò chuyện chung của lớp.",
+        "Phối hợp chặt chẽ giữa CVHT, khoa quản lý ngành, Phòng Công tác Sinh viên, Phòng Đào tạo và gia đình sinh viên.",
+        "Mọi hoạt động tư vấn, sinh hoạt lớp phải được ghi nhận trên Sổ tay CVHT điện tử trong vòng 5 ngày làm việc."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "Chương II. TIÊU CHUẨN VÀ PHÂN CÔNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Tiêu chuẩn cố vấn học tập"
+    },
+    {
+      "type": "p",
+      "text": "CVHT phải là giảng viên cơ hữu có trình độ thạc sĩ trở lên, có thời gian công tác giảng dạy tại Trường tối thiểu 2 năm, nắm vững chương trình đào tạo của ngành được phân công, có phẩm chất đạo đức tốt và không trong thời gian bị kỷ luật. Giảng viên tập sự không được phân công làm CVHT độc lập mà chỉ làm trợ lý CVHT dưới sự hướng dẫn của một CVHT có kinh nghiệm."
+    },
+    {
+      "type": "p",
+      "text": "Trước khi nhận nhiệm vụ lần đầu, CVHT phải hoàn thành khóa bồi dưỡng nghiệp vụ cố vấn học tập 12 tiết do Phòng Công tác Sinh viên tổ chức và đạt bài kiểm tra cuối khóa."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Phân công và số lượng sinh viên"
+    },
+    {
+      "type": "p",
+      "text": "Trưởng khoa phân công CVHT cho từng lớp ngay từ khi lớp được thành lập và ổn định CVHT trong suốt khóa học, trừ trường hợp CVHT nghỉ hưu, chuyển công tác, đi học dài hạn hoặc bị thay thế theo Điều 18. Mỗi CVHT phụ trách tối đa 3 lớp hoặc tối đa 180 sinh viên, tùy điều kiện nào đến trước. Trưởng khoa, phó trưởng khoa không làm CVHT, trừ khoa có dưới 15 giảng viên cơ hữu."
+    },
+    {
+      "type": "p",
+      "text": "Danh sách phân công CVHT năm học 2026–2027 được các khoa gửi về Phòng Công tác Sinh viên trước ngày 15 tháng 9 năm 2026 và công bố trên trang thông tin của từng khoa."
+    },
+    {
+      "type": "h1",
+      "text": "Chương III. NHIỆM VỤ VÀ QUYỀN HẠN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Nhiệm vụ tư vấn học tập"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Hướng dẫn sinh viên tìm hiểu chương trình đào tạo, chuẩn đầu ra, quy chế đào tạo và các quy định liên quan ngay trong tuần sinh hoạt công dân đầu khóa.",
+        "Hỗ trợ sinh viên lập kế hoạch học tập toàn khóa và kế hoạch đăng ký học phần từng học kỳ; phê duyệt trực tuyến phiếu đăng ký vượt khối lượng tối đa trước khi Phòng Đào tạo xử lý.",
+        "Theo dõi kết quả học tập, rà soát danh sách sinh viên có nguy cơ bị cảnh báo vào tuần học thứ 8 mỗi học kỳ dựa trên điểm quá trình.",
+        "Gặp riêng từng sinh viên bị cảnh báo học tập trong 4 tuần đầu học kỳ kế tiếp và ghi biên bản tư vấn.",
+        "Tư vấn định hướng chuyên ngành, chọn học phần tự chọn, thực tập doanh nghiệp và khóa luận tốt nghiệp."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Nhiệm vụ quản lý lớp và rèn luyện"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Hướng dẫn lớp bầu ban cán sự lớp trong vòng 3 tuần kể từ ngày khai giảng khóa học; kiện toàn ban cán sự vào đầu mỗi năm học.",
+        "Tổ chức họp lớp xét kết quả rèn luyện mỗi học kỳ; ký xác nhận và chịu trách nhiệm về kết quả đánh giá điểm rèn luyện cấp lớp.",
+        "Nắm bắt hoàn cảnh sinh viên khó khăn, sinh viên khuyết tật, sinh viên dân tộc thiểu số để đề xuất hỗ trợ học bổng, miễn giảm học phí.",
+        "Kịp thời báo cáo khoa và Phòng Công tác Sinh viên khi phát hiện sinh viên có dấu hiệu khủng hoảng tâm lý, vi phạm pháp luật hoặc gặp sự cố nghiêm trọng, chậm nhất trong 24 giờ."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Sinh hoạt lớp định kỳ"
+    },
+    {
+      "type": "p",
+      "text": "CVHT tổ chức tối thiểu 4 buổi sinh hoạt lớp trong mỗi học kỳ chính, mỗi buổi không ít hơn 90 phút; trong đó ít nhất 2 buổi phải tổ chức trực tiếp tại Trường. Riêng học kỳ 1 của năm thứ nhất, số buổi sinh hoạt tối thiểu là 6 buổi. Lớp năm cuối đang đi thực tập được thay 2 buổi trực tiếp bằng hình thức trực tuyến."
+    },
+    {
+      "type": "p",
+      "text": "Nội dung, danh sách điểm danh và biên bản mỗi buổi sinh hoạt được tải lên Sổ tay CVHT điện tử. Sinh viên vắng không phép quá 2 buổi sinh hoạt lớp trong một học kỳ bị trừ điểm ở mục \"Ý thức chấp hành nội quy\" trong phiếu đánh giá kết quả rèn luyện."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Buổi",
+        "Thời điểm",
+        "Nội dung bắt buộc"
+      ],
+      "rows": [
+        [
+          "1",
+          "Tuần 1 – 2",
+          "Phổ biến kế hoạch học kỳ, lịch thi, quy định mới; rà soát đăng ký học phần"
+        ],
+        [
+          "2",
+          "Tuần 6 – 7",
+          "Tư vấn học tập giữa kỳ; nhắc lịch đánh giá giảng dạy; an toàn, an ninh"
+        ],
+        [
+          "3",
+          "Tuần 10 – 11",
+          "Định hướng nghề nghiệp, nghiên cứu khoa học, học bổng; giới thiệu doanh nghiệp"
+        ],
+        [
+          "4",
+          "Tuần 14 – 15",
+          "Xét điểm rèn luyện cấp lớp; hướng dẫn ôn thi; kế hoạch học kỳ kế tiếp"
+        ]
+      ],
+      "widths": [
+        0.1,
+        0.2,
+        0.7
+      ],
+      "caption": "Bảng 1. Khung nội dung sinh hoạt lớp trong một học kỳ chính"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Giờ tiếp sinh viên và kênh liên lạc"
+    },
+    {
+      "type": "p",
+      "text": "CVHT công bố lịch tiếp sinh viên tối thiểu 2 giờ mỗi tuần trong thời gian học kỳ, có thể trực tiếp tại văn phòng khoa hoặc trực tuyến. CVHT phản hồi thư điện tử, tin nhắn của sinh viên qua kênh chính thức trong thời hạn 3 ngày làm việc. Kênh liên lạc chính thức là thư điện tử do Trường cấp và chức năng nhắn tin trên Sổ tay CVHT điện tử; các nhóm mạng xã hội chỉ dùng để thông báo, không dùng để xử lý thông tin cá nhân của sinh viên."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Hỗ trợ nhóm sinh viên cần quan tâm đặc biệt"
+    },
+    {
+      "type": "p",
+      "text": "Đầu mỗi học kỳ, CVHT lập danh sách sinh viên cần quan tâm đặc biệt trên Sổ tay CVHT điện tử, gồm: sinh viên bị cảnh báo học tập; sinh viên có điểm rèn luyện xếp loại yếu hoặc kém; sinh viên khuyết tật; sinh viên thuộc hộ nghèo, cận nghèo; sinh viên quốc tế và sinh viên quay lại học sau thời gian tạm dừng. Danh sách chỉ được chia sẻ với lãnh đạo khoa và Phòng Công tác Sinh viên."
+    },
+    {
+      "type": "p",
+      "text": "Với mỗi sinh viên trong danh sách, CVHT thực hiện ít nhất 2 lần trao đổi riêng trong học kỳ và ghi nhận kết quả. Sinh viên khuyết tật được CVHT đề xuất với Phòng Đào tạo các điều chỉnh hợp lý về hình thức thi, thời gian làm bài hoặc vị trí phòng học chậm nhất vào tuần học thứ 3. Sinh viên quốc tế được bố trí thêm 01 sinh viên hỗ trợ đồng hành trong năm học đầu tiên do Đoàn Thanh niên giới thiệu."
+    },
+    {
+      "type": "p",
+      "text": "Trường hợp sinh viên vắng mặt liên tục quá 2 tuần mà không có thông tin, CVHT có trách nhiệm liên hệ sinh viên và gia đình, đồng thời thông báo cho Phòng Công tác Sinh viên để phối hợp xác minh."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Quyền hạn của cố vấn học tập"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Được truy cập kết quả học tập, rèn luyện, tình trạng học phí của sinh viên thuộc lớp phụ trách.",
+        "Được đề nghị khen thưởng, kỷ luật sinh viên; đề nghị miễn, giảm học phí và xét học bổng.",
+        "Được ưu tiên bố trí lịch giảng dạy không trùng thời gian sinh hoạt lớp đã đăng ký đầu học kỳ.",
+        "Được tham dự các buổi tập huấn, hội thảo về công tác cố vấn học tập trong và ngoài Trường do Trường cử."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "Chương IV. ĐỊNH MỨC GIỜ QUY ĐỔI VÀ CHẾ ĐỘ"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Quy đổi giờ chuẩn"
+    },
+    {
+      "type": "p",
+      "text": "Công tác CVHT được quy đổi thành giờ chuẩn giảng dạy và tính vào khối lượng công việc của giảng viên trong năm học. Mức quy đổi cơ bản là 38 giờ chuẩn cho mỗi lớp có đến 60 sinh viên trong một năm học. Đối với lớp có trên 60 sinh viên, mỗi sinh viên tăng thêm được quy đổi thêm 0,4 giờ chuẩn. Lớp năm thứ nhất được nhân hệ số 1,2 do khối lượng công việc định hướng ban đầu lớn hơn."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Quy mô lớp",
+        "Năm thứ nhất (hệ số 1,2)",
+        "Năm thứ hai trở đi",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Đến 40 sinh viên",
+          "45,6 giờ chuẩn",
+          "38 giờ chuẩn",
+          "Mức cơ bản"
+        ],
+        [
+          "60 sinh viên",
+          "45,6 giờ chuẩn",
+          "38 giờ chuẩn",
+          "Mức cơ bản"
+        ],
+        [
+          "70 sinh viên",
+          "50,4 giờ chuẩn",
+          "42 giờ chuẩn",
+          "Cộng 10 x 0,4 giờ"
+        ],
+        [
+          "80 sinh viên",
+          "55,2 giờ chuẩn",
+          "46 giờ chuẩn",
+          "Cộng 20 x 0,4 giờ; có GVCN riêng"
+        ],
+        [
+          "Trợ lý CVHT",
+          "15 giờ chuẩn",
+          "12 giờ chuẩn",
+          "Không phụ thuộc quy mô lớp"
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.26,
+        0.22,
+        0.3
+      ],
+      "caption": "Bảng 2. Định mức giờ chuẩn quy đổi cho công tác cố vấn học tập/năm học"
+    },
+    {
+      "type": "p",
+      "text": "GVCN riêng của lớp trên 75 sinh viên được quy đổi 20 giờ chuẩn/năm học. Số giờ quy đổi chỉ được ghi nhận đầy đủ khi CVHT được đánh giá từ mức \"Hoàn thành nhiệm vụ\" trở lên theo Điều 15; CVHT xếp mức \"Chưa hoàn thành nhiệm vụ\" chỉ được ghi nhận 50% số giờ."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Hỗ trợ kinh phí sinh hoạt lớp"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi lớp được hỗ trợ kinh phí tổ chức hoạt động tập thể 1.200.000 đồng/năm học, do CVHT và lớp trưởng cùng quản lý, quyết toán qua Phòng Công tác Sinh viên chậm nhất ngày 30 tháng 6 hằng năm. Kinh phí chi cho hoạt động học thuật, văn nghệ, thể thao, thiện nguyện; không chi cho liên hoan, ăn uống quá 30% tổng kinh phí."
+    },
+    {
+      "type": "h1",
+      "text": "Chương V. ĐÁNH GIÁ CỐ VẤN HỌC TẬP"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Căn cứ đánh giá"
+    },
+    {
+      "type": "p",
+      "text": "Việc đánh giá CVHT được thực hiện mỗi năm học một lần vào tháng 6, dựa trên ba nguồn: (a) phiếu khảo sát ý kiến sinh viên trên hệ thống, chỉ được tính khi có từ 50% sinh viên của lớp tham gia; (b) mức độ hoàn thành hồ sơ trên Sổ tay CVHT điện tử do Phòng Công tác Sinh viên trích xuất; (c) nhận xét của khoa về các chỉ số kết quả của lớp."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Thành phần",
+        "Trọng số",
+        "Cách tính"
+      ],
+      "rows": [
+        [
+          "Khảo sát ý kiến sinh viên",
+          "40%",
+          "Điểm trung bình thang 5, quy về thang 100"
+        ],
+        [
+          "Hồ sơ Sổ tay CVHT điện tử",
+          "30%",
+          "Tỷ lệ buổi sinh hoạt, biên bản tư vấn được cập nhật đúng hạn"
+        ],
+        [
+          "Chỉ số kết quả của lớp",
+          "20%",
+          "Tỷ lệ sinh viên bị cảnh báo, tỷ lệ thôi học, tỷ lệ tham gia đánh giá rèn luyện"
+        ],
+        [
+          "Nhận xét của khoa",
+          "10%",
+          "Tinh thần trách nhiệm, phối hợp xử lý sự việc"
+        ]
+      ],
+      "widths": [
+        0.32,
+        0.14,
+        0.54
+      ],
+      "caption": "Bảng 3. Cơ cấu điểm đánh giá cố vấn học tập"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Xếp loại"
+    },
+    {
+      "type": "p",
+      "text": "CVHT đạt từ 85 điểm trở lên được xếp loại \"Hoàn thành xuất sắc nhiệm vụ\"; từ 70 đến dưới 85 điểm là \"Hoàn thành tốt nhiệm vụ\"; từ 55 đến dưới 70 điểm là \"Hoàn thành nhiệm vụ\"; dưới 55 điểm là \"Chưa hoàn thành nhiệm vụ\". CVHT có điểm khảo sát sinh viên dưới 3,0/5 trong hai năm học liên tiếp không được tiếp tục phân công làm CVHT trong năm học kế tiếp."
+    },
+    {
+      "type": "p",
+      "text": "Kết quả xếp loại CVHT là một tiêu chí trong đánh giá, xếp loại viên chức hằng năm. Hằng năm, Trường tặng danh hiệu \"Cố vấn học tập tiêu biểu\" cho tối đa 12 CVHT có điểm cao nhất toàn trường, kèm tiền thưởng 2.500.000 đồng/người."
+    },
+    {
+      "type": "h1",
+      "text": "Chương VI. QUYỀN VÀ NGHĨA VỤ CỦA SINH VIÊN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Quyền của sinh viên"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Được biết họ tên, thư điện tử và lịch tiếp sinh viên của CVHT ngay từ tuần đầu học kỳ.",
+        "Được tư vấn cá nhân ít nhất 1 lần mỗi học kỳ theo yêu cầu, không phụ thuộc vào buổi sinh hoạt lớp.",
+        "Được giữ bí mật thông tin cá nhân đã chia sẻ khi tư vấn, trừ trường hợp có nguy cơ gây hại đến tính mạng của sinh viên hoặc người khác.",
+        "Được tham gia đánh giá CVHT một cách ẩn danh; kết quả khảo sát không được dùng để truy tìm danh tính người trả lời.",
+        "Được phản ánh, khiếu nại về CVHT theo Điều 18."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 17. Nghĩa vụ của sinh viên"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên có nghĩa vụ tham dự đầy đủ các buổi sinh hoạt lớp, cung cấp thông tin liên lạc chính xác, chủ động trao đổi với CVHT trước khi đăng ký vượt khối lượng hoặc xin tạm dừng học, thực hiện khảo sát đánh giá CVHT đúng hạn và đọc thông báo trên thư điện tử sinh viên ít nhất 2 lần mỗi tuần."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 18. Đề nghị thay đổi cố vấn học tập"
+    },
+    {
+      "type": "p",
+      "text": "Khi có từ 40% sinh viên của lớp trở lên cùng ký đơn đề nghị thay đổi CVHT với lý do cụ thể, khoa phải tổ chức họp xem xét trong thời hạn 15 ngày làm việc với sự tham gia của đại diện Phòng Công tác Sinh viên và ban cán sự lớp. Sinh viên cá nhân có thể phản ánh trực tiếp về CVHT qua đường dây hỗ trợ sinh viên của Phòng Công tác Sinh viên; danh tính người phản ánh được giữ kín."
+    },
+    {
+      "type": "p",
+      "text": "Trường hợp khoa quyết định thay đổi CVHT, việc bàn giao hồ sơ lớp trên Sổ tay CVHT điện tử phải hoàn thành trong 7 ngày làm việc. CVHT bị thay đổi theo đề nghị của sinh viên không được phân công lại lớp đó."
+    },
+    {
+      "type": "h1",
+      "text": "Chương VII. TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 19. Trách nhiệm các đơn vị"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Phòng Công tác Sinh viên là đầu mối quản lý công tác CVHT, tổ chức bồi dưỡng nghiệp vụ, khảo sát và tổng hợp đánh giá.",
+        "Phòng Đào tạo cấp quyền truy cập dữ liệu học tập cho CVHT và tính giờ quy đổi theo Điều 12.",
+        "Phòng Tài chính – Kế toán cấp và quyết toán kinh phí hỗ trợ sinh hoạt lớp theo Điều 13.",
+        "Các khoa phân công, theo dõi, nhận xét CVHT và báo cáo tình hình công tác CVHT mỗi học kỳ."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 20. Hiệu lực thi hành"
+    },
+    {
+      "type": "p",
+      "text": "Quy chế có hiệu lực từ năm học 2026–2027 và thay thế Quy chế công tác cố vấn học tập ban hành kèm theo Quyết định số 1785/QĐ-ĐHCN ngày 06 tháng 9 năm 2022. Các khoa căn cứ Quy chế này để xây dựng hướng dẫn chi tiết phù hợp với đặc thù ngành, nhưng không được trái với quy định tại Quy chế."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. MỘT SỐ CÂU HỎI TRONG PHIẾU KHẢO SÁT SINH VIÊN VỀ CVHT"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mã",
+        "Nội dung câu hỏi",
+        "Thang đo"
+      ],
+      "rows": [
+        [
+          "CV01",
+          "CVHT tổ chức sinh hoạt lớp đúng lịch đã công bố",
+          "1 – 5"
+        ],
+        [
+          "CV02",
+          "CVHT phản hồi thắc mắc của tôi trong thời hạn quy định",
+          "1 – 5"
+        ],
+        [
+          "CV03",
+          "Tôi nhận được tư vấn hữu ích khi đăng ký học phần",
+          "1 – 5"
+        ],
+        [
+          "CV04",
+          "CVHT giữ bí mật thông tin cá nhân của tôi",
+          "1 – 5"
+        ],
+        [
+          "CV05",
+          "CVHT hỗ trợ kịp thời khi tôi hoặc bạn trong lớp gặp khó khăn",
+          "1 – 5"
+        ],
+        [
+          "CV06",
+          "Góp ý khác để cải thiện công tác cố vấn học tập",
+          "Câu hỏi mở"
+        ]
+      ],
+      "widths": [
+        0.12,
+        0.68,
+        0.2
+      ]
+    }
+  ]
+}

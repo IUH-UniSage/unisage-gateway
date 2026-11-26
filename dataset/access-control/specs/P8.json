@@ -1,0 +1,448 @@
+{
+  "doc_id": "P8",
+  "file_name": "P8_quy-dinh-day-hoc-va-thi-truc-tuyen-2026.pdf",
+  "title": "QUY ĐỊNH TỔ CHỨC DẠY HỌC VÀ THI TRỰC TUYẾN, KẾT HỢP TRÌNH ĐỘ ĐẠI HỌC",
+  "number": "Số: 3312/QĐ-ĐHCN",
+  "place_date": "TP. Hồ Chí Minh, ngày 28 tháng 8 năm 2026",
+  "signature": {
+    "title": "KT. HIỆU TRƯỞNG – PHÓ HIỆU TRƯỞNG",
+    "name": "TS. Đinh Ngọc Hiền"
+  },
+  "recipients": [
+    "Các khoa, viện, trung tâm",
+    "Phòng Đào tạo, Trung tâm Khảo thí và ĐBCL",
+    "Giảng viên, sinh viên hệ chính quy",
+    "Lưu: VT, ĐT"
+  ],
+  "questions": [
+    {
+      "question": "Chương trình đào tạo được tổ chức học trực tuyến tối đa bao nhiêu phần trăm số tín chỉ?",
+      "expected_answer": "Không vượt quá 27% tổng số tín chỉ của chương trình đào tạo.",
+      "evidence": "không vượt quá 27% tổng số tín chỉ của chương trình đào tạo"
+    },
+    {
+      "question": "Đang thi online mà bị mất mạng hơn 10 phút thì xử lý thế nào?",
+      "expected_answer": "Bài thi bị dừng; nộp đơn kèm minh chứng trong 24 giờ để xét thi bù trực tiếp tại Trường trong vòng 14 ngày.",
+      "evidence": "Ca thi bù được tổ chức trực tiếp tại Trường trong vòng 14 ngày"
+    },
+    {
+      "question": "Phúc khảo bài thi trực tuyến mất lệ phí bao nhiêu?",
+      "expected_answer": "40.000 đồng/học phần, nộp trong 5 ngày làm việc kể từ ngày công bố điểm.",
+      "evidence": "lệ phí phúc khảo là 40.000 đồng/học phần"
+    }
+  ],
+  "parent_org": "BỘ CÔNG THƯƠNG",
+  "issuer": "TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH",
+  "confidential": null,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế đào tạo trình độ đại học của Trường ban hành kèm theo Quyết định số 1174/QĐ-ĐHCN ngày 02 tháng 4 năm 2025;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Đề án chuyển đổi số trong đào tạo giai đoạn 2025–2028 được Hội đồng trường thông qua tại Nghị quyết số 09/NQ-HĐT ngày 14 tháng 3 năm 2025;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ báo cáo tổng kết thí điểm thi trực tuyến có giám sát học kỳ 2 năm học 2025–2026 của Trung tâm Khảo thí và Đảm bảo chất lượng;"
+    },
+    {
+      "type": "p",
+      "text": "Xét đề nghị của Trưởng phòng Đào tạo và Giám đốc Trung tâm Khảo thí và Đảm bảo chất lượng, Hiệu trưởng ban hành Quy định tổ chức dạy học và thi trực tuyến, kết hợp áp dụng từ năm 2026."
+    },
+    {
+      "type": "h1",
+      "text": "Chương I. QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này quy định việc tổ chức dạy học trực tuyến, dạy học kết hợp giữa trực tiếp và trực tuyến, tổ chức đánh giá quá trình và thi kết thúc học phần bằng hình thức trực tuyến; xử lý sự cố kỹ thuật, vi phạm và phúc khảo bài thi trực tuyến đối với các chương trình đào tạo trình độ đại học hệ chính quy."
+    },
+    {
+      "type": "p",
+      "text": "Đối tượng áp dụng gồm giảng viên, cán bộ coi thi, cán bộ kỹ thuật, các đơn vị quản lý đào tạo, khảo thí và sinh viên đại học hệ chính quy của Trường. Quy định không áp dụng đối với các học phần thực hành tại phòng thí nghiệm, xưởng, thực tập doanh nghiệp và khóa luận tốt nghiệp, trừ phần báo cáo tiến độ."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Giải thích từ ngữ"
+    },
+    {
+      "type": "p",
+      "text": "\"Học phần trực tuyến\" là học phần có từ 80% số tiết trở lên được tổ chức qua hệ thống học tập trực tuyến. \"Học phần kết hợp\" là học phần có từ 20% đến dưới 80% số tiết được tổ chức trực tuyến, phần còn lại học trực tiếp tại giảng đường. \"Hệ thống UniLearn\" là hệ thống quản lý học tập trực tuyến chính thức của Trường, tích hợp lớp học trực tuyến, kho học liệu, ngân hàng câu hỏi và mô-đun thi có giám sát. \"Buổi học đồng bộ\" là buổi học giảng viên và sinh viên cùng tham gia theo thời gian thực; \"hoạt động không đồng bộ\" là bài giảng ghi sẵn, diễn đàn, bài tập sinh viên thực hiện theo thời gian linh hoạt."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Nguyên tắc tổ chức"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Bảo đảm chất lượng tương đương hình thức dạy học trực tiếp về chuẩn đầu ra học phần, khối lượng học tập và tiêu chí đánh giá.",
+        "Chỉ sử dụng Hệ thống UniLearn và các công cụ được Trường cấp phép; không tổ chức lớp học, kiểm tra tính điểm trên nền tảng cá nhân của giảng viên.",
+        "Bảo vệ dữ liệu cá nhân của sinh viên; dữ liệu hình ảnh, âm thanh ghi trong quá trình thi chỉ sử dụng cho mục đích giám sát và giải quyết khiếu nại.",
+        "Hỗ trợ sinh viên có hoàn cảnh khó khăn về thiết bị, đường truyền thông qua chương trình cho mượn máy tính và phòng tự học có kết nối của Thư viện."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "Chương II. DẠY HỌC TRỰC TUYẾN VÀ KẾT HỢP"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Tỷ lệ tối đa học phần trực tuyến"
+    },
+    {
+      "type": "p",
+      "text": "Tổng khối lượng các học phần trực tuyến và phần trực tuyến của học phần kết hợp không vượt quá 27% tổng số tín chỉ của chương trình đào tạo. Trong một học kỳ chính, mỗi sinh viên được đăng ký tối đa 2 học phần trực tuyến, không kể học phần Giáo dục quốc phòng – an ninh phần lý thuyết và học phần học cải thiện điểm."
+    },
+    {
+      "type": "p",
+      "text": "Các khoa xây dựng danh mục học phần được phép tổ chức trực tuyến hoặc kết hợp, trình Hội đồng Khoa học và Đào tạo phê duyệt trước mỗi năm học. Học phần lần đầu tiên tổ chức trực tuyến phải có bộ học liệu điện tử được thẩm định với tối thiểu 70% bài giảng ghi hình sẵn."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nhóm học phần",
+        "Hình thức được phép",
+        "Tỷ lệ số tiết trực tuyến tối đa",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Lý luận chính trị, pháp luật đại cương",
+          "Trực tuyến, kết hợp",
+          "100%",
+          "Thi kết thúc tập trung trực tiếp"
+        ],
+        [
+          "Ngoại ngữ không chuyên",
+          "Kết hợp",
+          "50%",
+          "Kỹ năng nói đánh giá trực tiếp"
+        ],
+        [
+          "Cơ sở ngành (lý thuyết)",
+          "Kết hợp",
+          "40%",
+          "Ít nhất 1 buổi trực tiếp mỗi 3 tuần"
+        ],
+        [
+          "Chuyên ngành (lý thuyết)",
+          "Kết hợp",
+          "30%",
+          "Do khoa quyết định trong ngưỡng"
+        ],
+        [
+          "Thực hành, thí nghiệm, đồ án",
+          "Trực tiếp",
+          "0%",
+          "Chỉ báo cáo tiến độ được trực tuyến"
+        ]
+      ],
+      "widths": [
+        0.3,
+        0.2,
+        0.22,
+        0.28
+      ],
+      "caption": "Bảng 1. Ngưỡng tổ chức trực tuyến theo nhóm học phần"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Yêu cầu đối với giảng viên"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên dạy học phần trực tuyến hoặc kết hợp phải hoàn thành khóa bồi dưỡng thiết kế học phần trực tuyến 16 tiết do Trung tâm Học liệu số tổ chức. Giảng viên đăng đề cương chi tiết, lịch học đồng bộ, học liệu tuần đầu tiên lên Hệ thống UniLearn chậm nhất 5 ngày trước ngày bắt đầu học kỳ."
+    },
+    {
+      "type": "p",
+      "text": "Trong buổi học đồng bộ, giảng viên phải bật camera trong suốt thời gian giảng, ghi hình buổi học và đăng bản ghi lên hệ thống trong vòng 24 giờ. Giảng viên phản hồi câu hỏi trên diễn đàn học phần trong thời hạn 2 ngày làm việc."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Điểm danh và chuyên cần"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên được ghi nhận có mặt trong buổi học đồng bộ khi đăng nhập bằng tài khoản do Trường cấp, bật camera khi giảng viên yêu cầu và tham gia tối thiểu 80% thời lượng buổi học theo nhật ký hệ thống. Sinh viên tham gia dưới 80% thời lượng được ghi nhận là vắng mặt nửa buổi; dưới 50% thời lượng được ghi nhận là vắng cả buổi."
+    },
+    {
+      "type": "p",
+      "text": "Đối với hoạt động không đồng bộ, sinh viên phải xem tối thiểu 85% thời lượng mỗi video bài giảng và hoàn thành bài kiểm tra nhanh cuối mỗi chương. Sinh viên vắng quá 20% tổng số buổi học đồng bộ hoặc hoàn thành dưới 70% hoạt động không đồng bộ không được dự thi kết thúc học phần."
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên có quyền điểm danh ngẫu nhiên bằng câu hỏi hiện trên màn hình, thời gian trả lời không quá 60 giây. Việc nhờ người khác đăng nhập thay bị xử lý như hành vi học hộ theo quy chế công tác sinh viên."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Đánh giá quá trình"
+    },
+    {
+      "type": "p",
+      "text": "Điểm đánh giá quá trình của học phần trực tuyến gồm: chuyên cần và mức độ tham gia diễn đàn 10%; bài kiểm tra nhanh trực tuyến 20%; bài tập lớn hoặc dự án nhóm 20%; điểm thi kết thúc học phần 50%. Học phần kết hợp áp dụng cơ cấu điểm theo đề cương chi tiết đã được khoa phê duyệt, trong đó điểm thi kết thúc không dưới 50%."
+    },
+    {
+      "type": "h1",
+      "text": "Chương III. TỔ CHỨC THI TRỰC TUYẾN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Điều kiện tổ chức thi trực tuyến"
+    },
+    {
+      "type": "p",
+      "text": "Thi kết thúc học phần bằng hình thức trực tuyến chỉ được tổ chức khi đáp ứng đồng thời: (a) học phần thuộc danh mục được phép theo Điều 4; (b) ngân hàng câu hỏi có ít nhất 8 lần số câu của một đề thi và đã được thẩm định; (c) Trung tâm Khảo thí và Đảm bảo chất lượng xác nhận năng lực hệ thống phục vụ đồng thời số lượng thí sinh. Năng lực tối đa của mô-đun thi có giám sát năm 2026 là 2.400 thí sinh đồng thời."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Yêu cầu đối với thí sinh"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Có máy tính cá nhân có camera, micro hoạt động; đường truyền tối thiểu 10 Mbps; cài đặt trình duyệt khóa bài thi theo hướng dẫn của Trung tâm Khảo thí.",
+        "Thực hiện buổi kiểm tra thiết bị bắt buộc trên hệ thống trong khoảng thời gian từ 72 giờ đến 24 giờ trước giờ thi.",
+        "Đăng nhập phòng thi trước giờ thi 15 phút để xác thực khuôn mặt, xuất trình thẻ sinh viên trước camera và quay toàn cảnh 360 độ không gian làm bài.",
+        "Ngồi một mình trong phòng, bàn làm bài chỉ có giấy nháp trắng và vật dụng được phép; không đeo tai nghe trừ khi đề thi có phần nghe.",
+        "Thí sinh đăng nhập trễ quá 15 phút sau giờ bắt đầu làm bài không được dự thi và nhận điểm 0 cho lần thi đó, trừ trường hợp được xác nhận sự cố theo Điều 12."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Giám sát thi trực tuyến"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi phòng thi trực tuyến có tối đa 25 thí sinh và 1 cán bộ coi thi; phòng thi có từ 26 đến 40 thí sinh phải bố trí 2 cán bộ coi thi. Mỗi ca thi có ít nhất 1 cán bộ kỹ thuật trực hỗ trợ cho tối đa 8 phòng thi. Hệ thống giám sát tự động gắn cờ các bất thường như rời khung hình quá 20 giây, xuất hiện khuôn mặt thứ hai, chuyển cửa sổ trình duyệt hoặc âm thanh hội thoại."
+    },
+    {
+      "type": "p",
+      "text": "Cờ cảnh báo của hệ thống không phải là căn cứ duy nhất để kết luận vi phạm. Cán bộ coi thi phải xem lại đoạn ghi hình liên quan và lập biên bản trên hệ thống trước khi kết thúc ca thi. Toàn bộ dữ liệu ghi hình được lưu trữ 180 ngày kể từ ngày thi, sau đó được xóa tự động trừ các bài thi đang có khiếu nại."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Hành vi",
+        "Lần 1",
+        "Lần 2",
+        "Lần 3"
+      ],
+      "rows": [
+        [
+          "Rời khung hình không xin phép quá 20 giây",
+          "Nhắc nhở qua khung chat",
+          "Khiển trách, trừ 25% điểm bài thi",
+          "Đình chỉ thi"
+        ],
+        [
+          "Chuyển cửa sổ, mở ứng dụng khác",
+          "Khiển trách, trừ 25% điểm",
+          "Cảnh cáo, trừ 50% điểm",
+          "Đình chỉ thi"
+        ],
+        [
+          "Có người khác trong phòng, trao đổi bài",
+          "Đình chỉ thi",
+          "–",
+          "–"
+        ],
+        [
+          "Nhờ người thi hộ, sử dụng thiết bị điều khiển từ xa",
+          "Đình chỉ thi, đề nghị kỷ luật",
+          "–",
+          "–"
+        ]
+      ],
+      "widths": [
+        0.37,
+        0.21,
+        0.21,
+        0.21
+      ],
+      "caption": "Bảng 2. Hình thức xử lý vi phạm trong thi trực tuyến"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Hình thức đề thi"
+    },
+    {
+      "type": "p",
+      "text": "Đề thi trực tuyến được tạo ngẫu nhiên từ ngân hàng câu hỏi theo ma trận đề đã phê duyệt, bảo đảm mỗi thí sinh trong cùng phòng nhận một đề khác nhau về thứ tự câu và phương án. Thời gian làm bài từ 45 đến 90 phút; câu hỏi tự luận ngắn được chấm bởi 2 giảng viên độc lập. Không cho phép quay lại câu đã nộp đối với đề thi có trên 40 câu trắc nghiệm."
+    },
+    {
+      "type": "h1",
+      "text": "Chương IV. XỬ LÝ SỰ CỐ KẾT NỐI"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Phân loại và xử lý sự cố"
+    },
+    {
+      "type": "p",
+      "text": "Khi xảy ra mất kết nối, thí sinh đăng nhập lại ngay; hệ thống tự động lưu bài làm sau mỗi 30 giây và khôi phục thời gian còn lại. Trường hợp tổng thời gian mất kết nối trong một ca thi không quá 10 phút, thí sinh tiếp tục làm bài và được cộng bù thời gian bằng thời gian bị mất kết nối."
+    },
+    {
+      "type": "p",
+      "text": "Trường hợp tổng thời gian mất kết nối trên 10 phút, hoặc thí sinh mất kết nối từ 3 lần trở lên, bài thi bị dừng và thí sinh được xét dự ca thi bù nếu nộp đơn trình bày sự cố kèm ảnh chụp màn hình hoặc xác nhận của nhà mạng trong vòng 24 giờ sau ca thi. Ca thi bù được tổ chức trực tiếp tại Trường trong vòng 14 ngày; mỗi thí sinh chỉ được dự thi bù 1 lần cho mỗi học phần."
+    },
+    {
+      "type": "p",
+      "text": "Sự cố do hệ thống của Trường làm ảnh hưởng từ 10% số thí sinh của ca thi trở lên, Trung tâm Khảo thí quyết định hủy toàn bộ ca thi và tổ chức thi lại cho tất cả thí sinh, không tính là lần thi của sinh viên."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Tình huống",
+        "Điều kiện",
+        "Cách xử lý"
+      ],
+      "rows": [
+        [
+          "Mất kết nối ngắn",
+          "Tổng thời gian ≤ 10 phút",
+          "Tiếp tục thi, cộng bù thời gian"
+        ],
+        [
+          "Mất kết nối kéo dài",
+          "Tổng thời gian > 10 phút hoặc ≥ 3 lần",
+          "Dừng bài, xét thi bù trực tiếp trong 14 ngày"
+        ],
+        [
+          "Lỗi thiết bị thí sinh trước giờ thi",
+          "Báo trước giờ thi qua đường dây hỗ trợ",
+          "Chuyển sang ca dự phòng trong cùng ngày nếu còn chỗ"
+        ],
+        [
+          "Lỗi hệ thống của Trường",
+          "Ảnh hưởng ≥ 10% thí sinh ca thi",
+          "Hủy ca thi, tổ chức thi lại toàn bộ"
+        ]
+      ],
+      "widths": [
+        0.27,
+        0.33,
+        0.4
+      ],
+      "caption": "Bảng 3. Xử lý sự cố kết nối trong thi trực tuyến"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Đường dây hỗ trợ kỹ thuật"
+    },
+    {
+      "type": "p",
+      "text": "Trong suốt các ca thi, Trung tâm Khảo thí duy trì đường dây hỗ trợ kỹ thuật và kênh chat hỗ trợ trên Hệ thống UniLearn từ 06 giờ 30 đến 21 giờ 30. Mọi cuộc gọi, tin nhắn được ghi nhận mã phiếu hỗ trợ dùng làm minh chứng khi xét thi bù."
+    },
+    {
+      "type": "h1",
+      "text": "Chương V. CHẤM THI VÀ PHÚC KHẢO"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Công bố điểm"
+    },
+    {
+      "type": "p",
+      "text": "Điểm phần trắc nghiệm được hệ thống chấm tự động và công bố cho thí sinh sau khi Trung tâm Khảo thí rà soát các cờ cảnh báo, chậm nhất 3 ngày làm việc sau ngày thi. Điểm phần tự luận được công bố chậm nhất 10 ngày làm việc sau ngày thi. Thí sinh có biên bản vi phạm được thông báo kết quả xử lý cùng lúc với điểm thi."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Phúc khảo bài thi trực tuyến"
+    },
+    {
+      "type": "p",
+      "text": "Thí sinh được nộp đơn phúc khảo trên Hệ thống UniLearn trong thời hạn 5 ngày làm việc kể từ ngày công bố điểm, lệ phí phúc khảo là 40.000 đồng/học phần. Đối với phần trắc nghiệm, thí sinh được xem lại bài làm của mình đối chiếu với đáp án trong phiên xem bài có giám sát kéo dài 20 phút. Đối với phần tự luận, bài được chấm lại bởi 2 giảng viên không tham gia chấm lần đầu."
+    },
+    {
+      "type": "p",
+      "text": "Thí sinh có quyền khiếu nại biên bản vi phạm trong cùng thời hạn phúc khảo và được xem lại đoạn ghi hình liên quan tại Trung tâm Khảo thí. Kết quả phúc khảo được thông báo trong 10 ngày làm việc kể từ ngày hết hạn nhận đơn. Nếu điểm phúc khảo chênh lệch từ 0,5 điểm trở lên so với điểm ban đầu thì lấy điểm phúc khảo và hoàn trả lệ phí cho thí sinh."
+    },
+    {
+      "type": "h1",
+      "text": "Chương VI. TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Trách nhiệm các đơn vị"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Phòng Đào tạo quản lý danh mục học phần trực tuyến, kiểm soát tỷ lệ tín chỉ trực tuyến theo Điều 4 và xếp lịch học.",
+        "Trung tâm Khảo thí và Đảm bảo chất lượng tổ chức thi trực tuyến, quản lý dữ liệu giám sát, giải quyết sự cố và phúc khảo.",
+        "Trung tâm Học liệu số vận hành Hệ thống UniLearn, bồi dưỡng giảng viên và thẩm định kỹ thuật học liệu điện tử.",
+        "Thư viện bố trí 120 chỗ ngồi có kết nối mạng dây cho sinh viên đăng ký thi trực tuyến tại Trường khi không có điều kiện ở nhà.",
+        "Các khoa đề xuất danh mục học phần, giám sát chất lượng giảng dạy trực tuyến và dự giờ trực tuyến ít nhất 1 buổi mỗi học phần mỗi học kỳ."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 17. Hiệu lực thi hành"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này có hiệu lực từ học kỳ 1 năm học 2026–2027. Các quy định trước đây của Trường về tổ chức dạy học và thi trực tuyến trái với Quy định này đều bãi bỏ. Trong trường hợp thiên tai, dịch bệnh hoặc tình huống khẩn cấp, Hiệu trưởng có thể quyết định áp dụng hình thức trực tuyến vượt các ngưỡng tại Điều 4 trong thời gian không quá 1 học kỳ."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. QUY TRÌNH MỘT CA THI TRỰC TUYẾN"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Bước",
+        "Thời điểm",
+        "Công việc"
+      ],
+      "rows": [
+        [
+          "1",
+          "72 – 24 giờ trước ca thi",
+          "Thí sinh thực hiện kiểm tra thiết bị bắt buộc trên hệ thống"
+        ],
+        [
+          "2",
+          "Trước giờ thi 15 phút",
+          "Đăng nhập, xác thực khuôn mặt, xuất trình thẻ, quay toàn cảnh phòng"
+        ],
+        [
+          "3",
+          "Giờ bắt đầu",
+          "Cán bộ coi thi mở đề; hệ thống bắt đầu ghi hình và tự lưu bài mỗi 30 giây"
+        ],
+        [
+          "4",
+          "Trong ca thi",
+          "Giám sát, xử lý cờ cảnh báo, hỗ trợ sự cố kết nối"
+        ],
+        [
+          "5",
+          "Kết thúc ca thi",
+          "Hệ thống thu bài tự động; cán bộ coi thi hoàn tất biên bản"
+        ],
+        [
+          "6",
+          "Trong 24 giờ sau ca thi",
+          "Thí sinh gặp sự cố nộp đơn xét thi bù"
+        ],
+        [
+          "7",
+          "Chậm nhất 3 – 10 ngày làm việc",
+          "Công bố điểm trắc nghiệm, tự luận"
+        ]
+      ],
+      "widths": [
+        0.1,
+        0.32,
+        0.58
+      ]
+    }
+  ]
+}

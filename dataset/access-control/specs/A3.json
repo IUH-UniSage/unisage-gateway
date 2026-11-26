@@ -1,0 +1,627 @@
+{
+  "doc_id": "A3",
+  "file_name": "A3_ke-hoach-de-tai-nckh-cap-bo-mon-cnpm-2026.pdf",
+  "title": "KẾ HOẠCH THỰC HIỆN ĐỀ TÀI NGHIÊN CỨU KHOA HỌC CẤP BỘ MÔN NĂM 2026 CỦA BỘ MÔN CÔNG NGHỆ PHẦN MỀM",
+  "parent_org": "KHOA CÔNG NGHỆ THÔNG TIN",
+  "issuer": "BỘ MÔN CÔNG NGHỆ PHẦN MỀM",
+  "number": "Số: 0129/KH-BMCNPM",
+  "place_date": "TP. Hồ Chí Minh, ngày 27 tháng 3 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – CẤP ĐỘ 3 – Bộ môn Công nghệ Phần mềm",
+  "blocks": [
+    {
+      "type": "h1",
+      "text": "I. CĂN CỨ XÂY DỰNG KẾ HOẠCH"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Quy chế quản lý hoạt động khoa học và công nghệ hiện hành của Trường Đại học Công nghiệp TP. Hồ Chí Minh;",
+        "Kế hoạch hoạt động khoa học và công nghệ năm 2026 của Khoa Công nghệ Thông tin số 0215/KH-CNTT ngày 12 tháng 01 năm 2026;",
+        "Thông báo số 0388/TB-CNTT ngày 03 tháng 3 năm 2026 của Khoa về phân bổ kinh phí đề tài cấp bộ môn năm 2026;",
+        "Biên bản xét duyệt thuyết minh đề tài cấp bộ môn ngày 20 tháng 3 năm 2026 của Hội đồng khoa học Bộ môn Công nghệ Phần mềm."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "II. MỤC TIÊU"
+    },
+    {
+      "type": "p",
+      "text": "Năm 2026, Bộ môn Công nghệ Phần mềm triển khai các đề tài nghiên cứu khoa học cấp bộ môn nhằm: (1) tăng số lượng bài báo khoa học của giảng viên Bộ môn trên tạp chí trong nước có tính điểm và hội nghị, tạp chí quốc tế; (2) tạo ra các sản phẩm phần mềm có thể ứng dụng ngay trong đào tạo ngành Kỹ thuật phần mềm; (3) tạo môi trường cho sinh viên tham gia nghiên cứu, làm tiền đề cho khóa luận tốt nghiệp và đề tài cấp Trường năm 2027."
+    },
+    {
+      "type": "p",
+      "text": "Chỉ tiêu cụ thể năm 2026: tối thiểu 08 bài báo khoa học từ các đề tài cấp bộ môn, trong đó ít nhất 03 bài thuộc danh mục Scopus; 05 sản phẩm phần mềm được đăng ký vào kho sản phẩm của Khoa; tối thiểu 20 lượt sinh viên tham gia đề tài; ít nhất 02 đề tài phát triển thành thuyết minh đề tài cấp Trường năm 2027."
+    },
+    {
+      "type": "h1",
+      "text": "III. DANH MỤC ĐỀ TÀI NĂM 2026"
+    },
+    {
+      "type": "p",
+      "text": "Hội đồng khoa học Bộ môn đã xét duyệt 11 thuyết minh, trong đó 08 thuyết minh đạt và được đưa vào kế hoạch thực hiện năm 2026 theo danh mục dưới đây. Thời gian thực hiện tính từ ngày 01 tháng 4 năm 2026."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mã đề tài",
+        "Tên đề tài",
+        "Chủ nhiệm",
+        "Thời gian",
+        "Kinh phí (đồng)"
+      ],
+      "rows": [
+        [
+          "CNPM26-ĐT01",
+          "Sinh ca kiểm thử đơn vị tự động cho mã nguồn Java bằng mô hình ngôn ngữ lớn kết hợp phân tích tĩnh",
+          "TS. Trịnh Quang Vinh",
+          "12 tháng",
+          "68.000.000"
+        ],
+        [
+          "CNPM26-ĐT02",
+          "Phát hiện mùi kiến trúc (architecture smell) trong hệ thống microservice dựa trên đồ thị phụ thuộc",
+          "TS. Lê Bảo Ngọc",
+          "12 tháng",
+          "57.500.000"
+        ],
+        [
+          "CNPM26-ĐT03",
+          "Nền tảng chấm bài lập trình tự động có phản hồi gợi ý cho học phần Kỹ thuật lập trình",
+          "TS. Châu Minh Tâm",
+          "10 tháng",
+          "49.000.000"
+        ],
+        [
+          "CNPM26-ĐT04",
+          "Đánh giá độ tin cậy của mô hình học máy triển khai trên thiết bị biên trong quy trình MLOps",
+          "PGS.TS. Hồ Văn Lực",
+          "12 tháng",
+          "74.000.000"
+        ],
+        [
+          "CNPM26-ĐT05",
+          "Ứng dụng di động hỗ trợ sinh viên lập kế hoạch học tập theo chương trình đào tạo tín chỉ",
+          "ThS. Huỳnh Gia Bảo",
+          "9 tháng",
+          "38.500.000"
+        ],
+        [
+          "CNPM26-ĐT06",
+          "Phát hiện lỗ hổng phụ thuộc thư viện nguồn mở trong chuỗi cung ứng phần mềm Node.js",
+          "ThS. Nguyễn Đức Khang",
+          "10 tháng",
+          "46.000.000"
+        ],
+        [
+          "CNPM26-ĐT07",
+          "Ước lượng nỗ lực phát triển phần mềm Agile từ dữ liệu user story tiếng Việt",
+          "TS. Mai Thị Thu Hương",
+          "12 tháng",
+          "52.000.000"
+        ],
+        [
+          "CNPM26-ĐT08",
+          "Bộ công cụ kiểm thử khả năng truy cập (accessibility) cho ứng dụng web tiếng Việt",
+          "ThS. Tạ Thị Mỹ Linh",
+          "9 tháng",
+          "36.500.000"
+        ],
+        [
+          "",
+          "Tổng cộng (08 đề tài)",
+          "",
+          "",
+          "421.500.000"
+        ]
+      ],
+      "widths": [
+        0.14,
+        0.43,
+        0.18,
+        0.1,
+        0.15
+      ],
+      "caption": "Bảng 1. Danh mục đề tài nghiên cứu khoa học cấp bộ môn năm 2026"
+    },
+    {
+      "type": "p",
+      "text": "Tổng kinh phí thực hiện 08 đề tài cấp bộ môn năm 2026 là 421.500.000 đồng, được cấp từ nguồn kinh phí khoa học và công nghệ của Trường phân bổ cho Khoa Công nghệ Thông tin. Đề tài có kinh phí cao nhất là đề tài mã CNPM26-ĐT04 do PGS.TS. Hồ Văn Lực làm chủ nhiệm với kinh phí 74.000.000 đồng."
+    },
+    {
+      "type": "h2",
+      "text": "1. Thành viên tham gia"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi đề tài có từ 02 đến 05 thành viên chính là giảng viên, nghiên cứu viên, và có ít nhất 02 sinh viên tham gia. Một giảng viên được làm chủ nhiệm không quá 01 đề tài cấp bộ môn và tham gia không quá 02 đề tài cấp bộ môn khác trong cùng năm. Thư ký khoa học của từng đề tài do chủ nhiệm chỉ định."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mã đề tài",
+        "Số GV tham gia",
+        "Số SV tham gia",
+        "Thư ký khoa học"
+      ],
+      "rows": [
+        [
+          "CNPM26-ĐT01",
+          "3",
+          "4",
+          "ThS. Phan Ngọc Diệp"
+        ],
+        [
+          "CNPM26-ĐT02",
+          "3",
+          "2",
+          "ThS. Nguyễn Đức Khang"
+        ],
+        [
+          "CNPM26-ĐT03",
+          "4",
+          "5",
+          "ThS. Lâm Hoàng Phúc"
+        ],
+        [
+          "CNPM26-ĐT04",
+          "4",
+          "3",
+          "ThS. Tạ Thị Mỹ Linh"
+        ],
+        [
+          "CNPM26-ĐT05",
+          "2",
+          "3",
+          "ThS. Lâm Hoàng Phúc"
+        ],
+        [
+          "CNPM26-ĐT06",
+          "2",
+          "2",
+          "TS. Lê Bảo Ngọc"
+        ],
+        [
+          "CNPM26-ĐT07",
+          "3",
+          "2",
+          "ThS. Vũ Thị Hạnh Nguyên"
+        ],
+        [
+          "CNPM26-ĐT08",
+          "2",
+          "3",
+          "ThS. Huỳnh Gia Bảo"
+        ],
+        [
+          "Tổng",
+          "23 lượt",
+          "24 lượt",
+          ""
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.2,
+        0.2,
+        0.38
+      ],
+      "caption": "Bảng 2. Nhân lực tham gia các đề tài"
+    },
+    {
+      "type": "h1",
+      "text": "IV. ĐỊNH MỨC CHI VÀ CƠ CẤU KINH PHÍ"
+    },
+    {
+      "type": "h2",
+      "text": "1. Định mức chi áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "Các đề tài cấp bộ môn áp dụng định mức chi dưới đây. Chủ nhiệm đề tài lập dự toán chi tiết theo định mức, không được vượt tổng kinh phí được duyệt; việc điều chỉnh giữa các khoản chi không quá 15% tổng kinh phí phải được Trưởng Bộ môn chấp thuận, trên 15% phải được Trưởng khoa phê duyệt."
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Nội dung chi",
+        "Định mức",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "1",
+          "Công lao động của chủ nhiệm đề tài",
+          "1.650.000 đồng/tháng",
+          "Tối đa 12 tháng"
+        ],
+        [
+          "2",
+          "Công lao động của thành viên chính",
+          "920.000 đồng/người/tháng",
+          "Tối đa 04 người"
+        ],
+        [
+          "3",
+          "Hỗ trợ sinh viên tham gia đề tài",
+          "450.000 đồng/sinh viên/tháng",
+          "Tối đa 06 tháng mỗi sinh viên"
+        ],
+        [
+          "4",
+          "Thuê dịch vụ điện toán đám mây, API mô hình AI",
+          "Theo hóa đơn, tối đa 9.000.000 đồng/đề tài",
+          "Có báo giá từ 02 nhà cung cấp"
+        ],
+        [
+          "5",
+          "Thu thập, gán nhãn dữ liệu",
+          "3.500 đồng/mẫu dữ liệu",
+          "Tối đa 2.500 mẫu"
+        ],
+        [
+          "6",
+          "Hội thảo, seminar nghiệm thu nội bộ",
+          "1.800.000 đồng/buổi",
+          "Tối đa 02 buổi"
+        ],
+        [
+          "7",
+          "Phí đăng bài, phí hội nghị",
+          "Theo thực tế, tối đa 12.000.000 đồng/bài",
+          "Chỉ bài có ghi nguồn đề tài"
+        ],
+        [
+          "8",
+          "Văn phòng phẩm, in ấn báo cáo",
+          "Tối đa 1.200.000 đồng/đề tài",
+          "—"
+        ],
+        [
+          "9",
+          "Quản lý chung của Bộ môn",
+          "3% kinh phí đề tài",
+          "Khấu trừ khi cấp kinh phí"
+        ]
+      ],
+      "widths": [
+        0.07,
+        0.38,
+        0.3,
+        0.25
+      ],
+      "caption": "Bảng 3. Định mức chi đề tài cấp bộ môn năm 2026"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên tham gia đề tài được hỗ trợ 450.000 đồng mỗi tháng, tối đa 06 tháng cho mỗi sinh viên. Khoản hỗ trợ được chi trả theo bảng xác nhận công việc hằng tháng của chủ nhiệm đề tài; sinh viên đồng thời tham gia hai đề tài chỉ được nhận hỗ trợ ở một đề tài."
+    },
+    {
+      "type": "p",
+      "text": "Khoản thuê dịch vụ điện toán đám mây và API mô hình AI phải được thanh toán qua tài khoản của Trường hoặc bằng thẻ thanh toán của chủ nhiệm có hóa đơn hợp lệ; không thanh toán cho chi phí sử dụng cho mục đích cá nhân hoặc giảng dạy không thuộc đề tài. Chủ nhiệm đề tài phải xuất báo cáo sử dụng tài nguyên theo tháng từ bảng điều khiển của nhà cung cấp để làm minh chứng."
+    },
+    {
+      "type": "p",
+      "text": "Phí đăng bài chỉ được thanh toán một lần cho mỗi bài báo; trường hợp bài báo có tác giả ngoài Trường, phí được chia theo tỷ lệ số tác giả thuộc Trường. Bài báo được thanh toán phí phải có ít nhất một tác giả là thành viên đề tài đứng tên tác giả chính hoặc tác giả liên hệ."
+    },
+    {
+      "type": "h2",
+      "text": "2. Cơ cấu kinh phí tổng hợp"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Khoản chi",
+        "Số tiền (đồng)",
+        "Tỷ lệ"
+      ],
+      "rows": [
+        [
+          "Công lao động khoa học (chủ nhiệm, thành viên)",
+          "193.890.000",
+          "46,0%"
+        ],
+        [
+          "Hỗ trợ sinh viên",
+          "50.580.000",
+          "12,0%"
+        ],
+        [
+          "Dịch vụ điện toán, API mô hình AI, dữ liệu",
+          "63.225.000",
+          "15,0%"
+        ],
+        [
+          "Phí công bố, hội nghị",
+          "75.870.000",
+          "18,0%"
+        ],
+        [
+          "Hội thảo, in ấn, văn phòng phẩm",
+          "25.290.000",
+          "6,0%"
+        ],
+        [
+          "Quản lý chung (3%)",
+          "12.645.000",
+          "3,0%"
+        ],
+        [
+          "Tổng cộng",
+          "421.500.000",
+          "100%"
+        ]
+      ],
+      "widths": [
+        0.55,
+        0.25,
+        0.2
+      ],
+      "caption": "Bảng 4. Cơ cấu kinh phí dự kiến của 08 đề tài"
+    },
+    {
+      "type": "h1",
+      "text": "V. SẢN PHẨM BẮT BUỘC"
+    },
+    {
+      "type": "h2",
+      "text": "1. Yêu cầu chung"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi đề tài cấp bộ môn năm 2026 phải có tối thiểu 01 bài báo khoa học được chấp nhận đăng hoặc đã đăng trên tạp chí có mã số ISSN, hoặc kỷ yếu hội nghị có mã số ISBN, ghi rõ nguồn tài trợ từ đề tài; và 01 sản phẩm phần mềm có mã nguồn lưu trên kho mã nguồn của Bộ môn, kèm tài liệu hướng dẫn cài đặt và sử dụng."
+    },
+    {
+      "type": "p",
+      "text": "Đề tài có kinh phí từ 60.000.000 đồng trở lên phải có ít nhất 01 bài báo thuộc danh mục Scopus hoặc tạp chí trong nước có điểm tối đa từ 0,75 điểm trở lên theo danh mục của Hội đồng Giáo sư nhà nước."
+    },
+    {
+      "type": "h2",
+      "text": "2. Sản phẩm đăng ký theo từng đề tài"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mã đề tài",
+        "Bài báo",
+        "Sản phẩm phần mềm",
+        "Sản phẩm đào tạo"
+      ],
+      "rows": [
+        [
+          "CNPM26-ĐT01",
+          "01 bài Scopus, 01 bài trong nước",
+          "Plugin sinh ca kiểm thử cho IDE",
+          "Hỗ trợ 02 khóa luận"
+        ],
+        [
+          "CNPM26-ĐT02",
+          "01 bài hội nghị quốc tế",
+          "Công cụ trực quan hóa phụ thuộc microservice",
+          "Hỗ trợ 01 khóa luận"
+        ],
+        [
+          "CNPM26-ĐT03",
+          "01 bài trong nước",
+          "Hệ thống chấm bài lập trình tích hợp LMS",
+          "Áp dụng cho 04 lớp học phần"
+        ],
+        [
+          "CNPM26-ĐT04",
+          "01 bài Scopus Q2 trở lên",
+          "Bộ công cụ giám sát mô hình trên thiết bị biên",
+          "Hỗ trợ 01 luận văn thạc sĩ"
+        ],
+        [
+          "CNPM26-ĐT05",
+          "01 bài trong nước",
+          "Ứng dụng di động Android và iOS",
+          "Thử nghiệm với 200 sinh viên"
+        ],
+        [
+          "CNPM26-ĐT06",
+          "01 bài hội nghị quốc tế",
+          "Công cụ dòng lệnh quét phụ thuộc",
+          "Hỗ trợ 01 khóa luận"
+        ],
+        [
+          "CNPM26-ĐT07",
+          "01 bài Scopus",
+          "Bộ dữ liệu 3.000 user story có gán nhãn",
+          "Hỗ trợ 02 khóa luận"
+        ],
+        [
+          "CNPM26-ĐT08",
+          "01 bài trong nước",
+          "Tiện ích trình duyệt kiểm thử truy cập",
+          "Bài thực hành cho học phần Kiểm thử phần mềm"
+        ]
+      ],
+      "widths": [
+        0.15,
+        0.25,
+        0.35,
+        0.25
+      ],
+      "caption": "Bảng 5. Sản phẩm đăng ký của từng đề tài"
+    },
+    {
+      "type": "h2",
+      "text": "3. Yêu cầu đối với sản phẩm phần mềm"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Mã nguồn được quản lý phiên bản trên kho của Bộ môn, có lịch sử cam kết thể hiện quá trình phát triển trong thời gian thực hiện đề tài.",
+        "Có tài liệu đặc tả yêu cầu, tài liệu thiết kế, hướng dẫn cài đặt và bộ kiểm thử tự động với độ phủ dòng lệnh tối thiểu 50%.",
+        "Sản phẩm sử dụng thư viện nguồn mở phải tuân thủ giấy phép; ưu tiên phát hành sản phẩm theo giấy phép nguồn mở nếu không có ràng buộc chuyển giao.",
+        "Sản phẩm được trình diễn chạy thực tế trước Hội đồng nghiệm thu; sản phẩm không chạy được coi là chưa hoàn thành."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "VI. TIẾN ĐỘ VÀ KIỂM TRA, NGHIỆM THU"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mốc",
+        "Nội dung",
+        "Thời hạn"
+      ],
+      "rows": [
+        [
+          "1",
+          "Ký hợp đồng thực hiện đề tài giữa Bộ môn và chủ nhiệm",
+          "Trước 10/4/2026"
+        ],
+        [
+          "2",
+          "Tạm ứng đợt 1 (50% kinh phí)",
+          "Trước 30/4/2026"
+        ],
+        [
+          "3",
+          "Báo cáo tiến độ giữa kỳ",
+          "Từ 14/9/2026 đến 18/9/2026"
+        ],
+        [
+          "4",
+          "Tạm ứng đợt 2 (40% kinh phí) sau khi tiến độ giữa kỳ đạt",
+          "Trước 15/10/2026"
+        ],
+        [
+          "5",
+          "Nộp hồ sơ nghiệm thu (báo cáo tổng kết, minh chứng sản phẩm)",
+          "Chậm nhất 01/3/2027"
+        ],
+        [
+          "6",
+          "Họp hội đồng nghiệm thu",
+          "Từ 15/3/2027 đến 26/3/2027"
+        ],
+        [
+          "7",
+          "Quyết toán 10% còn lại",
+          "Sau khi nghiệm thu đạt"
+        ]
+      ],
+      "widths": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "caption": "Bảng 6. Tiến độ thực hiện đề tài cấp bộ môn năm 2026"
+    },
+    {
+      "type": "p",
+      "text": "Đề tài 09 tháng hoặc 10 tháng có thể đăng ký nghiệm thu sớm từ tháng 01 năm 2027. Chủ nhiệm đề tài được gia hạn một lần, không quá 03 tháng, khi có lý do khách quan và đề nghị trước thời hạn kết thúc ít nhất 30 ngày."
+    },
+    {
+      "type": "h2",
+      "text": "Hội đồng nghiệm thu"
+    },
+    {
+      "type": "p",
+      "text": "Hội đồng nghiệm thu đề tài cấp bộ môn gồm 05 thành viên, trong đó có tối thiểu 01 thành viên ngoài Bộ môn. Đề tài được đánh giá theo ba mức: Đạt, Đạt nhưng phải bổ sung, Không đạt. Đề tài đạt nhưng phải bổ sung phải hoàn thiện trong 30 ngày."
+    },
+    {
+      "type": "h2",
+      "text": "Tiêu chí đánh giá tiến độ giữa kỳ"
+    },
+    {
+      "type": "p",
+      "text": "Tại kỳ báo cáo giữa kỳ, đề tài được xem là đạt tiến độ khi đáp ứng đồng thời: hoàn thành tối thiểu 50% nội dung nghiên cứu theo thuyết minh; có bản thảo bài báo hoặc bản tóm tắt mở rộng gửi Bộ môn; có phiên bản thử nghiệm của sản phẩm phần mềm chạy được các chức năng cốt lõi; đã giải ngân và có chứng từ hợp lệ cho tối thiểu 60% kinh phí tạm ứng đợt 1. Đề tài không đạt tiến độ giữa kỳ bị tạm dừng cấp kinh phí đợt 2 cho đến khi có báo cáo khắc phục được Trưởng Bộ môn chấp thuận."
+    },
+    {
+      "type": "h1",
+      "text": "VII. XỬ LÝ VI PHẠM VÀ TRÁCH NHIỆM"
+    },
+    {
+      "type": "p",
+      "text": "1. Đề tài không đạt khi nghiệm thu hoặc không nộp đủ sản phẩm bắt buộc thì chủ nhiệm đề tài phải hoàn trả phần kinh phí công lao động đã nhận và không được đăng ký chủ nhiệm đề tài các cấp trong 02 năm tiếp theo."
+    },
+    {
+      "type": "p",
+      "text": "2. Bài báo được công bố từ đề tài nhưng không ghi nguồn tài trợ của đề tài thì không được tính là sản phẩm của đề tài và không được thanh toán phí công bố."
+    },
+    {
+      "type": "p",
+      "text": "3. Chủ nhiệm đề tài chịu trách nhiệm trước Trưởng Bộ môn về tiến độ, chất lượng và việc sử dụng kinh phí đúng mục đích. Phó Trưởng Bộ môn phụ trách khoa học theo dõi tiến độ, tổng hợp báo cáo hằng quý gửi Khoa."
+    },
+    {
+      "type": "p",
+      "text": "4. Giảng viên chủ nhiệm đề tài cấp bộ môn được tính giờ nghiên cứu khoa học theo quy định của Trường khi đề tài được nghiệm thu đạt. Thành viên chính được tính giờ tương ứng với tỷ lệ đóng góp ghi trong biên bản nghiệm thu."
+    },
+    {
+      "type": "h1",
+      "text": "VIII. TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "p",
+      "text": "Kế hoạch này được phổ biến đến chủ nhiệm và thành viên các đề tài. Nội dung kinh phí và định mức chi thuộc phạm vi tài liệu nội bộ cấp độ 3, không công bố ra ngoài Bộ môn khi chưa có ý kiến của Trưởng Bộ môn. Trong quá trình thực hiện, nếu có vướng mắc, chủ nhiệm đề tài báo cáo bằng văn bản về Bộ môn để xem xét, giải quyết."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. TÓM TẮT NỘI DUNG NGHIÊN CỨU CÁC ĐỀ TÀI"
+    },
+    {
+      "type": "p",
+      "text": "CNPM26-ĐT01. Đề tài xây dựng quy trình kết hợp phân tích tĩnh mã nguồn Java với mô hình ngôn ngữ lớn để sinh ca kiểm thử đơn vị: bước phân tích tĩnh trích xuất đường đi điều khiển và điều kiện biên, bước sinh dùng lời nhắc có cấu trúc, bước sàng lọc loại bỏ ca kiểm thử không biên dịch được. Mục tiêu là tăng độ phủ nhánh tối thiểu 15 điểm phần trăm so với công cụ sinh ngẫu nhiên trên bộ 40 dự án mã nguồn mở."
+    },
+    {
+      "type": "p",
+      "text": "CNPM26-ĐT02. Đề tài mô hình hóa hệ thống microservice thành đồ thị phụ thuộc từ cấu hình triển khai và lưu lượng gọi API, sau đó áp dụng các luật và thuật toán phát hiện cộng đồng để nhận diện các mùi kiến trúc như phụ thuộc vòng, dịch vụ trung tâm quá tải và cơ sở dữ liệu dùng chung. Kết quả được đánh giá trên 12 hệ thống mẫu và 02 hệ thống của doanh nghiệp đối tác."
+    },
+    {
+      "type": "p",
+      "text": "CNPM26-ĐT03. Đề tài phát triển nền tảng chấm bài lập trình tự động tích hợp với hệ thống quản lý học tập của Trường, hỗ trợ C++, Java và Python, có cơ chế phản hồi gợi ý theo từng lỗi phổ biến thay vì chỉ báo đúng sai. Nền tảng được thử nghiệm trên 04 lớp học phần Kỹ thuật lập trình học kỳ 1 năm học 2026–2027."
+    },
+    {
+      "type": "p",
+      "text": "CNPM26-ĐT04. Đề tài nghiên cứu các chỉ số đánh giá độ tin cậy của mô hình học máy sau khi nén và triển khai lên thiết bị biên, gồm độ trôi dữ liệu, độ suy giảm độ chính xác và độ trễ suy luận; xây dựng bộ công cụ giám sát tích hợp vào quy trình MLOps để tự động cảnh báo và kích hoạt huấn luyện lại."
+    },
+    {
+      "type": "p",
+      "text": "CNPM26-ĐT05. Đề tài phát triển ứng dụng di động giúp sinh viên lập kế hoạch đăng ký học phần theo chương trình đào tạo tín chỉ, kiểm tra điều kiện tiên quyết, cảnh báo nguy cơ chậm tiến độ và gợi ý lộ trình tốt nghiệp đúng hạn. Ứng dụng được thử nghiệm với 200 sinh viên ngành Kỹ thuật phần mềm."
+    },
+    {
+      "type": "p",
+      "text": "CNPM26-ĐT06. Đề tài xây dựng công cụ dòng lệnh quét cây phụ thuộc của dự án Node.js, đối chiếu với cơ sở dữ liệu lỗ hổng công khai và phân tích khả năng hàm có lỗ hổng thực sự được gọi tới, nhằm giảm cảnh báo giả so với các công cụ quét chỉ dựa trên phiên bản."
+    },
+    {
+      "type": "p",
+      "text": "CNPM26-ĐT07. Đề tài thu thập và gán nhãn bộ dữ liệu khoảng 3.000 user story tiếng Việt từ các dự án đồ án môn học và doanh nghiệp đối tác, huấn luyện mô hình ước lượng story point và so sánh với ước lượng của nhóm phát triển theo phương pháp Planning Poker."
+    },
+    {
+      "type": "p",
+      "text": "CNPM26-ĐT08. Đề tài phát triển tiện ích trình duyệt kiểm tra khả năng truy cập của ứng dụng web theo các tiêu chí WCAG, bổ sung các kiểm tra đặc thù cho nội dung tiếng Việt như dấu thanh trong thuộc tính mô tả ảnh và khả năng đọc của trình đọc màn hình tiếng Việt; xây dựng bài thực hành cho học phần Kiểm thử phần mềm."
+    }
+  ],
+  "signature": {
+    "title": "TRƯỞNG BỘ MÔN",
+    "name": "TS. Đoàn Quốc Thịnh"
+  },
+  "recipients": [
+    "Ban Chủ nhiệm Khoa Công nghệ Thông tin (để báo cáo)",
+    "Chủ nhiệm các đề tài (để thực hiện)",
+    "Lưu: VT Bộ môn"
+  ],
+  "questions": [
+    {
+      "question": "Năm 2026 bộ môn CNPM có tổng kinh phí bao nhiêu cho các đề tài nghiên cứu cấp bộ môn?",
+      "expected_answer": "421.500.000 đồng cho 08 đề tài.",
+      "evidence": "Tổng kinh phí thực hiện 08 đề tài cấp bộ môn năm 2026 là 421.500.000 đồng"
+    },
+    {
+      "question": "Đề tài cấp bộ môn nào được cấp kinh phí cao nhất năm 2026 và ai làm chủ nhiệm?",
+      "expected_answer": "Đề tài CNPM26-ĐT04 (độ tin cậy mô hình học máy trên thiết bị biên trong MLOps) do PGS.TS. Hồ Văn Lực làm chủ nhiệm, 74.000.000 đồng.",
+      "evidence": "Đề tài có kinh phí cao nhất là đề tài mã CNPM26-ĐT04 do PGS.TS. Hồ Văn Lực làm chủ nhiệm với kinh phí 74.000.000 đồng."
+    },
+    {
+      "question": "Định mức hỗ trợ cho sinh viên tham gia đề tài nghiên cứu cấp bộ môn là bao nhiêu?",
+      "expected_answer": "450.000 đồng/sinh viên/tháng, tối đa 06 tháng mỗi sinh viên.",
+      "evidence": "Sinh viên tham gia đề tài được hỗ trợ 450.000 đồng mỗi tháng, tối đa 06 tháng cho mỗi sinh viên."
+    }
+  ]
+}

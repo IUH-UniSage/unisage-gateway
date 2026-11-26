@@ -1,0 +1,564 @@
+{
+  "doc_id": "B2",
+  "file_name": "B2_quy-dinh-ra-de-duyet-de-bao-mat-de-thi-bm-ke-toan.pdf",
+  "title": "QUY ĐỊNH RA ĐỀ, DUYỆT ĐỀ, LƯU TRỮ VÀ BẢO MẬT ĐỀ THI KẾT THÚC HỌC PHẦN CỦA BỘ MÔN KẾ TOÁN",
+  "parent_org": "KHOA KINH TẾ",
+  "issuer": "BỘ MÔN KẾ TOÁN",
+  "number": "Số: 0932/QĐ-BMKT",
+  "place_date": "TP. Hồ Chí Minh, ngày 03 tháng 9 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – CẤP ĐỘ 2 – BỘ MÔN KẾ TOÁN",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Căn cứ Quy chế đào tạo trình độ đại học của Trường Đại học Công nghiệp TP. Hồ Chí Minh; căn cứ Quy định về công tác khảo thí và bảo đảm chất lượng số 2645/QĐ-ĐHCN ngày 19 tháng 6 năm 2026 (văn bản giả lập); căn cứ Hướng dẫn số 0518/HD-KKT ngày 22 tháng 7 năm 2026 của Khoa Kinh tế về tổ chức thi kết thúc học phần;"
+    },
+    {
+      "type": "p",
+      "text": "Xét tình hình thực tế công tác ra đề thi tại Bộ môn Kế toán trong năm học 2025–2026 và đề nghị của Tổ khảo thí Bộ môn, Trưởng Bộ môn Kế toán ban hành Quy định ra đề, duyệt đề, lưu trữ và bảo mật đề thi kết thúc học phần như sau."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG I. NHỮNG QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi và đối tượng"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này áp dụng cho tất cả học phần do Bộ môn Kế toán quản lý, giảng dạy ở trình độ đại học chính quy, vừa làm vừa học và liên thông, bao gồm cả các học phần giảng dạy cho sinh viên ngành khác như Nguyên lý kế toán, Kế toán quản trị dành cho ngành Quản trị kinh doanh. Đối tượng áp dụng gồm giảng viên ra đề, giảng viên phản biện đề, trưởng nhóm chuyên môn, thành viên Tổ khảo thí Bộ môn, Thư ký Bộ môn và các cá nhân được giao tiếp cận đề thi."
+    },
+    {
+      "type": "p",
+      "text": "Quy định không áp dụng cho các bài kiểm tra thường xuyên, kiểm tra giữa kỳ do giảng viên tự tổ chức trên lớp, trừ khi bài kiểm tra giữa kỳ được tổ chức tập trung theo lịch của Khoa."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Nguyên tắc chung"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Đề thi là tài liệu thuộc danh mục bí mật công tác của Trường từ khi được soạn thảo cho đến khi kết thúc thời gian làm bài của ca thi cuối cùng sử dụng đề đó.",
+        "Đề thi phải bám sát đề cương chi tiết học phần, đánh giá được chuẩn đầu ra học phần (CLO) với tỷ trọng đã công bố cho sinh viên từ đầu học kỳ.",
+        "Người tham gia ra đề, phản biện, duyệt, sao in đề phải ký cam kết bảo mật đề thi theo mẫu CK-ĐT-KT ngay từ đầu năm học; cam kết có hiệu lực trong suốt năm học.",
+        "Giảng viên có người thân là sinh viên đang học học phần đó trong học kỳ không được tham gia ra đề, phản biện hoặc sao in đề thi của học phần."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Tổ khảo thí Bộ môn"
+    },
+    {
+      "type": "p",
+      "text": "Tổ khảo thí Bộ môn gồm 5 thành viên: Phó Trưởng Bộ môn TS. Vũ Thị Thanh Trúc làm tổ trưởng; ThS. Nguyễn Thị Bích Liên làm tổ phó phụ trách ngân hàng câu hỏi; ThS. Lưu Gia Huy phụ trách hạ tầng lưu trữ điện tử; ThS. Kiều Anh Thư và CN. Thái Bảo Ngọc là thành viên. Tổ khảo thí giúp Trưởng Bộ môn tổ chức, kiểm tra, giám sát toàn bộ quy trình ra đề và lưu trữ đề thi."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG II. NGÂN HÀNG CÂU HỎI"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Quy mô tối thiểu của ngân hàng câu hỏi"
+    },
+    {
+      "type": "p",
+      "text": "Các học phần thi theo hình thức trắc nghiệm trên máy hoặc trắc nghiệm kết hợp tự luận phải có ngân hàng câu hỏi được Bộ môn nghiệm thu. Ngân hàng câu hỏi trắc nghiệm của học phần 3 tín chỉ phải có tối thiểu 240 câu hỏi đã được thẩm định; học phần 2 tín chỉ tối thiểu 170 câu; học phần 4 tín chỉ trở lên tối thiểu 300 câu."
+    },
+    {
+      "type": "p",
+      "text": "Đối với phần tự luận, mỗi học phần có tối thiểu 60 câu hỏi hoặc bài tập tự luận, trong đó ít nhất 40% là bài tập tình huống tổng hợp có số liệu từ hai nghiệp vụ trở lên."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Số tín chỉ",
+        "Câu trắc nghiệm tối thiểu",
+        "Câu tự luận tối thiểu",
+        "Tỷ lệ câu mức vận dụng trở lên"
+      ],
+      "rows": [
+        [
+          "2 tín chỉ",
+          "170",
+          "45",
+          "Từ 30%"
+        ],
+        [
+          "3 tín chỉ",
+          "240",
+          "60",
+          "Từ 35%"
+        ],
+        [
+          "4 tín chỉ trở lên",
+          "300",
+          "75",
+          "Từ 40%"
+        ]
+      ],
+      "widths": [
+        0.2,
+        0.27,
+        0.25,
+        0.28
+      ],
+      "caption": "Bảng 1. Quy mô tối thiểu của ngân hàng câu hỏi"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Cấu trúc và mã hóa câu hỏi"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi câu hỏi trong ngân hàng được gắn mã theo cấu trúc: mã học phần – chương – mức độ nhận thức – số thứ tự, ví dụ 4203008-C04-VD-117. Mức độ nhận thức chia làm 4 mức: Nhớ (NH), Hiểu (HI), Vận dụng (VD) và Phân tích – Đánh giá (PT). Mỗi câu hỏi kèm đáp án, thời gian làm bài ước tính, CLO tương ứng, tên người soạn và ngày thẩm định."
+    },
+    {
+      "type": "p",
+      "text": "Câu hỏi có nội dung phụ thuộc vào văn bản pháp luật về thuế, chế độ kế toán phải ghi rõ số hiệu văn bản căn cứ. Khi văn bản căn cứ thay đổi, Tổ khảo thí đánh dấu tạm khóa các câu hỏi liên quan trong vòng 10 ngày làm việc kể từ ngày văn bản mới có hiệu lực cho đến khi câu hỏi được cập nhật."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Thẩm định và cập nhật ngân hàng câu hỏi"
+    },
+    {
+      "type": "p",
+      "text": "Câu hỏi mới phải được ít nhất một giảng viên trong nhóm chuyên môn, không phải người soạn, thẩm định độc lập. Sau mỗi kỳ thi, Tổ khảo thí phân tích độ khó và độ phân biệt của câu hỏi trắc nghiệm dựa trên dữ liệu bài làm; câu hỏi có độ khó lớn hơn 0,92 hoặc nhỏ hơn 0,15, hoặc có độ phân biệt âm, phải được rà soát và chỉnh sửa hoặc loại khỏi ngân hàng."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi năm học, mỗi nhóm chuyên môn bổ sung ít nhất 15% số câu hỏi mới cho ngân hàng của từng học phần do nhóm phụ trách. Câu hỏi đã sử dụng trong 4 kỳ thi liên tiếp được chuyển sang trạng thái tạm nghỉ ít nhất 1 học kỳ."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG III. RA ĐỀ VÀ DUYỆT ĐỀ"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Phân công ra đề"
+    },
+    {
+      "type": "p",
+      "text": "Chậm nhất tuần thứ 8 của học kỳ, Trưởng Bộ môn ra quyết định phân công ra đề thi kết thúc học phần trên cơ sở đề xuất của trưởng nhóm chuyên môn. Mỗi học phần có 01 giảng viên chủ trì ra đề và 01 giảng viên phản biện; giảng viên chủ trì ra đề không đồng thời là người phản biện của cùng học phần trong cùng học kỳ."
+    },
+    {
+      "type": "p",
+      "text": "Không phân công một giảng viên chủ trì ra đề cho cùng một học phần quá 3 học kỳ liên tiếp, trừ học phần chỉ có một giảng viên đủ chuyên môn giảng dạy và được Trưởng Khoa chấp thuận bằng văn bản."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Số lượng đề và tỷ lệ câu hỏi mới"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi học phần nộp 3 đề thi chính thức và 1 đề dự phòng cho mỗi hình thức thi trong một đợt thi. Các đề có cấu trúc, độ khó và thời lượng tương đương nhau; mức chênh lệch điểm trung bình dự kiến giữa các đề không quá 0,5 điểm theo đánh giá của giảng viên phản biện."
+    },
+    {
+      "type": "p",
+      "text": "Trong mỗi đề thi, tỷ lệ câu hỏi mới chưa từng sử dụng trong các kỳ thi trước tối thiểu là 35% tổng số điểm của đề. Câu hỏi được coi là mới nếu thay đổi tình huống, số liệu hoặc yêu cầu đến mức đáp án khác với đáp án của câu gốc."
+    },
+    {
+      "type": "p",
+      "text": "Đề thi tự luận và phần tự luận của đề kết hợp không được trùng quá 20% nội dung với đề thi của hai kỳ thi gần nhất cùng học phần."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Thời hạn nộp đề"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên chủ trì ra đề nộp bộ đề thi kèm đáp án, thang điểm cho giảng viên phản biện chậm nhất 25 ngày trước ngày thi đầu tiên của học phần. Giảng viên phản biện hoàn thành phiếu phản biện trong 5 ngày làm việc."
+    },
+    {
+      "type": "p",
+      "text": "Bộ đề sau khi chỉnh sửa theo ý kiến phản biện phải được nộp cho Tổ khảo thí Bộ môn chậm nhất 18 ngày trước ngày thi đầu tiên của học phần. Trường hợp nộp trễ, giảng viên giải trình bằng văn bản; nộp trễ từ lần thứ hai trong năm học sẽ bị ghi nhận vào kết quả đánh giá viên chức ở tiêu chí chấp hành quy chế."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mốc thời gian",
+        "Công việc",
+        "Người thực hiện"
+      ],
+      "rows": [
+        [
+          "Tuần thứ 8 của học kỳ",
+          "Quyết định phân công ra đề, phản biện",
+          "Trưởng Bộ môn"
+        ],
+        [
+          "Trước ngày thi 25 ngày",
+          "Nộp bộ đề, đáp án, thang điểm cho phản biện",
+          "Giảng viên chủ trì ra đề"
+        ],
+        [
+          "Trong 5 ngày làm việc",
+          "Hoàn thành phiếu phản biện PB-ĐT-02",
+          "Giảng viên phản biện"
+        ],
+        [
+          "Trước ngày thi 18 ngày",
+          "Nộp bộ đề hoàn chỉnh cho Tổ khảo thí",
+          "Giảng viên chủ trì ra đề"
+        ],
+        [
+          "Trước ngày thi 12 ngày",
+          "Duyệt đề, niêm phong và ký biên bản",
+          "Trưởng Bộ môn, Tổ khảo thí"
+        ],
+        [
+          "Trước ngày thi 7 ngày",
+          "Bàn giao đề niêm phong hoặc tệp đề cho Phòng Khảo thí",
+          "Thư ký Bộ môn"
+        ]
+      ],
+      "widths": [
+        0.24,
+        0.5,
+        0.26
+      ],
+      "caption": "Bảng 2. Lịch trình ra đề và duyệt đề"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Nội dung phản biện và duyệt đề"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Sự phù hợp với đề cương chi tiết và ma trận đề thi đã được Bộ môn phê duyệt.",
+        "Tính chính xác về chuyên môn, đặc biệt là định khoản, tính toán thuế, khấu hao, giá thành và việc áp dụng đúng văn bản pháp luật hiện hành tại thời điểm thi.",
+        "Độ dài đề phù hợp với thời gian làm bài; giảng viên phản biện phải tự làm thử toàn bộ một đề và ghi thời gian làm bài thực tế vào phiếu phản biện.",
+        "Tính rõ ràng của câu chữ, không có đáp án gây tranh cãi; câu trắc nghiệm có đúng một phương án đúng, trừ dạng câu nhiều lựa chọn đã thông báo trước.",
+        "Đáp án và thang điểm chi tiết đến 0,25 điểm."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Trưởng Bộ môn hoặc Phó Trưởng Bộ môn được ủy quyền duyệt đề. Người duyệt đề có quyền yêu cầu chỉnh sửa hoặc thay đề; trường hợp thay đề trong vòng 12 ngày trước ngày thi, người duyệt đề được sử dụng đề dự phòng làm đề chính thức và yêu cầu giảng viên soạn đề dự phòng mới trong 3 ngày làm việc."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG IV. LƯU TRỮ VÀ BẢO MẬT ĐỀ THI"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Đề thi dạng bản giấy"
+    },
+    {
+      "type": "p",
+      "text": "Đề thi bản giấy sau khi duyệt được đóng trong phong bì của Trường, niêm phong bằng tem niêm phong có mã số dạng KT-ĐT-năm học-học kỳ-số thứ tự, ví dụ KT-ĐT-2627-1-0083. Biên bản niêm phong ghi rõ mã tem, số trang, số bản và có chữ ký của người ra đề, người duyệt đề và một thành viên Tổ khảo thí."
+    },
+    {
+      "type": "p",
+      "text": "Đề thi niêm phong được cất giữ trong két sắt đặt tại phòng E2.208 của Bộ môn. Két sắt có hai khóa độc lập: chìa khóa cơ do Trưởng Bộ môn giữ, mã khóa số do Tổ trưởng Tổ khảo thí giữ; việc mở két phải có mặt cả hai người hoặc người được ủy quyền bằng văn bản và được ghi vào sổ theo dõi mở két."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Đề thi dạng điện tử"
+    },
+    {
+      "type": "p",
+      "text": "Tệp đề thi điện tử chỉ được lưu trên máy tính không kết nối Internet đặt tại phòng E2.208 hoặc trên thiết bị lưu trữ mã hóa do Bộ môn cấp. Tệp đề phải được nén và đặt mật khẩu tối thiểu 14 ký tự gồm chữ hoa, chữ thường, chữ số và ký tự đặc biệt; mật khẩu được gửi riêng bằng kênh khác với kênh gửi tệp."
+    },
+    {
+      "type": "p",
+      "text": "Nghiêm cấm lưu đề thi trên dịch vụ lưu trữ đám mây cá nhân, gửi đề thi qua ứng dụng nhắn tin, thư điện tử cá nhân hoặc in đề tại cửa hàng dịch vụ bên ngoài. Ngân hàng câu hỏi trắc nghiệm được lưu trên hệ thống thi trắc nghiệm của Trường với tài khoản quản trị riêng của từng học phần; mật khẩu tài khoản được thay đổi sau mỗi đợt thi."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Thời hạn lưu trữ"
+    },
+    {
+      "type": "p",
+      "text": "Đề thi, đáp án, thang điểm, phiếu phản biện, biên bản niêm phong và biên bản bàn giao được lưu trữ tại Bộ môn trong thời hạn 6 năm kể từ ngày thi, phục vụ công tác kiểm định chất lượng và giải quyết khiếu nại. Hết thời hạn lưu trữ, Tổ khảo thí lập danh mục đề nghị tiêu hủy, trình Trưởng Bộ môn và Khoa phê duyệt trước khi tiêu hủy bằng máy hủy tài liệu."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Loại hồ sơ",
+        "Nơi lưu",
+        "Người quản lý",
+        "Thời hạn lưu"
+      ],
+      "rows": [
+        [
+          "Đề thi bản giấy đã sử dụng, đáp án, thang điểm",
+          "Tủ hồ sơ khóa, phòng E2.208",
+          "Thư ký Bộ môn",
+          "6 năm"
+        ],
+        [
+          "Đề dự phòng chưa sử dụng",
+          "Két sắt, phòng E2.208",
+          "Trưởng Bộ môn",
+          "Đến khi được sử dụng hoặc hủy sau 2 học kỳ"
+        ],
+        [
+          "Tệp đề điện tử",
+          "Máy tính ngoại tuyến và thiết bị mã hóa",
+          "ThS. Lưu Gia Huy",
+          "6 năm"
+        ],
+        [
+          "Phiếu phản biện, biên bản niêm phong, bàn giao",
+          "Tủ hồ sơ khóa, phòng E2.208",
+          "Thư ký Bộ môn",
+          "6 năm"
+        ],
+        [
+          "Sổ theo dõi mở két",
+          "Két sắt, phòng E2.208",
+          "Tổ trưởng Tổ khảo thí",
+          "10 năm"
+        ]
+      ],
+      "widths": [
+        0.32,
+        0.26,
+        0.2,
+        0.22
+      ],
+      "caption": "Bảng 3. Phân công lưu trữ hồ sơ đề thi"
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG V. XỬ LÝ LỘ ĐỀ VÀ VI PHẠM"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Các trường hợp được xác định là lộ đề"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Nội dung đề thi hoặc đáp án xuất hiện, dù toàn bộ hay một phần, trên mạng xã hội, nhóm nhắn tin, tài liệu ôn tập trước hoặc trong thời gian thi.",
+        "Phong bì đề có dấu hiệu bị bóc, tem niêm phong không nguyên vẹn hoặc mã tem không khớp biên bản niêm phong.",
+        "Có bằng chứng sinh viên được cung cấp nội dung đề thi trước giờ thi, kể cả khi việc cung cấp là vô ý từ người có trách nhiệm.",
+        "Tệp đề thi bị truy cập trái phép hoặc thiết bị lưu trữ đề thi bị mất."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Quy trình xử lý khi phát hiện lộ đề"
+    },
+    {
+      "type": "p",
+      "text": "Người phát hiện dấu hiệu lộ đề phải báo ngay cho Trưởng Bộ môn bằng điện thoại và gửi văn bản xác nhận trong vòng 2 giờ. Trưởng Bộ môn phối hợp với Phòng Khảo thí quyết định một trong các biện pháp: thay ngay đề dự phòng nếu chưa đến giờ thi; hủy kết quả ca thi bị ảnh hưởng và tổ chức thi lại trong vòng 10 ngày kể từ ngày xác định lộ đề nếu đã thi."
+    },
+    {
+      "type": "p",
+      "text": "Trong thời hạn 5 ngày làm việc, Bộ môn thành lập Tổ xác minh gồm 3 người, không gồm người ra đề và người phản biện đề bị lộ, để làm rõ nguyên nhân, phạm vi và trách nhiệm của cá nhân liên quan; báo cáo kết quả xác minh gửi Khoa và Phòng Thanh tra – Pháp chế."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mức độ",
+        "Mô tả",
+        "Hình thức xử lý cá nhân có lỗi"
+      ],
+      "rows": [
+        [
+          "Mức 1",
+          "Lộ đề do sơ suất, chưa ảnh hưởng đến kết quả thi (phát hiện trước giờ thi và đã thay đề)",
+          "Nhắc nhở bằng văn bản; không được giao ra đề học kỳ kế tiếp"
+        ],
+        [
+          "Mức 2",
+          "Lộ đề do sơ suất, phải hủy kết quả và tổ chức thi lại",
+          "Không được thanh toán thù lao ra đề của học phần; không được giao ra đề 2 học kỳ liên tiếp; xếp loại viên chức không cao hơn Hoàn thành nhiệm vụ"
+        ],
+        [
+          "Mức 3",
+          "Cố ý làm lộ đề hoặc mua bán đề thi",
+          "Đề nghị Hội đồng kỷ luật xem xét theo quy định pháp luật về viên chức; chuyển cơ quan có thẩm quyền nếu có dấu hiệu tội phạm"
+        ]
+      ],
+      "widths": [
+        0.12,
+        0.44,
+        0.44
+      ],
+      "caption": "Bảng 4. Phân loại mức độ lộ đề và hình thức xử lý"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Vi phạm khác"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên sử dụng đề thi có trên 20% nội dung trùng với đề thi đã sử dụng trong hai kỳ gần nhất mà không được Tổ khảo thí chấp thuận bị yêu cầu ra đề lại và không được thanh toán thù lao cho lần ra đề vi phạm. Giảng viên phát hiện sai sót đáp án sau khi thi phải báo cáo ngay để điều chỉnh trước khi chấm; sai sót đáp án làm thay đổi điểm của từ 10 bài thi trở lên được ghi nhận vào đánh giá viên chức."
+    },
+    {
+      "type": "h1",
+      "text": "CHƯƠNG VI. THÙ LAO VÀ ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 17. Thù lao ra đề, phản biện"
+    },
+    {
+      "type": "p",
+      "text": "Thù lao ra đề, phản biện được chi từ nguồn kinh phí khảo thí do Trường phân bổ cho Khoa, thanh toán theo học kỳ sau khi kết thúc đợt thi và có đủ hồ sơ."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nội dung",
+        "Đơn vị tính",
+        "Mức chi (đồng)"
+      ],
+      "rows": [
+        [
+          "Ra đề thi tự luận kèm đáp án, thang điểm",
+          "Đề",
+          "650.000"
+        ],
+        [
+          "Ra đề thi kết hợp trắc nghiệm – tự luận",
+          "Đề",
+          "520.000"
+        ],
+        [
+          "Soạn câu hỏi trắc nghiệm mới được nghiệm thu vào ngân hàng",
+          "Câu",
+          "45.000"
+        ],
+        [
+          "Thẩm định câu hỏi trắc nghiệm",
+          "Câu",
+          "12.000"
+        ],
+        [
+          "Phản biện đề thi",
+          "Bộ đề",
+          "380.000"
+        ],
+        [
+          "Duyệt đề, niêm phong",
+          "Học phần",
+          "150.000"
+        ]
+      ],
+      "widths": [
+        0.56,
+        0.18,
+        0.26
+      ],
+      "caption": "Bảng 5. Mức chi thù lao công tác đề thi"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 18. Tổ chức thực hiện"
+    },
+    {
+      "type": "p",
+      "text": "Tổ khảo thí Bộ môn chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện Quy định này; định kỳ cuối mỗi học kỳ báo cáo Trưởng Bộ môn về tình hình ngân hàng câu hỏi, tiến độ nộp đề và các sự cố. Trưởng nhóm chuyên môn đôn đốc giảng viên trong nhóm thực hiện đúng thời hạn."
+    },
+    {
+      "type": "p",
+      "text": "Quy định này có hiệu lực từ học kỳ 1 năm học 2026–2027, thay thế Quy định số 0611/QĐ-BMKT ngày 14 tháng 8 năm 2024. Các học phần chưa đủ quy mô ngân hàng câu hỏi theo Bảng 1 phải hoàn thành bổ sung trước đợt thi học kỳ 2 năm học 2026–2027."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. MẪU MA TRẬN ĐỀ THI HỌC PHẦN KẾ TOÁN TÀI CHÍNH 2"
+    },
+    {
+      "type": "p",
+      "text": "Ma trận dưới đây là ví dụ minh họa để giảng viên tham khảo khi lập ma trận đề cho học phần 3 tín chỉ, thời gian làm bài 75 phút, hình thức kết hợp 40% trắc nghiệm và 60% tự luận."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Chuẩn đầu ra",
+        "Nội dung",
+        "Nhớ – Hiểu",
+        "Vận dụng",
+        "Phân tích – Đánh giá",
+        "Tổng điểm"
+      ],
+      "rows": [
+        [
+          "CLO1",
+          "Kế toán đầu tư tài chính",
+          "1,0",
+          "1,0",
+          "0",
+          "2,0"
+        ],
+        [
+          "CLO2",
+          "Kế toán nợ phải trả, dự phòng",
+          "1,0",
+          "1,5",
+          "0,5",
+          "3,0"
+        ],
+        [
+          "CLO3",
+          "Kế toán vốn chủ sở hữu, phân phối lợi nhuận",
+          "0,5",
+          "1,5",
+          "0,5",
+          "2,5"
+        ],
+        [
+          "CLO4",
+          "Lập và trình bày báo cáo tài chính",
+          "0,5",
+          "1,0",
+          "1,0",
+          "2,5"
+        ],
+        [
+          "Tổng",
+          "",
+          "3,0",
+          "5,0",
+          "2,0",
+          "10,0"
+        ]
+      ],
+      "widths": [
+        0.14,
+        0.34,
+        0.13,
+        0.13,
+        0.13,
+        0.13
+      ],
+      "caption": "Bảng 6. Ví dụ ma trận đề thi"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên ra đề nộp ma trận đề cùng bộ đề thi. Giảng viên phản biện đối chiếu từng câu hỏi với ô tương ứng trong ma trận; mức lệch giữa điểm thực tế của đề và ma trận ở mỗi ô không vượt quá 0,5 điểm."
+    }
+  ],
+  "signature": {
+    "title": "TRƯỞNG BỘ MÔN",
+    "name": "TS. Lâm Thị Ngọc Hân"
+  },
+  "recipients": [
+    "Ban Chủ nhiệm Khoa Kinh tế (để báo cáo)",
+    "Phòng Khảo thí và Đảm bảo chất lượng",
+    "Giảng viên Bộ môn Kế toán",
+    "Lưu: BMKT, Tổ khảo thí"
+  ],
+  "questions": [
+    {
+      "question": "Đề thi kết thúc học phần hoàn chỉnh phải nộp cho Tổ khảo thí Bộ môn Kế toán trước ngày thi bao lâu?",
+      "expected_answer": "Chậm nhất 18 ngày trước ngày thi đầu tiên của học phần.",
+      "evidence": "Bộ đề sau khi chỉnh sửa theo ý kiến phản biện phải được nộp cho Tổ khảo thí Bộ môn chậm nhất 18 ngày trước ngày thi đầu tiên của học phần"
+    },
+    {
+      "question": "Mỗi đề thi kết thúc học phần của Bộ môn Kế toán phải có tối thiểu bao nhiêu phần trăm câu hỏi mới?",
+      "expected_answer": "Tối thiểu 35% tổng số điểm của đề.",
+      "evidence": "tỷ lệ câu hỏi mới chưa từng sử dụng trong các kỳ thi trước tối thiểu là 35% tổng số điểm của đề"
+    },
+    {
+      "question": "Ngân hàng câu hỏi trắc nghiệm cho học phần 3 tín chỉ cần có tối thiểu bao nhiêu câu?",
+      "expected_answer": "Tối thiểu 240 câu đã được thẩm định.",
+      "evidence": "Ngân hàng câu hỏi trắc nghiệm của học phần 3 tín chỉ phải có tối thiểu 240 câu hỏi đã được thẩm định"
+    }
+  ]
+}

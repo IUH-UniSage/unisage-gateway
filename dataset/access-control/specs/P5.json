@@ -1,0 +1,575 @@
+{
+  "doc_id": "P5",
+  "file_name": "P5_quy-dinh-nckh-sinh-vien-cap-truong-2026.pdf",
+  "title": "QUY ĐỊNH HOẠT ĐỘNG NGHIÊN CỨU KHOA HỌC CỦA SINH VIÊN CẤP TRƯỜNG NĂM 2026",
+  "number": "Số: 3186/QĐ-ĐHCN",
+  "place_date": "TP. Hồ Chí Minh, ngày 21 tháng 8 năm 2026",
+  "signature": {
+    "title": "KT. HIỆU TRƯỞNG – PHÓ HIỆU TRƯỞNG",
+    "name": "PGS.TS. Lương Thế Khải"
+  },
+  "recipients": [
+    "Các khoa, viện, trung tâm đào tạo",
+    "Các phòng chức năng",
+    "Đoàn Thanh niên, Hội Sinh viên",
+    "Lưu: VT, QLKH&HTQT"
+  ],
+  "questions": [
+    {
+      "question": "Một đề tài nghiên cứu khoa học sinh viên cấp trường được tối đa bao nhiêu thành viên?",
+      "expected_answer": "Tối đa 5 sinh viên, kể cả chủ nhiệm (đề tài liên ngành tối đa 6).",
+      "evidence": "Mỗi đề tài có tối đa 5 sinh viên, bao gồm cả chủ nhiệm đề tài."
+    },
+    {
+      "question": "Đề tài NCKH sinh viên loại A được hỗ trợ kinh phí tối đa bao nhiêu?",
+      "expected_answer": "12.500.000 đồng/đề tài.",
+      "evidence": "12.500.000 đồng/đề tài"
+    },
+    {
+      "question": "Làm chủ nhiệm đề tài NCKH được nghiệm thu loại khá thì được cộng bao nhiêu điểm rèn luyện?",
+      "expected_answer": "Được cộng 7 điểm (thành viên được 5 điểm).",
+      "evidence": "được cộng 7 điểm vào mục \"Tham gia hoạt động học thuật\""
+    }
+  ],
+  "parent_org": "BỘ CÔNG THƯƠNG",
+  "issuer": "TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH",
+  "confidential": null,
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Căn cứ Quyết định số 0947/QĐ-ĐHCN ngày 05 tháng 3 năm 2024 của Hiệu trưởng Trường Đại học Công nghiệp TP. Hồ Chí Minh ban hành Quy chế tổ chức và hoạt động khoa học công nghệ của Trường;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ Nghị quyết số 22/NQ-HĐT ngày 18 tháng 6 năm 2026 của Hội đồng trường về định hướng phát triển nghiên cứu khoa học giai đoạn 2026–2030;"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ kết luận của Hội đồng Khoa học và Đào tạo Trường tại phiên họp thứ 41 ngày 29 tháng 7 năm 2026;"
+    },
+    {
+      "type": "p",
+      "text": "Theo đề nghị của Trưởng phòng Quản lý Khoa học và Hợp tác Quốc tế, Hiệu trưởng ban hành Quy định hoạt động nghiên cứu khoa học của sinh viên cấp trường áp dụng từ năm 2026 với các nội dung sau đây."
+    },
+    {
+      "type": "h1",
+      "text": "Chương I. QUY ĐỊNH CHUNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này điều chỉnh việc đăng ký, xét duyệt, triển khai, nghiệm thu, khen thưởng và quản lý kinh phí đối với đề tài nghiên cứu khoa học của sinh viên cấp trường (sau đây gọi tắt là đề tài SV-NCKH). Quy định không áp dụng cho đề tài cấp khoa, cấp bộ môn do các đơn vị tự tổ chức bằng nguồn kinh phí riêng, trừ khi đơn vị đó đề nghị nâng cấp đề tài theo Điều 9."
+    },
+    {
+      "type": "p",
+      "text": "Đối tượng áp dụng gồm sinh viên đại học hệ chính quy đang học tại Trường, giảng viên hướng dẫn, các khoa, viện, trung tâm đào tạo và các phòng chức năng có liên quan. Sinh viên hệ vừa làm vừa học, sinh viên liên thông được tham gia với tư cách thành viên nhưng không được làm chủ nhiệm đề tài."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 2. Mục tiêu của hoạt động nghiên cứu khoa học sinh viên"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Hình thành năng lực tư duy phản biện, phương pháp nghiên cứu và kỹ năng viết học thuật cho sinh viên ngay từ năm thứ hai.",
+        "Gắn kết nội dung nghiên cứu với nhu cầu thực tiễn của doanh nghiệp, địa phương và các nhóm nghiên cứu mạnh của Trường.",
+        "Phát hiện, bồi dưỡng sinh viên có năng khiếu nghiên cứu để tạo nguồn cho chương trình đào tạo sau đại học và đội ngũ trợ giảng.",
+        "Phấn đấu đến năm 2027 có ít nhất 14% sinh viên năm thứ ba trở lên tham gia ít nhất một đề tài SV-NCKH."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 3. Giải thích từ ngữ"
+    },
+    {
+      "type": "p",
+      "text": "Trong Quy định này, các từ ngữ dưới đây được hiểu như sau: \"Chủ nhiệm đề tài\" là sinh viên đứng tên đăng ký, chịu trách nhiệm chính về nội dung, tiến độ và kinh phí của đề tài. \"Thành viên\" là sinh viên cùng thực hiện, có tên trong thuyết minh được phê duyệt. \"Giảng viên hướng dẫn\" là viên chức giảng dạy có trình độ thạc sĩ trở lên, được khoa phân công hướng dẫn chuyên môn. \"Cổng SV-NCKH\" là phân hệ trực tuyến trên hệ thống quản lý khoa học của Trường dùng để nộp hồ sơ, theo dõi tiến độ và nhận kết quả."
+    },
+    {
+      "type": "h1",
+      "text": "Chương II. ĐĂNG KÝ VÀ XÉT DUYỆT ĐỀ TÀI"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 4. Điều kiện đối với chủ nhiệm và thành viên"
+    },
+    {
+      "type": "p",
+      "text": "Chủ nhiệm đề tài phải là sinh viên từ năm thứ hai trở lên, có điểm trung bình chung tích lũy đạt từ 2,50 trở lên theo thang điểm 4, không bị kỷ luật từ mức khiển trách trở lên trong năm học liền trước và không đang trong thời gian bị cảnh báo học tập."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi đề tài có tối đa 5 sinh viên, bao gồm cả chủ nhiệm đề tài. Đề tài liên ngành có thành viên thuộc ít nhất hai khoa khác nhau được phép đăng ký tối đa 6 sinh viên nếu thuyết minh nêu rõ phân công của từng người."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi sinh viên chỉ được làm chủ nhiệm 01 đề tài và tham gia tối đa 02 đề tài SV-NCKH trong cùng một năm. Sinh viên năm cuối chỉ được đăng ký nếu thời gian thực hiện kết thúc trước ngày xét tốt nghiệp đợt gần nhất ít nhất 30 ngày."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 5. Giảng viên hướng dẫn"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi đề tài có 01 giảng viên hướng dẫn chính và có thể có thêm 01 giảng viên đồng hướng dẫn là chuyên gia từ doanh nghiệp. Một giảng viên được hướng dẫn tối đa 04 đề tài SV-NCKH cấp trường trong một năm; giảng viên có học hàm phó giáo sư trở lên được hướng dẫn tối đa 06 đề tài."
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên hướng dẫn chịu trách nhiệm xác nhận tính mới của đề tài, kiểm tra tỷ lệ trùng lặp của báo cáo tổng kết trước khi nộp và ký biên bản tự đánh giá tiến độ giữa kỳ."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 6. Thời gian và hồ sơ đăng ký"
+    },
+    {
+      "type": "p",
+      "text": "Đợt đăng ký đề tài SV-NCKH năm 2026 mở từ ngày 14 tháng 9 năm 2026 đến hết ngày 17 tháng 10 năm 2026. Hồ sơ nộp trực tuyến qua Cổng SV-NCKH; hồ sơ giấy chỉ áp dụng trong trường hợp hệ thống gặp sự cố được Phòng Quản lý Khoa học thông báo."
+    },
+    {
+      "type": "p",
+      "text": "Hồ sơ đăng ký gồm: (a) phiếu đăng ký theo Mẫu SV-01; (b) thuyết minh đề tài theo Mẫu SV-02, dài không quá 12 trang; (c) dự toán kinh phí theo Mẫu SV-03; (d) bảng điểm tích lũy của chủ nhiệm đề tài có xác nhận của khoa; (e) ý kiến đồng ý của giảng viên hướng dẫn. Đề tài hợp tác với doanh nghiệp nộp thêm thư xác nhận phối hợp."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 7. Quy trình xét duyệt"
+    },
+    {
+      "type": "p",
+      "text": "Việc xét duyệt được thực hiện qua hai vòng. Vòng 1 do hội đồng cấp khoa thực hiện, chấm theo thang 100 điểm và chọn các thuyết minh đạt từ 60 điểm trở lên. Vòng 2 do Hội đồng xét duyệt cấp trường thực hiện, mỗi hội đồng có 05 thành viên, trong đó ít nhất 01 thành viên ngoài khoa đề xuất."
+    },
+    {
+      "type": "p",
+      "text": "Kết quả xét duyệt được công bố trên Cổng SV-NCKH chậm nhất ngày 20 tháng 11 năm 2026. Mỗi đề tài được duyệt sẽ được cấp mã theo cấu trúc SV26-[mã khoa]-[số thứ tự], ví dụ SV26-CNTT-018."
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Tiêu chí đánh giá thuyết minh",
+        "Điểm tối đa"
+      ],
+      "rows": [
+        [
+          "1",
+          "Tính cấp thiết, tính mới và ý nghĩa thực tiễn",
+          "25"
+        ],
+        [
+          "2",
+          "Mục tiêu, nội dung và phương pháp nghiên cứu",
+          "30"
+        ],
+        [
+          "3",
+          "Tính khả thi về tiến độ, nhân lực và trang thiết bị",
+          "15"
+        ],
+        [
+          "4",
+          "Sản phẩm dự kiến và khả năng ứng dụng, chuyển giao",
+          "20"
+        ],
+        [
+          "5",
+          "Tính hợp lý của dự toán kinh phí",
+          "10"
+        ],
+        [
+          "",
+          "Tổng cộng",
+          "100"
+        ]
+      ],
+      "widths": [
+        0.1,
+        0.7,
+        0.2
+      ],
+      "caption": "Bảng 1. Khung điểm xét duyệt thuyết minh đề tài SV-NCKH"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 8. Phân loại đề tài"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ quy mô và sản phẩm đăng ký, đề tài được phân thành ba loại. Đề tài loại A là đề tài có sản phẩm bắt buộc gồm bài báo đăng trên tạp chí khoa học có mã ISSN hoặc kỷ yếu hội nghị có phản biện, kèm sản phẩm ứng dụng. Đề tài loại B có sản phẩm là báo cáo tổng kết và một sản phẩm ứng dụng hoặc bài đăng kỷ yếu hội nghị sinh viên. Đề tài loại C là đề tài khảo sát, tổng quan có sản phẩm là báo cáo tổng kết và bài trình bày tại hội thảo khoa."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 9. Nâng cấp đề tài cấp khoa"
+    },
+    {
+      "type": "p",
+      "text": "Đề tài cấp khoa đã nghiệm thu đạt loại xuất sắc trong năm 2025 hoặc năm 2026 được khoa đề nghị nâng cấp thành đề tài cấp trường loại B mà không phải qua vòng 1. Số đề tài nâng cấp của mỗi khoa không vượt quá 3 đề tài trong một năm."
+    },
+    {
+      "type": "h1",
+      "text": "Chương III. KINH PHÍ HỖ TRỢ"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 10. Nguồn và mức hỗ trợ"
+    },
+    {
+      "type": "p",
+      "text": "Kinh phí hỗ trợ đề tài SV-NCKH được trích từ Quỹ phát triển hoạt động sự nghiệp của Trường. Tổng quỹ dành cho hoạt động SV-NCKH năm 2026 là 1.640.000.000 đồng, trong đó 82% chi trực tiếp cho đề tài, 11% chi cho giải thưởng và 7% chi cho công tác tổ chức hội đồng, hội nghị."
+    },
+    {
+      "type": "p",
+      "text": "Mức hỗ trợ tối đa cho mỗi đề tài như sau:"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Loại đề tài",
+        "Mức hỗ trợ tối đa",
+        "Thời gian thực hiện",
+        "Chỉ tiêu toàn trường"
+      ],
+      "rows": [
+        [
+          "Loại A",
+          "12.500.000 đồng/đề tài",
+          "10 tháng",
+          "48 đề tài"
+        ],
+        [
+          "Loại B",
+          "8.200.000 đồng/đề tài",
+          "8 tháng",
+          "65 đề tài"
+        ],
+        [
+          "Loại C",
+          "4.600.000 đồng/đề tài",
+          "6 tháng",
+          "37 đề tài"
+        ],
+        [
+          "Đề tài liên ngành (cộng thêm)",
+          "1.800.000 đồng/đề tài",
+          "Theo loại gốc",
+          "Không giới hạn"
+        ]
+      ],
+      "widths": [
+        0.25,
+        0.28,
+        0.22,
+        0.25
+      ],
+      "caption": "Bảng 2. Mức kinh phí hỗ trợ theo loại đề tài năm 2026"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 11. Nội dung chi"
+    },
+    {
+      "type": "p",
+      "text": "Kinh phí được chi cho các nội dung: mua vật tư, hóa chất, linh kiện phục vụ thí nghiệm; thuê dịch vụ khảo sát, in phiếu điều tra; phí đăng bài, phí tham dự hội nghị; chi thù lao cho người tham gia trả lời khảo sát không quá 30.000 đồng/phiếu; chi in ấn báo cáo tổng kết. Không được chi mua thiết bị có giá trị từ 5.000.000 đồng trở lên cho một đơn vị tài sản; trường hợp cần thiết, thiết bị được mượn từ phòng thí nghiệm của khoa."
+    },
+    {
+      "type": "p",
+      "text": "Kinh phí được cấp hai lần: lần 1 tạm ứng 60% sau khi ký hợp đồng thực hiện; lần 2 cấp 40% còn lại sau khi đề tài được nghiệm thu và hoàn tất chứng từ quyết toán. Chủ nhiệm đề tài phải quyết toán chậm nhất 30 ngày kể từ ngày có biên bản nghiệm thu."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 12. Thù lao giảng viên hướng dẫn"
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên hướng dẫn đề tài loại A được quy đổi 45 giờ nghiên cứu khoa học; đề tài loại B được quy đổi 30 giờ; đề tài loại C được quy đổi 18 giờ. Số giờ quy đổi chỉ được ghi nhận khi đề tài được nghiệm thu từ mức đạt trở lên và được cộng vào định mức nghiên cứu khoa học của năm học có quyết định nghiệm thu."
+    },
+    {
+      "type": "h1",
+      "text": "Chương IV. TRIỂN KHAI, KIỂM TRA VÀ NGHIỆM THU"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 13. Báo cáo tiến độ"
+    },
+    {
+      "type": "p",
+      "text": "Chủ nhiệm đề tài nộp báo cáo tiến độ giữa kỳ trên Cổng SV-NCKH khi đã thực hiện được một nửa thời gian theo hợp đồng. Báo cáo phải có xác nhận của giảng viên hướng dẫn và mô tả khối lượng công việc đã hoàn thành theo tỷ lệ phần trăm so với thuyết minh."
+    },
+    {
+      "type": "p",
+      "text": "Đề tài có khối lượng hoàn thành dưới 40% tại thời điểm báo cáo giữa kỳ sẽ bị khoa kiểm tra trực tiếp. Nếu không có lý do chính đáng, Phòng Quản lý Khoa học đề xuất dừng đề tài và thu hồi phần kinh phí đã tạm ứng chưa sử dụng."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 14. Gia hạn và điều chỉnh"
+    },
+    {
+      "type": "p",
+      "text": "Đề tài được gia hạn một lần, thời gian gia hạn không quá 2 tháng. Đơn đề nghị gia hạn nộp trước ngày kết thúc hợp đồng ít nhất 15 ngày. Việc thay đổi thành viên chỉ được thực hiện một lần và không được thay chủ nhiệm, trừ trường hợp chủ nhiệm tạm dừng học hoặc thôi học."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 15. Hội đồng nghiệm thu"
+    },
+    {
+      "type": "p",
+      "text": "Hội đồng nghiệm thu cấp trường có 05 thành viên gồm chủ tịch, thư ký, 02 phản biện và 01 ủy viên. Giảng viên hướng dẫn không được là thành viên hội đồng nghiệm thu đề tài do mình hướng dẫn. Mỗi thành viên chấm độc lập theo thang 100 điểm; điểm nghiệm thu là trung bình cộng điểm của các thành viên có mặt."
+    },
+    {
+      "type": "p",
+      "text": "Báo cáo tổng kết phải được kiểm tra trùng lặp bằng phần mềm do Thư viện cung cấp; tỷ lệ trùng lặp không vượt quá 25%. Báo cáo vượt ngưỡng này bị trả lại để chỉnh sửa và chỉ được bảo vệ ở phiên kế tiếp."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Điểm nghiệm thu",
+        "Xếp loại",
+        "Hệ quả"
+      ],
+      "rows": [
+        [
+          "Từ 90 đến 100",
+          "Xuất sắc",
+          "Được đề cử giải thưởng cấp trường; cấp đủ 40% kinh phí còn lại"
+        ],
+        [
+          "Từ 80 đến dưới 90",
+          "Tốt",
+          "Được xét giải khuyến khích; cấp đủ 40% kinh phí còn lại"
+        ],
+        [
+          "Từ 65 đến dưới 80",
+          "Khá",
+          "Cấp đủ 40% kinh phí còn lại"
+        ],
+        [
+          "Từ 50 đến dưới 65",
+          "Đạt",
+          "Cấp 20% kinh phí còn lại"
+        ],
+        [
+          "Dưới 50",
+          "Không đạt",
+          "Không cấp phần còn lại; hoàn trả 50% kinh phí đã tạm ứng"
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.18,
+        0.6
+      ],
+      "caption": "Bảng 3. Xếp loại kết quả nghiệm thu đề tài SV-NCKH"
+    },
+    {
+      "type": "h1",
+      "text": "Chương V. QUYỀN LỢI CỦA SINH VIÊN THAM GIA NGHIÊN CỨU"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 16. Quy đổi điểm rèn luyện"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên là chủ nhiệm đề tài được nghiệm thu từ loại khá trở lên được cộng 7 điểm vào mục \"Tham gia hoạt động học thuật\" trong phiếu đánh giá kết quả rèn luyện của học kỳ có quyết định nghiệm thu. Thành viên đề tài được cộng 5 điểm. Tổng điểm cộng không vượt quá khung điểm tối đa của mục này theo Quy chế đánh giá kết quả rèn luyện hiện hành."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 17. Quy đổi tín chỉ"
+    },
+    {
+      "type": "p",
+      "text": "Chủ nhiệm đề tài loại A được nghiệm thu đạt loại tốt trở lên được quy đổi kết quả nghiên cứu thành 2 tín chỉ thuộc khối kiến thức tự chọn của chương trình đào tạo, với điểm học phần quy đổi bằng điểm nghiệm thu chia cho 10. Chủ nhiệm đề tài loại B đạt loại xuất sắc được quy đổi 1 tín chỉ tự chọn."
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên nộp đơn đề nghị quy đổi tín chỉ cho Phòng Đào tạo trong vòng 45 ngày kể từ ngày có quyết định nghiệm thu. Mỗi sinh viên được quy đổi tối đa 3 tín chỉ trong toàn khóa học từ kết quả nghiên cứu khoa học. Việc quy đổi không áp dụng thay thế khóa luận tốt nghiệp."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 18. Ưu tiên khác"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Được cộng 0,1 điểm vào điểm xét học bổng khuyến khích học tập của học kỳ kế tiếp nếu đề tài đạt loại xuất sắc.",
+        "Được ưu tiên xét tuyển thẳng vào chương trình thạc sĩ của Trường nếu có bài báo đăng trên tạp chí thuộc danh mục được Hội đồng Giáo sư nhà nước tính điểm.",
+        "Được hỗ trợ phí đăng ký tham dự hội nghị khoa học quốc tế tối đa 6.000.000 đồng/bài nếu là tác giả chính.",
+        "Được cấp giấy chứng nhận tham gia nghiên cứu khoa học có mã xác thực tra cứu trên Cổng SV-NCKH."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "Chương VI. GIẢI THƯỞNG"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 19. Giải thưởng Sinh viên Nghiên cứu Khoa học cấp trường"
+    },
+    {
+      "type": "p",
+      "text": "Hằng năm, Trường tổ chức xét Giải thưởng \"Ươm mầm Khoa học Công nghiệp\" dành cho các đề tài SV-NCKH xuất sắc. Lễ trao giải năm 2026 dự kiến tổ chức vào ngày 26 tháng 5 năm 2027 trong khuôn khổ Hội nghị khoa học sinh viên lần thứ 9."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Hạng giải",
+        "Số lượng tối đa",
+        "Tiền thưởng/đề tài",
+        "Hình thức kèm theo"
+      ],
+      "rows": [
+        [
+          "Giải Nhất",
+          "3",
+          "9.000.000 đồng",
+          "Bằng khen của Hiệu trưởng, cúp lưu niệm"
+        ],
+        [
+          "Giải Nhì",
+          "6",
+          "6.500.000 đồng",
+          "Giấy khen của Hiệu trưởng"
+        ],
+        [
+          "Giải Ba",
+          "10",
+          "4.000.000 đồng",
+          "Giấy khen của Hiệu trưởng"
+        ],
+        [
+          "Giải Khuyến khích",
+          "15",
+          "2.000.000 đồng",
+          "Giấy chứng nhận"
+        ],
+        [
+          "Giải Đề tài có tính ứng dụng cao",
+          "2",
+          "5.500.000 đồng",
+          "Giấy khen và hỗ trợ ươm tạo tại Vườn ươm khởi nghiệp"
+        ]
+      ],
+      "widths": [
+        0.3,
+        0.17,
+        0.2,
+        0.33
+      ],
+      "caption": "Bảng 4. Cơ cấu giải thưởng Ươm mầm Khoa học Công nghiệp năm 2026"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 20. Đề cử giải thưởng cấp trên"
+    },
+    {
+      "type": "p",
+      "text": "Từ các đề tài đạt giải Nhất và giải Nhì, Hội đồng Khoa học và Đào tạo chọn tối đa 8 đề tài để đề cử tham gia các giải thưởng nghiên cứu khoa học sinh viên cấp bộ, cấp quốc gia. Đề tài được đề cử được hỗ trợ thêm 3.000.000 đồng để hoàn thiện hồ sơ và sản phẩm."
+    },
+    {
+      "type": "h1",
+      "text": "Chương VII. XỬ LÝ VI PHẠM VÀ TỔ CHỨC THỰC HIỆN"
+    },
+    {
+      "type": "h2",
+      "text": "Điều 21. Xử lý vi phạm"
+    },
+    {
+      "type": "p",
+      "text": "Đề tài bị phát hiện sao chép kết quả nghiên cứu của người khác, sử dụng số liệu giả mạo hoặc sử dụng công cụ trí tuệ nhân tạo tạo sinh mà không khai báo theo Mẫu SV-07 sẽ bị hủy kết quả nghiệm thu, thu hồi toàn bộ kinh phí và giải thưởng đã nhận. Chủ nhiệm đề tài bị xem xét kỷ luật theo quy chế công tác sinh viên và không được đăng ký đề tài SV-NCKH trong 2 năm tiếp theo."
+    },
+    {
+      "type": "p",
+      "text": "Giảng viên hướng dẫn có đề tài vi phạm liêm chính học thuật bị trừ toàn bộ giờ quy đổi của đề tài đó và không được phân công hướng dẫn đề tài SV-NCKH trong năm kế tiếp."
+    },
+    {
+      "type": "h2",
+      "text": "Điều 22. Trách nhiệm của các đơn vị"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Phòng Quản lý Khoa học và Hợp tác Quốc tế là đầu mối tổ chức, quản lý Cổng SV-NCKH, tổng hợp kết quả và lưu trữ hồ sơ đề tài trong thời hạn 5 năm.",
+        "Phòng Tài chính – Kế toán hướng dẫn thủ tục tạm ứng, thanh toán, quyết toán kinh phí.",
+        "Phòng Đào tạo thực hiện quy đổi tín chỉ theo Điều 17; Phòng Công tác Sinh viên cập nhật điểm rèn luyện theo Điều 16.",
+        "Các khoa phổ biến Quy định đến sinh viên, tổ chức xét duyệt vòng 1 và phân công giảng viên hướng dẫn.",
+        "Thư viện cung cấp tài khoản kiểm tra trùng lặp cho giảng viên hướng dẫn trước ngày 01 tháng 12 năm 2026."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Điều 23. Hiệu lực thi hành"
+    },
+    {
+      "type": "p",
+      "text": "Quy định này có hiệu lực kể từ ngày ký và thay thế Quy định số 1532/QĐ-ĐHCN ngày 11 tháng 8 năm 2023. Các đề tài đã ký hợp đồng trước ngày Quy định có hiệu lực tiếp tục thực hiện theo quy định cũ cho đến khi nghiệm thu. Trong quá trình thực hiện, nếu có vướng mắc, các đơn vị, cá nhân phản ánh về Phòng Quản lý Khoa học và Hợp tác Quốc tế để tổng hợp, trình Hiệu trưởng xem xét điều chỉnh."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. LỊCH TRIỂN KHAI ĐỀ TÀI SV-NCKH NĂM 2026"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Mốc",
+        "Thời gian",
+        "Nội dung công việc",
+        "Đơn vị chủ trì"
+      ],
+      "rows": [
+        [
+          "1",
+          "14/9 – 17/10/2026",
+          "Sinh viên đăng ký đề tài trên Cổng SV-NCKH",
+          "Khoa, sinh viên"
+        ],
+        [
+          "2",
+          "19/10 – 31/10/2026",
+          "Xét duyệt vòng 1 cấp khoa",
+          "Khoa"
+        ],
+        [
+          "3",
+          "02/11 – 16/11/2026",
+          "Xét duyệt vòng 2 cấp trường",
+          "Phòng QLKH&HTQT"
+        ],
+        [
+          "4",
+          "20/11/2026",
+          "Công bố kết quả và mã đề tài",
+          "Phòng QLKH&HTQT"
+        ],
+        [
+          "5",
+          "23/11 – 04/12/2026",
+          "Ký hợp đồng và tạm ứng 60% kinh phí",
+          "Phòng TC-KT"
+        ],
+        [
+          "6",
+          "Tháng 3 – 4/2027",
+          "Báo cáo tiến độ giữa kỳ",
+          "Sinh viên, GVHD"
+        ],
+        [
+          "7",
+          "Tháng 8 – 10/2027",
+          "Nghiệm thu đề tài theo loại",
+          "Phòng QLKH&HTQT"
+        ]
+      ],
+      "widths": [
+        0.08,
+        0.24,
+        0.43,
+        0.25
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Danh mục biểu mẫu kèm theo gồm: Mẫu SV-01 Phiếu đăng ký; Mẫu SV-02 Thuyết minh đề tài; Mẫu SV-03 Dự toán kinh phí; Mẫu SV-04 Báo cáo tiến độ; Mẫu SV-05 Phiếu chấm nghiệm thu; Mẫu SV-06 Đơn đề nghị quy đổi tín chỉ; Mẫu SV-07 Bản khai báo sử dụng công cụ trí tuệ nhân tạo. Các biểu mẫu được đăng tải trên Cổng SV-NCKH và có giá trị như bản giấy."
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "doc_id": "B1",
+  "file_name": "B1_huong-dan-gvhd-thuc-tap-doanh-nghiep-ke-toan-khoa-2023.pdf",
+  "title": "HƯỚNG DẪN NỘI BỘ DÀNH CHO GIẢNG VIÊN HƯỚNG DẪN THỰC TẬP DOANH NGHIỆP NGÀNH KẾ TOÁN KHÓA 2023",
+  "parent_org": "KHOA KINH TẾ",
+  "issuer": "BỘ MÔN KẾ TOÁN",
+  "number": "Số: 0457/HD-BMKT",
+  "place_date": "TP. Hồ Chí Minh, ngày 16 tháng 11 năm 2026",
+  "confidential": "TÀI LIỆU NỘI BỘ – CẤP ĐỘ 1 – BỘ MÔN KẾ TOÁN",
+  "blocks": [
+    {
+      "type": "h1",
+      "text": "I. CĂN CỨ VÀ MỤC ĐÍCH"
+    },
+    {
+      "type": "p",
+      "text": "Căn cứ chương trình đào tạo trình độ đại học ngành Kế toán áp dụng cho khóa tuyển sinh năm 2023 (lớp DHKT19A, DHKT19B, DHKT19C và DHKT19D); căn cứ Quy định về thực tập doanh nghiệp của Khoa Kinh tế số 0392/QĐ-KKT ngày 14 tháng 10 năm 2026 (văn bản giả lập); căn cứ các thỏa thuận hợp tác đào tạo đã ký giữa Bộ môn Kế toán và các doanh nghiệp đối tác trong giai đoạn 2024–2026;"
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn Kế toán ban hành Hướng dẫn nội bộ này dành riêng cho giảng viên hướng dẫn (sau đây gọi là GVHD) học phần Thực tập doanh nghiệp (mã học phần 4203015, 5 tín chỉ) của sinh viên ngành Kế toán khóa 2023. Hướng dẫn không phổ biến cho sinh viên; các nội dung sinh viên cần biết được trích riêng trong Sổ tay thực tập phát hành qua hệ thống LMS."
+    },
+    {
+      "type": "p",
+      "text": "Mục đích của Hướng dẫn là thống nhất cách phân công, theo dõi, thăm doanh nghiệp và chấm điểm báo cáo thực tập giữa các GVHD; bảo đảm việc đánh giá công bằng giữa các nhóm sinh viên thực tập tại các doanh nghiệp có quy mô và lĩnh vực khác nhau; duy trì quan hệ tốt với doanh nghiệp đối tác."
+    },
+    {
+      "type": "h1",
+      "text": "II. THÔNG TIN CHUNG VỀ ĐỢT THỰC TẬP"
+    },
+    {
+      "type": "h2",
+      "text": "1. Thời gian và quy mô"
+    },
+    {
+      "type": "p",
+      "text": "Đợt thực tập doanh nghiệp của khóa 2023 diễn ra trong 10 tuần, từ ngày 18 tháng 01 năm 2027 đến ngày 28 tháng 3 năm 2027, nghỉ Tết Nguyên đán từ ngày 03 tháng 02 đến ngày 14 tháng 02 năm 2027 và không tính vào thời gian thực tập. Tổng số sinh viên đủ điều kiện thực tập theo danh sách của Phòng Đào tạo là 263 sinh viên, trong đó 171 sinh viên được Bộ môn giới thiệu đến doanh nghiệp đối tác và 92 sinh viên tự liên hệ nơi thực tập."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi GVHD hướng dẫn tối đa 12 sinh viên thực tập trong đợt này; trường hợp đặc biệt do thiếu GVHD, Trưởng Bộ môn có thể phân công thêm nhưng không vượt quá 15 sinh viên và GVHD được tính thêm giờ chuẩn cho phần vượt theo quy định chung của Khoa."
+    },
+    {
+      "type": "h2",
+      "text": "2. Phân công GVHD"
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn phân công 22 GVHD gồm 19 giảng viên cơ hữu và 3 giảng viên thỉnh giảng là kế toán trưởng doanh nghiệp. Việc phân công ưu tiên nguyên tắc một GVHD phụ trách trọn nhóm sinh viên tại cùng một doanh nghiệp để thuận tiện cho việc thăm doanh nghiệp. Danh sách phân công chi tiết theo từng sinh viên được gửi riêng qua thư điện tử công vụ vào ngày 08 tháng 01 năm 2027."
+    },
+    {
+      "type": "p",
+      "text": "Đầu mối điều phối chung của đợt thực tập là ThS. Mai Phương Thảo, điện thoại nội bộ số máy lẻ 2417. GVHD liên hệ đầu mối điều phối khi có thay đổi về doanh nghiệp, sinh viên xin chuyển nơi thực tập hoặc phát sinh sự cố."
+    },
+    {
+      "type": "h1",
+      "text": "III. DANH SÁCH DOANH NGHIỆP ĐỐI TÁC"
+    },
+    {
+      "type": "p",
+      "text": "Danh sách dưới đây gồm các doanh nghiệp đã xác nhận tiếp nhận sinh viên khóa 2023 bằng văn bản. Thông tin người liên hệ chỉ sử dụng cho mục đích công việc và không cung cấp cho bên thứ ba."
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Doanh nghiệp",
+        "Lĩnh vực",
+        "Người liên hệ",
+        "Chỉ tiêu (SV)"
+      ],
+      "rows": [
+        [
+          "1",
+          "Công ty TNHH Kiểm toán Sao Phương Nam",
+          "Kiểm toán, tư vấn thuế",
+          "Bà Trần Thị Hồng Vân – Phó Giám đốc",
+          "14"
+        ],
+        [
+          "2",
+          "Công ty CP Thực phẩm Hưng Lộc Phát",
+          "Chế biến thực phẩm",
+          "Ông Lý Minh Đạt – Kế toán trưởng",
+          "18"
+        ],
+        [
+          "3",
+          "Công ty TNHH Dịch vụ Kế toán Minh Triết An",
+          "Dịch vụ kế toán",
+          "Bà Phùng Thị Ánh – Giám đốc",
+          "21"
+        ],
+        [
+          "4",
+          "Công ty CP Logistics Cảng Xanh Bình Dương",
+          "Kho vận, logistics",
+          "Ông Vương Đức Lâm – Trưởng phòng TC-KT",
+          "16"
+        ],
+        [
+          "5",
+          "Công ty TNHH Nhựa Kỹ thuật Thuận Phát Tân",
+          "Sản xuất nhựa",
+          "Bà Đỗ Ngọc Hạnh – Kế toán trưởng",
+          "12"
+        ],
+        [
+          "6",
+          "Công ty CP Dược phẩm Thiên Ân Mekong",
+          "Dược phẩm",
+          "Ông Tô Gia Bảo – Kế toán tổng hợp",
+          "15"
+        ],
+        [
+          "7",
+          "Công ty TNHH Thương mại Điện máy Hòa Bình Xanh",
+          "Thương mại bán lẻ",
+          "Bà La Thị Mỹ Duyên – Trưởng phòng KT",
+          "20"
+        ],
+        [
+          "8",
+          "Công ty CP Xây dựng Nam Thành Đô",
+          "Xây dựng",
+          "Ông Cao Văn Tín – Kế toán trưởng",
+          "13"
+        ],
+        [
+          "9",
+          "Công ty TNHH Phần mềm Kế toán SmartLedger Việt",
+          "Phần mềm kế toán",
+          "Bà Ninh Thị Thu Trang – Trưởng nhóm triển khai",
+          "10"
+        ],
+        [
+          "10",
+          "Ngân hàng TMCP Phương Đông Mới – Chi nhánh Gò Vấp",
+          "Ngân hàng",
+          "Ông Hà Quang Nhật – Phó Giám đốc CN",
+          "11"
+        ],
+        [
+          "11",
+          "Công ty CP May mặc Sông Tiền",
+          "Dệt may",
+          "Bà Kha Thị Lệ Hằng – Kế toán trưởng",
+          "21"
+        ]
+      ],
+      "widths": [
+        0.06,
+        0.36,
+        0.18,
+        0.28,
+        0.12
+      ],
+      "caption": "Bảng 1. Doanh nghiệp đối tác tiếp nhận sinh viên khóa 2023"
+    },
+    {
+      "type": "p",
+      "text": "Tổng chỉ tiêu của 11 doanh nghiệp đối tác là 171 sinh viên. Công ty TNHH Kiểm toán Sao Phương Nam nhận 14 sinh viên và yêu cầu sinh viên ký cam kết bảo mật thông tin khách hàng kiểm toán trước ngày bắt đầu thực tập; GVHD nhắc sinh viên nộp bản cam kết cho đại diện công ty trong buổi làm việc đầu tiên."
+    },
+    {
+      "type": "p",
+      "text": "Đối với Ngân hàng TMCP Phương Đông Mới – Chi nhánh Gò Vấp, sinh viên chỉ được tiếp cận chứng từ đã được che thông tin khách hàng; báo cáo thực tập không được nêu số tài khoản, tên khách hàng hoặc số dư tiền gửi cụ thể. Đối với Công ty TNHH Phần mềm Kế toán SmartLedger Việt, nội dung thực tập tập trung vào triển khai phần mềm, do đó GVHD hướng dẫn sinh viên chọn đề tài về tổ chức hệ thống thông tin kế toán."
+    },
+    {
+      "type": "h2",
+      "text": "Sinh viên tự liên hệ nơi thực tập"
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên tự liên hệ phải nộp giấy xác nhận tiếp nhận của doanh nghiệp có chữ ký, đóng dấu chậm nhất ngày 11 tháng 01 năm 2027. GVHD kiểm tra doanh nghiệp còn hoạt động trên Cổng thông tin quốc gia về đăng ký doanh nghiệp, có bộ phận kế toán từ 2 người trở lên hoặc sử dụng dịch vụ kế toán có hợp đồng. Doanh nghiệp không đáp ứng điều kiện này, GVHD đề nghị sinh viên chuyển sang doanh nghiệp đối tác còn chỉ tiêu."
+    },
+    {
+      "type": "h1",
+      "text": "IV. NHIỆM VỤ CỦA GIẢNG VIÊN HƯỚNG DẪN"
+    },
+    {
+      "type": "h2",
+      "text": "1. Trước khi sinh viên đến doanh nghiệp"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Tổ chức buổi gặp nhóm sinh viên trong tuần từ 11 đến 15 tháng 01 năm 2027, phổ biến nội quy doanh nghiệp, yêu cầu về trang phục, giờ giấc, đạo đức nghề nghiệp kế toán và bảo mật dữ liệu.",
+        "Định hướng đề tài báo cáo: mỗi sinh viên chọn một phần hành kế toán cụ thể (ví dụ kế toán doanh thu, công nợ phải thu, hàng tồn kho, tiền lương, tài sản cố định, chi phí sản xuất và giá thành, thuế giá trị gia tăng) gắn với đơn vị thực tập.",
+        "Tạo nhóm trao đổi trực tuyến của nhóm hướng dẫn, ghi rõ khung giờ GVHD phản hồi; không yêu cầu sinh viên gửi chứng từ có thông tin mật của doanh nghiệp qua nhóm trao đổi."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "2. Trong thời gian thực tập"
+    },
+    {
+      "type": "p",
+      "text": "GVHD theo dõi nhật ký thực tập hằng tuần của sinh viên trên LMS; mỗi sinh viên phải cập nhật nhật ký trước 20 giờ 00 tối Chủ nhật hằng tuần. Sinh viên không cập nhật nhật ký 2 tuần liên tiếp, GVHD liên hệ trực tiếp sinh viên và người hướng dẫn tại doanh nghiệp để xác minh, đồng thời báo đầu mối điều phối."
+    },
+    {
+      "type": "p",
+      "text": "GVHD duyệt đề cương báo cáo chậm nhất cuối tuần thực tập thứ 3, góp ý bản thảo lần 1 vào tuần thứ 6 và bản thảo lần 2 vào tuần thứ 9. Mỗi lần góp ý phải ghi nhận xét trực tiếp trên tệp hoặc phiếu góp ý, lưu lại làm minh chứng hướng dẫn."
+    },
+    {
+      "type": "h2",
+      "text": "3. Thăm doanh nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi GVHD có trách nhiệm thăm mỗi doanh nghiệp có sinh viên mình hướng dẫn ít nhất 2 lần trong đợt thực tập: lần thứ nhất trực tiếp tại doanh nghiệp, lần thứ hai có thể trực tiếp hoặc trực tuyến. Trường hợp sinh viên tự liên hệ ở tỉnh xa, cả hai lần có thể thực hiện trực tuyến nhưng phải có biên bản xác nhận của doanh nghiệp."
+    },
+    {
+      "type": "p",
+      "text": "Phụ cấp đi lại thăm doanh nghiệp được thanh toán theo mức 180.000 đồng/lượt đối với doanh nghiệp trong địa bàn TP. Hồ Chí Minh và 320.000 đồng/lượt đối với doanh nghiệp ngoài TP. Hồ Chí Minh, tối đa 4 lượt/GVHD trong đợt thực tập. Hồ sơ thanh toán gồm biên bản thăm doanh nghiệp có xác nhận và giấy đi đường, nộp cho Thư ký Bộ môn trước ngày 15 tháng 4 năm 2027."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Đợt thăm",
+        "Thời gian",
+        "Nội dung trọng tâm",
+        "Hình thức"
+      ],
+      "rows": [
+        [
+          "Đợt 1",
+          "25/01/2027 – 02/02/2027",
+          "Làm quen người hướng dẫn tại doanh nghiệp; xác nhận vị trí, phần hành; kiểm tra điều kiện làm việc của sinh viên",
+          "Trực tiếp"
+        ],
+        [
+          "Đợt 2",
+          "22/02/2027 – 05/3/2027",
+          "Đánh giá tiến độ, thái độ; trao đổi về số liệu sử dụng trong báo cáo; xin ý kiến doanh nghiệp về chương trình đào tạo",
+          "Trực tiếp hoặc trực tuyến"
+        ],
+        [
+          "Đợt bổ sung",
+          "15/3/2027 – 24/3/2027",
+          "Chỉ áp dụng khi có sinh viên vi phạm kỷ luật hoặc doanh nghiệp có đề nghị",
+          "Trực tiếp"
+        ]
+      ],
+      "widths": [
+        0.14,
+        0.22,
+        0.46,
+        0.18
+      ],
+      "caption": "Bảng 2. Lịch thăm doanh nghiệp"
+    },
+    {
+      "type": "p",
+      "text": "Trong buổi thăm doanh nghiệp, GVHD sử dụng mẫu biên bản BB-TDN-KT23, ghi nhận ý kiến của người hướng dẫn tại doanh nghiệp về 5 nội dung: chuyên cần, thái độ, kỹ năng nghiệp vụ, kỹ năng sử dụng phần mềm và khả năng giao tiếp. GVHD đồng thời khảo sát nhu cầu tuyển dụng của doanh nghiệp đối với sinh viên tốt nghiệp năm 2027 theo phiếu khảo sát ngắn của Khoa."
+    },
+    {
+      "type": "h1",
+      "text": "V. CÁCH CHẤM BÁO CÁO THỰC TẬP"
+    },
+    {
+      "type": "h2",
+      "text": "1. Cơ cấu điểm học phần"
+    },
+    {
+      "type": "p",
+      "text": "Điểm học phần Thực tập doanh nghiệp được tính theo thang điểm 10, làm tròn đến một chữ số thập phân, gồm ba thành phần: điểm đánh giá của doanh nghiệp chiếm 30%, điểm quá trình do GVHD đánh giá chiếm 20% và điểm báo cáo thực tập viết chiếm 50%."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Thành phần",
+        "Người đánh giá",
+        "Tỷ trọng",
+        "Căn cứ đánh giá"
+      ],
+      "rows": [
+        [
+          "Đánh giá của doanh nghiệp",
+          "Người hướng dẫn tại doanh nghiệp",
+          "30%",
+          "Phiếu đánh giá của doanh nghiệp mẫu DG-DN-KT23, có chữ ký, đóng dấu"
+        ],
+        [
+          "Điểm quá trình",
+          "GVHD",
+          "20%",
+          "Nhật ký tuần, mức độ tham gia các buổi gặp, tiến độ nộp đề cương và bản thảo"
+        ],
+        [
+          "Báo cáo thực tập",
+          "GVHD và giảng viên chấm thứ hai",
+          "50%",
+          "Rubric chấm báo cáo tại Bảng 4"
+        ]
+      ],
+      "widths": [
+        0.22,
+        0.24,
+        0.12,
+        0.42
+      ],
+      "caption": "Bảng 3. Cơ cấu điểm học phần Thực tập doanh nghiệp"
+    },
+    {
+      "type": "h2",
+      "text": "2. Yêu cầu hình thức báo cáo"
+    },
+    {
+      "type": "p",
+      "text": "Báo cáo thực tập dài từ 35 đến 50 trang nội dung chính, không tính phụ lục; trình bày khổ A4, phông chữ Times New Roman cỡ 13, giãn dòng 1,3. Báo cáo gồm 4 chương: tổng quan về đơn vị thực tập; cơ sở lý thuyết của phần hành; thực trạng công tác kế toán phần hành tại đơn vị; nhận xét và kiến nghị. Phụ lục phải có tối thiểu 6 chứng từ hoặc sổ kế toán minh họa đã che thông tin nhạy cảm."
+    },
+    {
+      "type": "p",
+      "text": "Sinh viên nộp bản điện tử trên LMS và 01 bản in có xác nhận của doanh nghiệp tại Văn phòng Khoa chậm nhất 17 giờ 00 ngày 08 tháng 4 năm 2027. Báo cáo nộp trễ đến 3 ngày bị trừ 1,0 điểm báo cáo; trễ quá 3 ngày không được chấm và sinh viên phải đăng ký thực tập lại ở đợt sau."
+    },
+    {
+      "type": "h2",
+      "text": "3. Rubric chấm báo cáo"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Tiêu chí",
+        "Điểm tối đa",
+        "Yêu cầu để đạt mức tối đa"
+      ],
+      "rows": [
+        [
+          "Giới thiệu đơn vị và tổ chức bộ máy kế toán",
+          "1,5",
+          "Mô tả chính xác, có sơ đồ bộ máy kế toán, nêu được chế độ kế toán và phần mềm đơn vị áp dụng"
+        ],
+        [
+          "Cơ sở lý thuyết",
+          "1,5",
+          "Trích dẫn đúng chuẩn mực, thông tư hiện hành; không sao chép giáo trình nguyên văn quá 5 dòng liên tục"
+        ],
+        [
+          "Thực trạng phần hành",
+          "4,0",
+          "Có quy trình luân chuyển chứng từ, ví dụ định khoản với số liệu thực tế của tối thiểu một tháng, đối chiếu sổ chi tiết và sổ cái"
+        ],
+        [
+          "Nhận xét, kiến nghị",
+          "2,0",
+          "Ít nhất 3 kiến nghị khả thi, gắn với hạn chế đã phát hiện, có ước tính tác động"
+        ],
+        [
+          "Hình thức, trình bày",
+          "1,0",
+          "Đúng định dạng, không lỗi chính tả quá 10 lỗi, danh mục tài liệu tham khảo đầy đủ"
+        ],
+        [
+          "Tổng",
+          "10,0",
+          ""
+        ]
+      ],
+      "widths": [
+        0.32,
+        0.14,
+        0.54
+      ],
+      "caption": "Bảng 4. Rubric chấm báo cáo thực tập"
+    },
+    {
+      "type": "p",
+      "text": "Mỗi báo cáo được chấm bởi hai giảng viên độc lập là GVHD và một giảng viên chấm thứ hai do Bộ môn phân công chéo. Nếu điểm của hai người chấm chênh lệch từ 1,5 điểm trở lên, Trưởng nhóm chuyên môn Kế toán tài chính tổ chức chấm thứ ba và điểm cuối cùng là trung bình của hai điểm gần nhau nhất."
+    },
+    {
+      "type": "p",
+      "text": "Báo cáo có tỷ lệ trùng lặp trên hệ thống kiểm tra đạo văn của Thư viện vượt 28% bị trả lại để chỉnh sửa trong 5 ngày; nếu nộp lại vẫn vượt 28% thì điểm báo cáo bằng 0. GVHD đính kèm kết quả kiểm tra trùng lặp vào hồ sơ chấm."
+    },
+    {
+      "type": "h1",
+      "text": "VI. MẪU NHẬN XÉT CỦA GIẢNG VIÊN HƯỚNG DẪN"
+    },
+    {
+      "type": "p",
+      "text": "GVHD sử dụng mẫu nhận xét NX-TT-KT23 cho từng sinh viên. Phần nhận xét phải được viết riêng cho từng sinh viên, dài tối thiểu 120 chữ, không sao chép nhận xét giữa các sinh viên trong cùng doanh nghiệp. Bộ môn khuyến khích GVHD sử dụng cấu trúc bốn đoạn dưới đây để bảo đảm nhận xét đầy đủ."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Đoạn 1 – Thái độ và tinh thần làm việc: ví dụ 'Sinh viên chấp hành tốt nội quy đơn vị, cập nhật nhật ký đầy đủ 10/10 tuần, chủ động xin tham gia công việc kê khai thuế quý I.'",
+        "Đoạn 2 – Năng lực chuyên môn thể hiện trong báo cáo: ví dụ 'Phần thực trạng trình bày rõ quy trình ghi nhận doanh thu bán hàng qua kênh thương mại điện tử, có đối chiếu số liệu giữa sổ chi tiết và báo cáo của sàn.'",
+        "Đoạn 3 – Hạn chế cần khắc phục: ví dụ 'Kiến nghị về trích lập dự phòng phải thu khó đòi chưa nêu căn cứ tuổi nợ cụ thể.'",
+        "Đoạn 4 – Kết luận đề nghị: đồng ý hoặc không đồng ý cho sinh viên bảo vệ, kèm điểm quá trình đề xuất."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Mẫu nhận xét có chữ ký của GVHD được nộp kèm bảng điểm quá trình cho Thư ký Bộ môn chậm nhất ngày 16 tháng 4 năm 2027. Bộ môn tổng hợp điểm và công bố cho sinh viên trước ngày 26 tháng 4 năm 2027; sinh viên có quyền đề nghị phúc khảo điểm báo cáo trong vòng 5 ngày làm việc kể từ ngày công bố."
+    },
+    {
+      "type": "h1",
+      "text": "VII. XỬ LÝ CÁC TÌNH HUỐNG PHÁT SINH"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Tình huống",
+        "Cách xử lý của GVHD"
+      ],
+      "rows": [
+        [
+          "Sinh viên nghỉ thực tập không phép từ 5 ngày làm việc trở lên",
+          "Lập biên bản với doanh nghiệp, báo đầu mối điều phối trong 24 giờ; sinh viên có thể bị đánh giá không đạt học phần"
+        ],
+        [
+          "Doanh nghiệp đột ngột dừng tiếp nhận sinh viên",
+          "Báo đầu mối điều phối để chuyển sinh viên sang doanh nghiệp còn chỉ tiêu; thời gian đã thực tập được bảo lưu nếu có xác nhận"
+        ],
+        [
+          "Sinh viên bị yêu cầu làm công việc không liên quan đến kế toán quá 50% thời gian",
+          "Trao đổi với người hướng dẫn tại doanh nghiệp; nếu không cải thiện sau 1 tuần thì đề nghị chuyển nơi thực tập"
+        ],
+        [
+          "Sinh viên sử dụng số liệu doanh nghiệp trái với cam kết bảo mật",
+          "Yêu cầu gỡ bỏ ngay, báo cáo Trưởng Bộ môn; điểm báo cáo có thể bị hủy tùy mức độ"
+        ],
+        [
+          "Sinh viên gặp tai nạn tại nơi thực tập",
+          "Liên hệ gia đình, Phòng Công tác sinh viên và bảo hiểm y tế; báo cáo Khoa bằng văn bản trong ngày"
+        ]
+      ],
+      "widths": [
+        0.4,
+        0.6
+      ],
+      "caption": "Bảng 5. Hướng dẫn xử lý một số tình huống"
+    },
+    {
+      "type": "p",
+      "text": "Các tình huống khác chưa được nêu trong Hướng dẫn này, GVHD chủ động trao đổi với đầu mối điều phối hoặc Trưởng Bộ môn để thống nhất cách giải quyết, bảo đảm quyền lợi của sinh viên và giữ gìn uy tín của Trường với doanh nghiệp."
+    },
+    {
+      "type": "h1",
+      "text": "VIII. TỔNG KẾT ĐỢT THỰC TẬP"
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn tổ chức họp tổng kết đợt thực tập vào ngày 06 tháng 5 năm 2027. Mỗi GVHD gửi báo cáo tóm tắt tối đa 2 trang gồm số sinh viên hướng dẫn, phân bố điểm, nhận xét của doanh nghiệp và đề xuất điều chỉnh chương trình đào tạo trước ngày 29 tháng 4 năm 2027."
+    },
+    {
+      "type": "p",
+      "text": "Bộ môn dự kiến trao tặng giấy chứng nhận đối tác đào tạo tiêu biểu cho 3 doanh nghiệp có tỷ lệ sinh viên đạt điểm từ 8,0 trở lên cao nhất và có ý kiến góp ý chương trình đào tạo chất lượng. GVHD có từ 80% sinh viên được doanh nghiệp đánh giá tốt trở lên được ghi nhận khi đánh giá, xếp loại viên chức cuối năm học."
+    },
+    {
+      "type": "h1",
+      "text": "PHỤ LỤC. DANH MỤC HỒ SƠ GVHD NỘP SAU ĐỢT THỰC TẬP"
+    },
+    {
+      "type": "table",
+      "header": [
+        "STT",
+        "Hồ sơ",
+        "Số lượng",
+        "Hạn nộp"
+      ],
+      "rows": [
+        [
+          "1",
+          "Danh sách sinh viên hướng dẫn có xác nhận của đầu mối điều phối",
+          "01 bản",
+          "16/4/2027"
+        ],
+        [
+          "2",
+          "Biên bản thăm doanh nghiệp mẫu BB-TDN-KT23",
+          "Theo số lượt thăm",
+          "15/4/2027"
+        ],
+        [
+          "3",
+          "Mẫu nhận xét NX-TT-KT23 của từng sinh viên",
+          "01 bản/sinh viên",
+          "16/4/2027"
+        ],
+        [
+          "4",
+          "Bảng điểm quá trình và điểm báo cáo (bản ký và bản điện tử)",
+          "01 bộ",
+          "16/4/2027"
+        ],
+        [
+          "5",
+          "Kết quả kiểm tra trùng lặp báo cáo",
+          "01 tệp/sinh viên",
+          "16/4/2027"
+        ],
+        [
+          "6",
+          "Báo cáo tóm tắt kết quả hướng dẫn",
+          "01 bản",
+          "29/4/2027"
+        ]
+      ],
+      "widths": [
+        0.08,
+        0.52,
+        0.2,
+        0.2
+      ],
+      "caption": "Bảng 6. Danh mục hồ sơ của GVHD"
+    },
+    {
+      "type": "p",
+      "text": "Thư ký Bộ môn tiếp nhận hồ sơ, kiểm tra đủ thành phần và ký nhận vào sổ giao nhận. Hồ sơ còn thiếu được trả lại trong 2 ngày làm việc. GVHD chưa nộp đủ hồ sơ sẽ chưa được tổng hợp khối lượng giờ chuẩn hướng dẫn thực tập vào bảng thanh toán vượt giờ của năm học 2026–2027."
+    },
+    {
+      "type": "p",
+      "text": "Bản điện tử của toàn bộ hồ sơ được lưu trong thư mục 'ThucTap_K2023' trên ổ lưu trữ dùng chung của Bộ môn; GVHD đặt tên tệp theo cú pháp 'MãSV_HọTên_LoạiHồSơ' để thuận tiện tra cứu khi có kiểm định chất lượng chương trình đào tạo."
+    }
+  ],
+  "signature": {
+    "title": "TRƯỞNG BỘ MÔN",
+    "name": "TS. Lâm Thị Ngọc Hân"
+  },
+  "recipients": [
+    "Ban Chủ nhiệm Khoa Kinh tế (để báo cáo)",
+    "Giảng viên hướng dẫn thực tập khóa 2023",
+    "Lưu: BMKT"
+  ],
+  "questions": [
+    {
+      "question": "Mỗi giảng viên được hướng dẫn tối đa bao nhiêu sinh viên thực tập doanh nghiệp ngành Kế toán khóa 2023?",
+      "expected_answer": "Tối đa 12 sinh viên (trường hợp đặc biệt không vượt quá 15).",
+      "evidence": "Mỗi GVHD hướng dẫn tối đa 12 sinh viên thực tập trong đợt này"
+    },
+    {
+      "question": "Điểm đánh giá của doanh nghiệp chiếm bao nhiêu phần trăm điểm học phần thực tập?",
+      "expected_answer": "30% (quá trình 20%, báo cáo viết 50%).",
+      "evidence": "điểm đánh giá của doanh nghiệp chiếm 30%, điểm quá trình do GVHD đánh giá chiếm 20% và điểm báo cáo thực tập viết chiếm 50%"
+    },
+    {
+      "question": "Giảng viên đi thăm doanh nghiệp thực tập ngoài TP. Hồ Chí Minh được phụ cấp đi lại bao nhiêu mỗi lượt?",
+      "expected_answer": "320.000 đồng/lượt (trong TP. HCM là 180.000 đồng/lượt).",
+      "evidence": "320.000 đồng/lượt đối với doanh nghiệp ngoài TP. Hồ Chí Minh"
+    }
+  ]
+}
